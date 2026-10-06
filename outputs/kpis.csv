@@ -1,0 +1,2 @@
+trips,active_days,avg_trip_distance_miles,median_trip_distance_miles,avg_trip_duration_min,median_trip_duration_min,avg_gross_spend_per_trip,median_gross_spend_per_trip,gross_passenger_spend,gross_spend_per_mile,card_tip_rate
+10353346,90,3.22,1.77,15.23,12.15,27.11,20.91,280720628.15,8.41,0.2284

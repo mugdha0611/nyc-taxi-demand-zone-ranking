@@ -1,0 +1,4 @@
+file,raw_trip_count,out_of_period_count,invalid_in_period_count,clean_trip_count,total_excluded_trip_count,excluded_pct
+yellow_tripdata_2025-01.parquet,3475226,22,233077,3242127,233099,6.71
+yellow_tripdata_2025-02.parquet,3577543,31,280967,3296545,280998,7.85
+yellow_tripdata_2025-03.parquet,4145257,33,330550,3814674,330583,7.97

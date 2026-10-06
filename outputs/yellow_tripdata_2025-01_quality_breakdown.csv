@@ -1,0 +1,12 @@
+file,rule,excluded_records,pct_of_study_period_records
+yellow_tripdata_2025-01.parquet,missing_dropoff_datetime,0,0.0
+yellow_tripdata_2025-01.parquet,missing_location,0,0.0
+yellow_tripdata_2025-01.parquet,zero_or_negative_duration,2051,0.06
+yellow_tripdata_2025-01.parquet,short_duration_under_1_min,38060,1.1
+yellow_tripdata_2025-01.parquet,long_duration_over_180_min,1377,0.04
+yellow_tripdata_2025-01.parquet,zero_distance,90893,2.62
+yellow_tripdata_2025-01.parquet,distance_over_100_miles,162,0.0
+yellow_tripdata_2025-01.parquet,negative_fare,144118,4.15
+yellow_tripdata_2025-01.parquet,fare_over_500,55,0.0
+yellow_tripdata_2025-01.parquet,negative_total_amount,63037,1.81
+yellow_tripdata_2025-01.parquet,total_amount_over_1000,3,0.0

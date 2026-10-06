@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large TLC datasets
+data/raw/*
+data/processed/*.parquet
+
+# Generated intermediate data
+data/processed/*.csv
+
+# Python model artifacts
+*.pkl

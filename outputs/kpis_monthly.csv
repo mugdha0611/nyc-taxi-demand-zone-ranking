@@ -1,0 +1,4 @@
+month,trips,active_days,trips_per_day,avg_distance_miles,median_distance_miles,avg_duration_min,median_duration_min,avg_gross_spend,median_gross_spend,gross_passenger_spend,gross_spend_per_mile,card_tip_rate,share_with_cbd_fee
+1,3242127,31,104585.0,3.18,1.7,14.72,11.72,26.77,20.35,86788467.79,8.43,0.2297,0.6587
+2,3296545,28,117734.0,3.13,1.75,15.1,12.18,26.56,20.7,87572151.19,8.49,0.229,0.7414
+3,3814674,31,123054.0,3.34,1.83,15.77,12.52,27.88,21.42,106360009.17,8.34,0.2268,0.7442

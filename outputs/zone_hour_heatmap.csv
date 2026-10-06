@@ -1,0 +1,5906 @@
+pickup_borough,pickup_zone,hour,trips
+Bronx,Allerton/Pelham Gardens,0,16
+Bronx,Allerton/Pelham Gardens,1,11
+Bronx,Allerton/Pelham Gardens,2,5
+Bronx,Allerton/Pelham Gardens,3,8
+Bronx,Allerton/Pelham Gardens,4,35
+Bronx,Allerton/Pelham Gardens,5,58
+Bronx,Allerton/Pelham Gardens,6,66
+Bronx,Allerton/Pelham Gardens,7,51
+Bronx,Allerton/Pelham Gardens,8,82
+Bronx,Allerton/Pelham Gardens,9,44
+Bronx,Allerton/Pelham Gardens,10,26
+Bronx,Allerton/Pelham Gardens,11,23
+Bronx,Allerton/Pelham Gardens,12,30
+Bronx,Allerton/Pelham Gardens,13,28
+Bronx,Allerton/Pelham Gardens,14,28
+Bronx,Allerton/Pelham Gardens,15,25
+Bronx,Allerton/Pelham Gardens,16,22
+Bronx,Allerton/Pelham Gardens,17,22
+Bronx,Allerton/Pelham Gardens,18,26
+Bronx,Allerton/Pelham Gardens,19,19
+Bronx,Allerton/Pelham Gardens,20,25
+Bronx,Allerton/Pelham Gardens,21,29
+Bronx,Allerton/Pelham Gardens,22,21
+Bronx,Allerton/Pelham Gardens,23,17
+Bronx,Bedford Park,0,37
+Bronx,Bedford Park,1,24
+Bronx,Bedford Park,2,16
+Bronx,Bedford Park,3,23
+Bronx,Bedford Park,4,71
+Bronx,Bedford Park,5,31
+Bronx,Bedford Park,6,141
+Bronx,Bedford Park,7,150
+Bronx,Bedford Park,8,149
+Bronx,Bedford Park,9,102
+Bronx,Bedford Park,10,67
+Bronx,Bedford Park,11,66
+Bronx,Bedford Park,12,62
+Bronx,Bedford Park,13,58
+Bronx,Bedford Park,14,67
+Bronx,Bedford Park,15,66
+Bronx,Bedford Park,16,45
+Bronx,Bedford Park,17,50
+Bronx,Bedford Park,18,61
+Bronx,Bedford Park,19,66
+Bronx,Bedford Park,20,90
+Bronx,Bedford Park,21,65
+Bronx,Bedford Park,22,69
+Bronx,Bedford Park,23,61
+Bronx,Belmont,0,31
+Bronx,Belmont,1,18
+Bronx,Belmont,2,13
+Bronx,Belmont,3,5
+Bronx,Belmont,4,20
+Bronx,Belmont,5,56
+Bronx,Belmont,6,37
+Bronx,Belmont,7,52
+Bronx,Belmont,8,63
+Bronx,Belmont,9,55
+Bronx,Belmont,10,42
+Bronx,Belmont,11,43
+Bronx,Belmont,12,41
+Bronx,Belmont,13,41
+Bronx,Belmont,14,52
+Bronx,Belmont,15,49
+Bronx,Belmont,16,61
+Bronx,Belmont,17,35
+Bronx,Belmont,18,30
+Bronx,Belmont,19,42
+Bronx,Belmont,20,37
+Bronx,Belmont,21,49
+Bronx,Belmont,22,37
+Bronx,Belmont,23,32
+Bronx,Bronx Park,0,1
+Bronx,Bronx Park,1,1
+Bronx,Bronx Park,3,2
+Bronx,Bronx Park,4,2
+Bronx,Bronx Park,5,1
+Bronx,Bronx Park,6,14
+Bronx,Bronx Park,7,8
+Bronx,Bronx Park,8,14
+Bronx,Bronx Park,9,8
+Bronx,Bronx Park,10,6
+Bronx,Bronx Park,11,3
+Bronx,Bronx Park,12,7
+Bronx,Bronx Park,13,9
+Bronx,Bronx Park,14,9
+Bronx,Bronx Park,15,13
+Bronx,Bronx Park,16,8
+Bronx,Bronx Park,17,7
+Bronx,Bronx Park,18,7
+Bronx,Bronx Park,19,5
+Bronx,Bronx Park,20,2
+Bronx,Bronx Park,21,6
+Bronx,Bronx Park,22,10
+Bronx,Bronx Park,23,6
+Bronx,Bronxdale,0,22
+Bronx,Bronxdale,1,12
+Bronx,Bronxdale,2,7
+Bronx,Bronxdale,3,3
+Bronx,Bronxdale,4,13
+Bronx,Bronxdale,5,41
+Bronx,Bronxdale,6,73
+Bronx,Bronxdale,7,89
+Bronx,Bronxdale,8,84
+Bronx,Bronxdale,9,58
+Bronx,Bronxdale,10,49
+Bronx,Bronxdale,11,45
+Bronx,Bronxdale,12,30
+Bronx,Bronxdale,13,44
+Bronx,Bronxdale,14,59
+Bronx,Bronxdale,15,46
+Bronx,Bronxdale,16,27
+Bronx,Bronxdale,17,34
+Bronx,Bronxdale,18,29
+Bronx,Bronxdale,19,26
+Bronx,Bronxdale,20,30
+Bronx,Bronxdale,21,36
+Bronx,Bronxdale,22,36
+Bronx,Bronxdale,23,40
+Bronx,City Island,0,4
+Bronx,City Island,1,4
+Bronx,City Island,2,3
+Bronx,City Island,3,5
+Bronx,City Island,6,1
+Bronx,City Island,7,4
+Bronx,City Island,8,4
+Bronx,City Island,9,4
+Bronx,City Island,10,6
+Bronx,City Island,11,3
+Bronx,City Island,12,2
+Bronx,City Island,13,4
+Bronx,City Island,14,2
+Bronx,City Island,15,2
+Bronx,City Island,16,5
+Bronx,City Island,17,9
+Bronx,City Island,18,4
+Bronx,City Island,19,9
+Bronx,City Island,20,7
+Bronx,City Island,21,4
+Bronx,City Island,22,9
+Bronx,City Island,23,10
+Bronx,Claremont/Bathgate,0,41
+Bronx,Claremont/Bathgate,1,14
+Bronx,Claremont/Bathgate,2,12
+Bronx,Claremont/Bathgate,3,10
+Bronx,Claremont/Bathgate,4,41
+Bronx,Claremont/Bathgate,5,96
+Bronx,Claremont/Bathgate,6,113
+Bronx,Claremont/Bathgate,7,186
+Bronx,Claremont/Bathgate,8,130
+Bronx,Claremont/Bathgate,9,91
+Bronx,Claremont/Bathgate,10,57
+Bronx,Claremont/Bathgate,11,67
+Bronx,Claremont/Bathgate,12,59
+Bronx,Claremont/Bathgate,13,80
+Bronx,Claremont/Bathgate,14,91
+Bronx,Claremont/Bathgate,15,69
+Bronx,Claremont/Bathgate,16,67
+Bronx,Claremont/Bathgate,17,49
+Bronx,Claremont/Bathgate,18,31
+Bronx,Claremont/Bathgate,19,47
+Bronx,Claremont/Bathgate,20,49
+Bronx,Claremont/Bathgate,21,46
+Bronx,Claremont/Bathgate,22,41
+Bronx,Claremont/Bathgate,23,39
+Bronx,Co-Op City,0,42
+Bronx,Co-Op City,1,18
+Bronx,Co-Op City,2,12
+Bronx,Co-Op City,3,22
+Bronx,Co-Op City,4,58
+Bronx,Co-Op City,5,103
+Bronx,Co-Op City,6,230
+Bronx,Co-Op City,7,163
+Bronx,Co-Op City,8,169
+Bronx,Co-Op City,9,157
+Bronx,Co-Op City,10,117
+Bronx,Co-Op City,11,115
+Bronx,Co-Op City,12,75
+Bronx,Co-Op City,13,81
+Bronx,Co-Op City,14,70
+Bronx,Co-Op City,15,65
+Bronx,Co-Op City,16,43
+Bronx,Co-Op City,17,72
+Bronx,Co-Op City,18,89
+Bronx,Co-Op City,19,87
+Bronx,Co-Op City,20,103
+Bronx,Co-Op City,21,110
+Bronx,Co-Op City,22,62
+Bronx,Co-Op City,23,52
+Bronx,Country Club,0,5
+Bronx,Country Club,1,3
+Bronx,Country Club,2,3
+Bronx,Country Club,3,2
+Bronx,Country Club,4,10
+Bronx,Country Club,5,7
+Bronx,Country Club,6,4
+Bronx,Country Club,7,9
+Bronx,Country Club,8,6
+Bronx,Country Club,9,5
+Bronx,Country Club,10,2
+Bronx,Country Club,11,3
+Bronx,Country Club,12,3
+Bronx,Country Club,13,1
+Bronx,Country Club,14,1
+Bronx,Country Club,15,5
+Bronx,Country Club,16,3
+Bronx,Country Club,17,1
+Bronx,Country Club,18,3
+Bronx,Country Club,19,4
+Bronx,Country Club,20,2
+Bronx,Country Club,21,3
+Bronx,Country Club,22,7
+Bronx,Crotona Park,0,1
+Bronx,Crotona Park,3,1
+Bronx,Crotona Park,4,1
+Bronx,Crotona Park,5,1
+Bronx,Crotona Park,6,5
+Bronx,Crotona Park,8,1
+Bronx,Crotona Park,9,5
+Bronx,Crotona Park,10,7
+Bronx,Crotona Park,12,2
+Bronx,Crotona Park,13,1
+Bronx,Crotona Park,14,4
+Bronx,Crotona Park,15,1
+Bronx,Crotona Park,16,3
+Bronx,Crotona Park,17,1
+Bronx,Crotona Park,19,3
+Bronx,Crotona Park,22,5
+Bronx,Crotona Park,23,2
+Bronx,Crotona Park East,0,36
+Bronx,Crotona Park East,1,19
+Bronx,Crotona Park East,2,20
+Bronx,Crotona Park East,3,12
+Bronx,Crotona Park East,4,29
+Bronx,Crotona Park East,5,48
+Bronx,Crotona Park East,6,103
+Bronx,Crotona Park East,7,119
+Bronx,Crotona Park East,8,127
+Bronx,Crotona Park East,9,68
+Bronx,Crotona Park East,10,51
+Bronx,Crotona Park East,11,43
+Bronx,Crotona Park East,12,63
+Bronx,Crotona Park East,13,47
+Bronx,Crotona Park East,14,51
+Bronx,Crotona Park East,15,57
+Bronx,Crotona Park East,16,38
+Bronx,Crotona Park East,17,36
+Bronx,Crotona Park East,18,30
+Bronx,Crotona Park East,19,48
+Bronx,Crotona Park East,20,51
+Bronx,Crotona Park East,21,49
+Bronx,Crotona Park East,22,48
+Bronx,Crotona Park East,23,49
+Bronx,East Concourse/Concourse Village,0,84
+Bronx,East Concourse/Concourse Village,1,57
+Bronx,East Concourse/Concourse Village,2,26
+Bronx,East Concourse/Concourse Village,3,38
+Bronx,East Concourse/Concourse Village,4,47
+Bronx,East Concourse/Concourse Village,5,76
+Bronx,East Concourse/Concourse Village,6,215
+Bronx,East Concourse/Concourse Village,7,354
+Bronx,East Concourse/Concourse Village,8,302
+Bronx,East Concourse/Concourse Village,9,188
+Bronx,East Concourse/Concourse Village,10,173
+Bronx,East Concourse/Concourse Village,11,143
+Bronx,East Concourse/Concourse Village,12,129
+Bronx,East Concourse/Concourse Village,13,142
+Bronx,East Concourse/Concourse Village,14,139
+Bronx,East Concourse/Concourse Village,15,161
+Bronx,East Concourse/Concourse Village,16,128
+Bronx,East Concourse/Concourse Village,17,144
+Bronx,East Concourse/Concourse Village,18,107
+Bronx,East Concourse/Concourse Village,19,82
+Bronx,East Concourse/Concourse Village,20,136
+Bronx,East Concourse/Concourse Village,21,120
+Bronx,East Concourse/Concourse Village,22,147
+Bronx,East Concourse/Concourse Village,23,116
+Bronx,East Tremont,0,43
+Bronx,East Tremont,1,23
+Bronx,East Tremont,2,16
+Bronx,East Tremont,3,14
+Bronx,East Tremont,4,45
+Bronx,East Tremont,5,43
+Bronx,East Tremont,6,115
+Bronx,East Tremont,7,155
+Bronx,East Tremont,8,159
+Bronx,East Tremont,9,127
+Bronx,East Tremont,10,84
+Bronx,East Tremont,11,81
+Bronx,East Tremont,12,58
+Bronx,East Tremont,13,90
+Bronx,East Tremont,14,82
+Bronx,East Tremont,15,85
+Bronx,East Tremont,16,66
+Bronx,East Tremont,17,42
+Bronx,East Tremont,18,60
+Bronx,East Tremont,19,54
+Bronx,East Tremont,20,56
+Bronx,East Tremont,21,61
+Bronx,East Tremont,22,58
+Bronx,East Tremont,23,58
+Bronx,Eastchester,0,16
+Bronx,Eastchester,1,11
+Bronx,Eastchester,2,8
+Bronx,Eastchester,3,20
+Bronx,Eastchester,4,30
+Bronx,Eastchester,5,43
+Bronx,Eastchester,6,105
+Bronx,Eastchester,7,91
+Bronx,Eastchester,8,123
+Bronx,Eastchester,9,109
+Bronx,Eastchester,10,59
+Bronx,Eastchester,11,42
+Bronx,Eastchester,12,59
+Bronx,Eastchester,13,56
+Bronx,Eastchester,14,69
+Bronx,Eastchester,15,46
+Bronx,Eastchester,16,42
+Bronx,Eastchester,17,24
+Bronx,Eastchester,18,39
+Bronx,Eastchester,19,22
+Bronx,Eastchester,20,25
+Bronx,Eastchester,21,28
+Bronx,Eastchester,22,37
+Bronx,Eastchester,23,36
+Bronx,Fordham South,0,26
+Bronx,Fordham South,1,18
+Bronx,Fordham South,2,8
+Bronx,Fordham South,3,5
+Bronx,Fordham South,4,28
+Bronx,Fordham South,5,45
+Bronx,Fordham South,6,52
+Bronx,Fordham South,7,89
+Bronx,Fordham South,8,66
+Bronx,Fordham South,9,52
+Bronx,Fordham South,10,27
+Bronx,Fordham South,11,24
+Bronx,Fordham South,12,21
+Bronx,Fordham South,13,42
+Bronx,Fordham South,14,50
+Bronx,Fordham South,15,44
+Bronx,Fordham South,16,28
+Bronx,Fordham South,17,28
+Bronx,Fordham South,18,27
+Bronx,Fordham South,19,23
+Bronx,Fordham South,20,38
+Bronx,Fordham South,21,37
+Bronx,Fordham South,22,39
+Bronx,Fordham South,23,25
+Bronx,Highbridge,0,35
+Bronx,Highbridge,1,26
+Bronx,Highbridge,2,14
+Bronx,Highbridge,3,17
+Bronx,Highbridge,4,51
+Bronx,Highbridge,5,63
+Bronx,Highbridge,6,139
+Bronx,Highbridge,7,220
+Bronx,Highbridge,8,167
+Bronx,Highbridge,9,139
+Bronx,Highbridge,10,83
+Bronx,Highbridge,11,69
+Bronx,Highbridge,12,74
+Bronx,Highbridge,13,85
+Bronx,Highbridge,14,64
+Bronx,Highbridge,15,62
+Bronx,Highbridge,16,49
+Bronx,Highbridge,17,38
+Bronx,Highbridge,18,50
+Bronx,Highbridge,19,63
+Bronx,Highbridge,20,51
+Bronx,Highbridge,21,58
+Bronx,Highbridge,22,68
+Bronx,Highbridge,23,69
+Bronx,Hunts Point,0,59
+Bronx,Hunts Point,1,31
+Bronx,Hunts Point,2,28
+Bronx,Hunts Point,3,18
+Bronx,Hunts Point,4,51
+Bronx,Hunts Point,5,58
+Bronx,Hunts Point,6,65
+Bronx,Hunts Point,7,121
+Bronx,Hunts Point,8,131
+Bronx,Hunts Point,9,77
+Bronx,Hunts Point,10,61
+Bronx,Hunts Point,11,73
+Bronx,Hunts Point,12,48
+Bronx,Hunts Point,13,63
+Bronx,Hunts Point,14,76
+Bronx,Hunts Point,15,100
+Bronx,Hunts Point,16,50
+Bronx,Hunts Point,17,79
+Bronx,Hunts Point,18,60
+Bronx,Hunts Point,19,75
+Bronx,Hunts Point,20,69
+Bronx,Hunts Point,21,52
+Bronx,Hunts Point,22,42
+Bronx,Hunts Point,23,65
+Bronx,Kingsbridge Heights,0,39
+Bronx,Kingsbridge Heights,1,14
+Bronx,Kingsbridge Heights,2,9
+Bronx,Kingsbridge Heights,3,17
+Bronx,Kingsbridge Heights,4,26
+Bronx,Kingsbridge Heights,5,17
+Bronx,Kingsbridge Heights,6,33
+Bronx,Kingsbridge Heights,7,103
+Bronx,Kingsbridge Heights,8,109
+Bronx,Kingsbridge Heights,9,77
+Bronx,Kingsbridge Heights,10,54
+Bronx,Kingsbridge Heights,11,69
+Bronx,Kingsbridge Heights,12,58
+Bronx,Kingsbridge Heights,13,53
+Bronx,Kingsbridge Heights,14,44
+Bronx,Kingsbridge Heights,15,62
+Bronx,Kingsbridge Heights,16,41
+Bronx,Kingsbridge Heights,17,31
+Bronx,Kingsbridge Heights,18,29
+Bronx,Kingsbridge Heights,19,40
+Bronx,Kingsbridge Heights,20,38
+Bronx,Kingsbridge Heights,21,36
+Bronx,Kingsbridge Heights,22,47
+Bronx,Kingsbridge Heights,23,69
+Bronx,Longwood,0,29
+Bronx,Longwood,1,9
+Bronx,Longwood,2,10
+Bronx,Longwood,3,22
+Bronx,Longwood,4,24
+Bronx,Longwood,5,42
+Bronx,Longwood,6,50
+Bronx,Longwood,7,119
+Bronx,Longwood,8,114
+Bronx,Longwood,9,54
+Bronx,Longwood,10,49
+Bronx,Longwood,11,45
+Bronx,Longwood,12,52
+Bronx,Longwood,13,60
+Bronx,Longwood,14,74
+Bronx,Longwood,15,53
+Bronx,Longwood,16,37
+Bronx,Longwood,17,37
+Bronx,Longwood,18,38
+Bronx,Longwood,19,43
+Bronx,Longwood,20,48
+Bronx,Longwood,21,36
+Bronx,Longwood,22,41
+Bronx,Longwood,23,47
+Bronx,Melrose South,0,102
+Bronx,Melrose South,1,51
+Bronx,Melrose South,2,26
+Bronx,Melrose South,3,31
+Bronx,Melrose South,4,59
+Bronx,Melrose South,5,84
+Bronx,Melrose South,6,198
+Bronx,Melrose South,7,202
+Bronx,Melrose South,8,189
+Bronx,Melrose South,9,131
+Bronx,Melrose South,10,114
+Bronx,Melrose South,11,108
+Bronx,Melrose South,12,99
+Bronx,Melrose South,13,149
+Bronx,Melrose South,14,208
+Bronx,Melrose South,15,136
+Bronx,Melrose South,16,119
+Bronx,Melrose South,17,128
+Bronx,Melrose South,18,110
+Bronx,Melrose South,19,116
+Bronx,Melrose South,20,168
+Bronx,Melrose South,21,91
+Bronx,Melrose South,22,116
+Bronx,Melrose South,23,116
+Bronx,Morrisania/Melrose,0,36
+Bronx,Morrisania/Melrose,1,29
+Bronx,Morrisania/Melrose,2,16
+Bronx,Morrisania/Melrose,3,39
+Bronx,Morrisania/Melrose,4,64
+Bronx,Morrisania/Melrose,5,108
+Bronx,Morrisania/Melrose,6,215
+Bronx,Morrisania/Melrose,7,260
+Bronx,Morrisania/Melrose,8,203
+Bronx,Morrisania/Melrose,9,123
+Bronx,Morrisania/Melrose,10,101
+Bronx,Morrisania/Melrose,11,97
+Bronx,Morrisania/Melrose,12,118
+Bronx,Morrisania/Melrose,13,107
+Bronx,Morrisania/Melrose,14,113
+Bronx,Morrisania/Melrose,15,99
+Bronx,Morrisania/Melrose,16,54
+Bronx,Morrisania/Melrose,17,48
+Bronx,Morrisania/Melrose,18,59
+Bronx,Morrisania/Melrose,19,62
+Bronx,Morrisania/Melrose,20,58
+Bronx,Morrisania/Melrose,21,55
+Bronx,Morrisania/Melrose,22,75
+Bronx,Morrisania/Melrose,23,66
+Bronx,Mott Haven/Port Morris,0,279
+Bronx,Mott Haven/Port Morris,1,137
+Bronx,Mott Haven/Port Morris,2,75
+Bronx,Mott Haven/Port Morris,3,101
+Bronx,Mott Haven/Port Morris,4,206
+Bronx,Mott Haven/Port Morris,5,226
+Bronx,Mott Haven/Port Morris,6,250
+Bronx,Mott Haven/Port Morris,7,378
+Bronx,Mott Haven/Port Morris,8,348
+Bronx,Mott Haven/Port Morris,9,220
+Bronx,Mott Haven/Port Morris,10,215
+Bronx,Mott Haven/Port Morris,11,220
+Bronx,Mott Haven/Port Morris,12,196
+Bronx,Mott Haven/Port Morris,13,233
+Bronx,Mott Haven/Port Morris,14,302
+Bronx,Mott Haven/Port Morris,15,317
+Bronx,Mott Haven/Port Morris,16,240
+Bronx,Mott Haven/Port Morris,17,263
+Bronx,Mott Haven/Port Morris,18,255
+Bronx,Mott Haven/Port Morris,19,237
+Bronx,Mott Haven/Port Morris,20,342
+Bronx,Mott Haven/Port Morris,21,229
+Bronx,Mott Haven/Port Morris,22,310
+Bronx,Mott Haven/Port Morris,23,370
+Bronx,Mount Hope,0,63
+Bronx,Mount Hope,1,37
+Bronx,Mount Hope,2,20
+Bronx,Mount Hope,3,24
+Bronx,Mount Hope,4,45
+Bronx,Mount Hope,5,61
+Bronx,Mount Hope,6,143
+Bronx,Mount Hope,7,211
+Bronx,Mount Hope,8,201
+Bronx,Mount Hope,9,127
+Bronx,Mount Hope,10,91
+Bronx,Mount Hope,11,78
+Bronx,Mount Hope,12,92
+Bronx,Mount Hope,13,104
+Bronx,Mount Hope,14,144
+Bronx,Mount Hope,15,120
+Bronx,Mount Hope,16,68
+Bronx,Mount Hope,17,60
+Bronx,Mount Hope,18,60
+Bronx,Mount Hope,19,74
+Bronx,Mount Hope,20,81
+Bronx,Mount Hope,21,68
+Bronx,Mount Hope,22,90
+Bronx,Mount Hope,23,93
+Bronx,Norwood,0,32
+Bronx,Norwood,1,18
+Bronx,Norwood,2,10
+Bronx,Norwood,3,15
+Bronx,Norwood,4,29
+Bronx,Norwood,5,44
+Bronx,Norwood,6,123
+Bronx,Norwood,7,86
+Bronx,Norwood,8,84
+Bronx,Norwood,9,62
+Bronx,Norwood,10,68
+Bronx,Norwood,11,56
+Bronx,Norwood,12,68
+Bronx,Norwood,13,68
+Bronx,Norwood,14,58
+Bronx,Norwood,15,65
+Bronx,Norwood,16,74
+Bronx,Norwood,17,50
+Bronx,Norwood,18,44
+Bronx,Norwood,19,49
+Bronx,Norwood,20,44
+Bronx,Norwood,21,33
+Bronx,Norwood,22,33
+Bronx,Norwood,23,89
+Bronx,Parkchester,0,26
+Bronx,Parkchester,1,15
+Bronx,Parkchester,2,10
+Bronx,Parkchester,3,12
+Bronx,Parkchester,4,47
+Bronx,Parkchester,5,106
+Bronx,Parkchester,6,304
+Bronx,Parkchester,7,389
+Bronx,Parkchester,8,294
+Bronx,Parkchester,9,164
+Bronx,Parkchester,10,105
+Bronx,Parkchester,11,94
+Bronx,Parkchester,12,85
+Bronx,Parkchester,13,95
+Bronx,Parkchester,14,64
+Bronx,Parkchester,15,44
+Bronx,Parkchester,16,46
+Bronx,Parkchester,17,52
+Bronx,Parkchester,18,55
+Bronx,Parkchester,19,39
+Bronx,Parkchester,20,51
+Bronx,Parkchester,21,36
+Bronx,Parkchester,22,37
+Bronx,Parkchester,23,26
+Bronx,Pelham Bay,0,12
+Bronx,Pelham Bay,1,7
+Bronx,Pelham Bay,2,5
+Bronx,Pelham Bay,3,5
+Bronx,Pelham Bay,4,8
+Bronx,Pelham Bay,5,20
+Bronx,Pelham Bay,6,66
+Bronx,Pelham Bay,7,40
+Bronx,Pelham Bay,8,31
+Bronx,Pelham Bay,9,20
+Bronx,Pelham Bay,10,13
+Bronx,Pelham Bay,11,14
+Bronx,Pelham Bay,12,16
+Bronx,Pelham Bay,13,19
+Bronx,Pelham Bay,14,12
+Bronx,Pelham Bay,15,12
+Bronx,Pelham Bay,16,8
+Bronx,Pelham Bay,17,10
+Bronx,Pelham Bay,18,16
+Bronx,Pelham Bay,19,19
+Bronx,Pelham Bay,20,17
+Bronx,Pelham Bay,21,13
+Bronx,Pelham Bay,22,20
+Bronx,Pelham Bay,23,17
+Bronx,Pelham Bay Park,0,2
+Bronx,Pelham Bay Park,3,1
+Bronx,Pelham Bay Park,4,1
+Bronx,Pelham Bay Park,5,2
+Bronx,Pelham Bay Park,6,2
+Bronx,Pelham Bay Park,7,5
+Bronx,Pelham Bay Park,8,3
+Bronx,Pelham Bay Park,9,3
+Bronx,Pelham Bay Park,10,2
+Bronx,Pelham Bay Park,11,2
+Bronx,Pelham Bay Park,12,1
+Bronx,Pelham Bay Park,13,3
+Bronx,Pelham Bay Park,14,2
+Bronx,Pelham Bay Park,15,5
+Bronx,Pelham Bay Park,16,2
+Bronx,Pelham Bay Park,17,2
+Bronx,Pelham Bay Park,18,3
+Bronx,Pelham Bay Park,19,3
+Bronx,Pelham Bay Park,20,3
+Bronx,Pelham Bay Park,21,3
+Bronx,Pelham Bay Park,22,1
+Bronx,Pelham Bay Park,23,2
+Bronx,Pelham Parkway,0,16
+Bronx,Pelham Parkway,1,13
+Bronx,Pelham Parkway,2,4
+Bronx,Pelham Parkway,3,10
+Bronx,Pelham Parkway,4,15
+Bronx,Pelham Parkway,5,24
+Bronx,Pelham Parkway,6,90
+Bronx,Pelham Parkway,7,68
+Bronx,Pelham Parkway,8,91
+Bronx,Pelham Parkway,9,35
+Bronx,Pelham Parkway,10,31
+Bronx,Pelham Parkway,11,35
+Bronx,Pelham Parkway,12,34
+Bronx,Pelham Parkway,13,41
+Bronx,Pelham Parkway,14,36
+Bronx,Pelham Parkway,15,31
+Bronx,Pelham Parkway,16,30
+Bronx,Pelham Parkway,17,43
+Bronx,Pelham Parkway,18,29
+Bronx,Pelham Parkway,19,33
+Bronx,Pelham Parkway,20,30
+Bronx,Pelham Parkway,21,22
+Bronx,Pelham Parkway,22,33
+Bronx,Pelham Parkway,23,55
+Bronx,Rikers Island,9,1
+Bronx,Rikers Island,18,1
+Bronx,Rikers Island,20,1
+Bronx,Rikers Island,22,1
+Bronx,Rikers Island,23,1
+Bronx,Riverdale/North Riverdale/Fieldston,0,12
+Bronx,Riverdale/North Riverdale/Fieldston,1,6
+Bronx,Riverdale/North Riverdale/Fieldston,2,5
+Bronx,Riverdale/North Riverdale/Fieldston,3,2
+Bronx,Riverdale/North Riverdale/Fieldston,4,5
+Bronx,Riverdale/North Riverdale/Fieldston,5,14
+Bronx,Riverdale/North Riverdale/Fieldston,6,31
+Bronx,Riverdale/North Riverdale/Fieldston,7,59
+Bronx,Riverdale/North Riverdale/Fieldston,8,48
+Bronx,Riverdale/North Riverdale/Fieldston,9,39
+Bronx,Riverdale/North Riverdale/Fieldston,10,33
+Bronx,Riverdale/North Riverdale/Fieldston,11,35
+Bronx,Riverdale/North Riverdale/Fieldston,12,35
+Bronx,Riverdale/North Riverdale/Fieldston,13,23
+Bronx,Riverdale/North Riverdale/Fieldston,14,23
+Bronx,Riverdale/North Riverdale/Fieldston,15,31
+Bronx,Riverdale/North Riverdale/Fieldston,16,16
+Bronx,Riverdale/North Riverdale/Fieldston,17,35
+Bronx,Riverdale/North Riverdale/Fieldston,18,30
+Bronx,Riverdale/North Riverdale/Fieldston,19,24
+Bronx,Riverdale/North Riverdale/Fieldston,20,39
+Bronx,Riverdale/North Riverdale/Fieldston,21,21
+Bronx,Riverdale/North Riverdale/Fieldston,22,29
+Bronx,Riverdale/North Riverdale/Fieldston,23,23
+Bronx,Schuylerville/Edgewater Park,0,34
+Bronx,Schuylerville/Edgewater Park,1,29
+Bronx,Schuylerville/Edgewater Park,2,26
+Bronx,Schuylerville/Edgewater Park,3,18
+Bronx,Schuylerville/Edgewater Park,4,16
+Bronx,Schuylerville/Edgewater Park,5,43
+Bronx,Schuylerville/Edgewater Park,6,65
+Bronx,Schuylerville/Edgewater Park,7,113
+Bronx,Schuylerville/Edgewater Park,8,104
+Bronx,Schuylerville/Edgewater Park,9,55
+Bronx,Schuylerville/Edgewater Park,10,49
+Bronx,Schuylerville/Edgewater Park,11,22
+Bronx,Schuylerville/Edgewater Park,12,36
+Bronx,Schuylerville/Edgewater Park,13,58
+Bronx,Schuylerville/Edgewater Park,14,29
+Bronx,Schuylerville/Edgewater Park,15,36
+Bronx,Schuylerville/Edgewater Park,16,32
+Bronx,Schuylerville/Edgewater Park,17,36
+Bronx,Schuylerville/Edgewater Park,18,38
+Bronx,Schuylerville/Edgewater Park,19,40
+Bronx,Schuylerville/Edgewater Park,20,44
+Bronx,Schuylerville/Edgewater Park,21,35
+Bronx,Schuylerville/Edgewater Park,22,68
+Bronx,Schuylerville/Edgewater Park,23,77
+Bronx,Soundview/Bruckner,0,36
+Bronx,Soundview/Bruckner,1,25
+Bronx,Soundview/Bruckner,2,11
+Bronx,Soundview/Bruckner,3,18
+Bronx,Soundview/Bruckner,4,53
+Bronx,Soundview/Bruckner,5,55
+Bronx,Soundview/Bruckner,6,174
+Bronx,Soundview/Bruckner,7,192
+Bronx,Soundview/Bruckner,8,231
+Bronx,Soundview/Bruckner,9,153
+Bronx,Soundview/Bruckner,10,90
+Bronx,Soundview/Bruckner,11,69
+Bronx,Soundview/Bruckner,12,56
+Bronx,Soundview/Bruckner,13,77
+Bronx,Soundview/Bruckner,14,76
+Bronx,Soundview/Bruckner,15,48
+Bronx,Soundview/Bruckner,16,43
+Bronx,Soundview/Bruckner,17,48
+Bronx,Soundview/Bruckner,18,50
+Bronx,Soundview/Bruckner,19,40
+Bronx,Soundview/Bruckner,20,56
+Bronx,Soundview/Bruckner,21,39
+Bronx,Soundview/Bruckner,22,44
+Bronx,Soundview/Bruckner,23,48
+Bronx,Soundview/Castle Hill,0,49
+Bronx,Soundview/Castle Hill,1,23
+Bronx,Soundview/Castle Hill,2,20
+Bronx,Soundview/Castle Hill,3,27
+Bronx,Soundview/Castle Hill,4,71
+Bronx,Soundview/Castle Hill,5,155
+Bronx,Soundview/Castle Hill,6,251
+Bronx,Soundview/Castle Hill,7,274
+Bronx,Soundview/Castle Hill,8,275
+Bronx,Soundview/Castle Hill,9,242
+Bronx,Soundview/Castle Hill,10,132
+Bronx,Soundview/Castle Hill,11,114
+Bronx,Soundview/Castle Hill,12,85
+Bronx,Soundview/Castle Hill,13,115
+Bronx,Soundview/Castle Hill,14,119
+Bronx,Soundview/Castle Hill,15,111
+Bronx,Soundview/Castle Hill,16,44
+Bronx,Soundview/Castle Hill,17,74
+Bronx,Soundview/Castle Hill,18,72
+Bronx,Soundview/Castle Hill,19,66
+Bronx,Soundview/Castle Hill,20,95
+Bronx,Soundview/Castle Hill,21,86
+Bronx,Soundview/Castle Hill,22,68
+Bronx,Soundview/Castle Hill,23,88
+Bronx,Spuyten Duyvil/Kingsbridge,0,48
+Bronx,Spuyten Duyvil/Kingsbridge,1,21
+Bronx,Spuyten Duyvil/Kingsbridge,2,18
+Bronx,Spuyten Duyvil/Kingsbridge,3,15
+Bronx,Spuyten Duyvil/Kingsbridge,4,13
+Bronx,Spuyten Duyvil/Kingsbridge,5,21
+Bronx,Spuyten Duyvil/Kingsbridge,6,38
+Bronx,Spuyten Duyvil/Kingsbridge,7,78
+Bronx,Spuyten Duyvil/Kingsbridge,8,66
+Bronx,Spuyten Duyvil/Kingsbridge,9,49
+Bronx,Spuyten Duyvil/Kingsbridge,10,43
+Bronx,Spuyten Duyvil/Kingsbridge,11,52
+Bronx,Spuyten Duyvil/Kingsbridge,12,56
+Bronx,Spuyten Duyvil/Kingsbridge,13,64
+Bronx,Spuyten Duyvil/Kingsbridge,14,50
+Bronx,Spuyten Duyvil/Kingsbridge,15,69
+Bronx,Spuyten Duyvil/Kingsbridge,16,44
+Bronx,Spuyten Duyvil/Kingsbridge,17,47
+Bronx,Spuyten Duyvil/Kingsbridge,18,60
+Bronx,Spuyten Duyvil/Kingsbridge,19,63
+Bronx,Spuyten Duyvil/Kingsbridge,20,67
+Bronx,Spuyten Duyvil/Kingsbridge,21,69
+Bronx,Spuyten Duyvil/Kingsbridge,22,73
+Bronx,Spuyten Duyvil/Kingsbridge,23,65
+Bronx,University Heights/Morris Heights,0,46
+Bronx,University Heights/Morris Heights,1,30
+Bronx,University Heights/Morris Heights,2,24
+Bronx,University Heights/Morris Heights,3,18
+Bronx,University Heights/Morris Heights,4,52
+Bronx,University Heights/Morris Heights,5,61
+Bronx,University Heights/Morris Heights,6,156
+Bronx,University Heights/Morris Heights,7,203
+Bronx,University Heights/Morris Heights,8,225
+Bronx,University Heights/Morris Heights,9,161
+Bronx,University Heights/Morris Heights,10,129
+Bronx,University Heights/Morris Heights,11,134
+Bronx,University Heights/Morris Heights,12,86
+Bronx,University Heights/Morris Heights,13,82
+Bronx,University Heights/Morris Heights,14,80
+Bronx,University Heights/Morris Heights,15,76
+Bronx,University Heights/Morris Heights,16,56
+Bronx,University Heights/Morris Heights,17,53
+Bronx,University Heights/Morris Heights,18,53
+Bronx,University Heights/Morris Heights,19,76
+Bronx,University Heights/Morris Heights,20,81
+Bronx,University Heights/Morris Heights,21,64
+Bronx,University Heights/Morris Heights,22,70
+Bronx,University Heights/Morris Heights,23,89
+Bronx,Van Cortlandt Park,0,4
+Bronx,Van Cortlandt Park,1,9
+Bronx,Van Cortlandt Park,2,3
+Bronx,Van Cortlandt Park,3,3
+Bronx,Van Cortlandt Park,4,5
+Bronx,Van Cortlandt Park,5,4
+Bronx,Van Cortlandt Park,6,9
+Bronx,Van Cortlandt Park,7,19
+Bronx,Van Cortlandt Park,8,28
+Bronx,Van Cortlandt Park,9,8
+Bronx,Van Cortlandt Park,10,4
+Bronx,Van Cortlandt Park,11,4
+Bronx,Van Cortlandt Park,12,8
+Bronx,Van Cortlandt Park,13,8
+Bronx,Van Cortlandt Park,14,7
+Bronx,Van Cortlandt Park,15,10
+Bronx,Van Cortlandt Park,16,8
+Bronx,Van Cortlandt Park,17,8
+Bronx,Van Cortlandt Park,18,3
+Bronx,Van Cortlandt Park,19,3
+Bronx,Van Cortlandt Park,20,6
+Bronx,Van Cortlandt Park,21,10
+Bronx,Van Cortlandt Park,22,7
+Bronx,Van Cortlandt Park,23,11
+Bronx,Van Cortlandt Village,0,40
+Bronx,Van Cortlandt Village,1,11
+Bronx,Van Cortlandt Village,2,11
+Bronx,Van Cortlandt Village,3,13
+Bronx,Van Cortlandt Village,4,15
+Bronx,Van Cortlandt Village,5,31
+Bronx,Van Cortlandt Village,6,128
+Bronx,Van Cortlandt Village,7,128
+Bronx,Van Cortlandt Village,8,177
+Bronx,Van Cortlandt Village,9,95
+Bronx,Van Cortlandt Village,10,70
+Bronx,Van Cortlandt Village,11,52
+Bronx,Van Cortlandt Village,12,55
+Bronx,Van Cortlandt Village,13,67
+Bronx,Van Cortlandt Village,14,76
+Bronx,Van Cortlandt Village,15,50
+Bronx,Van Cortlandt Village,16,40
+Bronx,Van Cortlandt Village,17,35
+Bronx,Van Cortlandt Village,18,48
+Bronx,Van Cortlandt Village,19,55
+Bronx,Van Cortlandt Village,20,58
+Bronx,Van Cortlandt Village,21,29
+Bronx,Van Cortlandt Village,22,61
+Bronx,Van Cortlandt Village,23,61
+Bronx,Van Nest/Morris Park,0,67
+Bronx,Van Nest/Morris Park,1,24
+Bronx,Van Nest/Morris Park,2,26
+Bronx,Van Nest/Morris Park,3,14
+Bronx,Van Nest/Morris Park,4,23
+Bronx,Van Nest/Morris Park,5,50
+Bronx,Van Nest/Morris Park,6,57
+Bronx,Van Nest/Morris Park,7,99
+Bronx,Van Nest/Morris Park,8,85
+Bronx,Van Nest/Morris Park,9,58
+Bronx,Van Nest/Morris Park,10,53
+Bronx,Van Nest/Morris Park,11,75
+Bronx,Van Nest/Morris Park,12,72
+Bronx,Van Nest/Morris Park,13,72
+Bronx,Van Nest/Morris Park,14,99
+Bronx,Van Nest/Morris Park,15,99
+Bronx,Van Nest/Morris Park,16,101
+Bronx,Van Nest/Morris Park,17,59
+Bronx,Van Nest/Morris Park,18,55
+Bronx,Van Nest/Morris Park,19,68
+Bronx,Van Nest/Morris Park,20,58
+Bronx,Van Nest/Morris Park,21,49
+Bronx,Van Nest/Morris Park,22,49
+Bronx,Van Nest/Morris Park,23,70
+Bronx,West Concourse,0,135
+Bronx,West Concourse,1,69
+Bronx,West Concourse,2,23
+Bronx,West Concourse,3,28
+Bronx,West Concourse,4,42
+Bronx,West Concourse,5,71
+Bronx,West Concourse,6,126
+Bronx,West Concourse,7,316
+Bronx,West Concourse,8,247
+Bronx,West Concourse,9,180
+Bronx,West Concourse,10,126
+Bronx,West Concourse,11,126
+Bronx,West Concourse,12,141
+Bronx,West Concourse,13,123
+Bronx,West Concourse,14,157
+Bronx,West Concourse,15,183
+Bronx,West Concourse,16,176
+Bronx,West Concourse,17,169
+Bronx,West Concourse,18,151
+Bronx,West Concourse,19,153
+Bronx,West Concourse,20,270
+Bronx,West Concourse,21,206
+Bronx,West Concourse,22,177
+Bronx,West Concourse,23,201
+Bronx,West Farms/Bronx River,0,23
+Bronx,West Farms/Bronx River,1,14
+Bronx,West Farms/Bronx River,2,9
+Bronx,West Farms/Bronx River,3,10
+Bronx,West Farms/Bronx River,4,47
+Bronx,West Farms/Bronx River,5,55
+Bronx,West Farms/Bronx River,6,147
+Bronx,West Farms/Bronx River,7,171
+Bronx,West Farms/Bronx River,8,225
+Bronx,West Farms/Bronx River,9,147
+Bronx,West Farms/Bronx River,10,57
+Bronx,West Farms/Bronx River,11,48
+Bronx,West Farms/Bronx River,12,53
+Bronx,West Farms/Bronx River,13,69
+Bronx,West Farms/Bronx River,14,72
+Bronx,West Farms/Bronx River,15,43
+Bronx,West Farms/Bronx River,16,27
+Bronx,West Farms/Bronx River,17,41
+Bronx,West Farms/Bronx River,18,31
+Bronx,West Farms/Bronx River,19,30
+Bronx,West Farms/Bronx River,20,47
+Bronx,West Farms/Bronx River,21,19
+Bronx,West Farms/Bronx River,22,32
+Bronx,West Farms/Bronx River,23,47
+Bronx,Westchester Village/Unionport,0,36
+Bronx,Westchester Village/Unionport,1,33
+Bronx,Westchester Village/Unionport,2,19
+Bronx,Westchester Village/Unionport,3,25
+Bronx,Westchester Village/Unionport,4,34
+Bronx,Westchester Village/Unionport,5,54
+Bronx,Westchester Village/Unionport,6,129
+Bronx,Westchester Village/Unionport,7,170
+Bronx,Westchester Village/Unionport,8,151
+Bronx,Westchester Village/Unionport,9,86
+Bronx,Westchester Village/Unionport,10,71
+Bronx,Westchester Village/Unionport,11,46
+Bronx,Westchester Village/Unionport,12,36
+Bronx,Westchester Village/Unionport,13,65
+Bronx,Westchester Village/Unionport,14,76
+Bronx,Westchester Village/Unionport,15,75
+Bronx,Westchester Village/Unionport,16,40
+Bronx,Westchester Village/Unionport,17,63
+Bronx,Westchester Village/Unionport,18,53
+Bronx,Westchester Village/Unionport,19,45
+Bronx,Westchester Village/Unionport,20,50
+Bronx,Westchester Village/Unionport,21,34
+Bronx,Westchester Village/Unionport,22,48
+Bronx,Westchester Village/Unionport,23,76
+Bronx,Williamsbridge/Olinville,0,43
+Bronx,Williamsbridge/Olinville,1,24
+Bronx,Williamsbridge/Olinville,2,15
+Bronx,Williamsbridge/Olinville,3,16
+Bronx,Williamsbridge/Olinville,4,50
+Bronx,Williamsbridge/Olinville,5,151
+Bronx,Williamsbridge/Olinville,6,231
+Bronx,Williamsbridge/Olinville,7,204
+Bronx,Williamsbridge/Olinville,8,261
+Bronx,Williamsbridge/Olinville,9,179
+Bronx,Williamsbridge/Olinville,10,131
+Bronx,Williamsbridge/Olinville,11,96
+Bronx,Williamsbridge/Olinville,12,102
+Bronx,Williamsbridge/Olinville,13,111
+Bronx,Williamsbridge/Olinville,14,126
+Bronx,Williamsbridge/Olinville,15,87
+Bronx,Williamsbridge/Olinville,16,50
+Bronx,Williamsbridge/Olinville,17,50
+Bronx,Williamsbridge/Olinville,18,72
+Bronx,Williamsbridge/Olinville,19,69
+Bronx,Williamsbridge/Olinville,20,78
+Bronx,Williamsbridge/Olinville,21,42
+Bronx,Williamsbridge/Olinville,22,69
+Bronx,Williamsbridge/Olinville,23,77
+Bronx,Woodlawn/Wakefield,0,27
+Bronx,Woodlawn/Wakefield,1,24
+Bronx,Woodlawn/Wakefield,2,13
+Bronx,Woodlawn/Wakefield,3,14
+Bronx,Woodlawn/Wakefield,4,40
+Bronx,Woodlawn/Wakefield,5,34
+Bronx,Woodlawn/Wakefield,6,147
+Bronx,Woodlawn/Wakefield,7,147
+Bronx,Woodlawn/Wakefield,8,165
+Bronx,Woodlawn/Wakefield,9,103
+Bronx,Woodlawn/Wakefield,10,83
+Bronx,Woodlawn/Wakefield,11,75
+Bronx,Woodlawn/Wakefield,12,69
+Bronx,Woodlawn/Wakefield,13,65
+Bronx,Woodlawn/Wakefield,14,67
+Bronx,Woodlawn/Wakefield,15,52
+Bronx,Woodlawn/Wakefield,16,27
+Bronx,Woodlawn/Wakefield,17,28
+Bronx,Woodlawn/Wakefield,18,26
+Bronx,Woodlawn/Wakefield,19,33
+Bronx,Woodlawn/Wakefield,20,30
+Bronx,Woodlawn/Wakefield,21,31
+Bronx,Woodlawn/Wakefield,22,32
+Bronx,Woodlawn/Wakefield,23,40
+Brooklyn,Bath Beach,0,12
+Brooklyn,Bath Beach,1,9
+Brooklyn,Bath Beach,2,8
+Brooklyn,Bath Beach,3,2
+Brooklyn,Bath Beach,4,4
+Brooklyn,Bath Beach,5,56
+Brooklyn,Bath Beach,6,36
+Brooklyn,Bath Beach,7,50
+Brooklyn,Bath Beach,8,56
+Brooklyn,Bath Beach,9,43
+Brooklyn,Bath Beach,10,33
+Brooklyn,Bath Beach,11,29
+Brooklyn,Bath Beach,12,33
+Brooklyn,Bath Beach,13,35
+Brooklyn,Bath Beach,14,21
+Brooklyn,Bath Beach,15,24
+Brooklyn,Bath Beach,16,12
+Brooklyn,Bath Beach,17,11
+Brooklyn,Bath Beach,18,18
+Brooklyn,Bath Beach,19,19
+Brooklyn,Bath Beach,20,18
+Brooklyn,Bath Beach,21,13
+Brooklyn,Bath Beach,22,22
+Brooklyn,Bath Beach,23,11
+Brooklyn,Bay Ridge,0,89
+Brooklyn,Bay Ridge,1,51
+Brooklyn,Bay Ridge,2,40
+Brooklyn,Bay Ridge,3,70
+Brooklyn,Bay Ridge,4,99
+Brooklyn,Bay Ridge,5,87
+Brooklyn,Bay Ridge,6,128
+Brooklyn,Bay Ridge,7,364
+Brooklyn,Bay Ridge,8,296
+Brooklyn,Bay Ridge,9,146
+Brooklyn,Bay Ridge,10,144
+Brooklyn,Bay Ridge,11,184
+Brooklyn,Bay Ridge,12,154
+Brooklyn,Bay Ridge,13,148
+Brooklyn,Bay Ridge,14,132
+Brooklyn,Bay Ridge,15,164
+Brooklyn,Bay Ridge,16,82
+Brooklyn,Bay Ridge,17,103
+Brooklyn,Bay Ridge,18,88
+Brooklyn,Bay Ridge,19,118
+Brooklyn,Bay Ridge,20,110
+Brooklyn,Bay Ridge,21,103
+Brooklyn,Bay Ridge,22,129
+Brooklyn,Bay Ridge,23,129
+Brooklyn,Bedford,0,264
+Brooklyn,Bedford,1,152
+Brooklyn,Bedford,2,74
+Brooklyn,Bedford,3,71
+Brooklyn,Bedford,4,171
+Brooklyn,Bedford,5,176
+Brooklyn,Bedford,6,235
+Brooklyn,Bedford,7,405
+Brooklyn,Bedford,8,464
+Brooklyn,Bedford,9,434
+Brooklyn,Bedford,10,315
+Brooklyn,Bedford,11,269
+Brooklyn,Bedford,12,251
+Brooklyn,Bedford,13,281
+Brooklyn,Bedford,14,355
+Brooklyn,Bedford,15,287
+Brooklyn,Bedford,16,242
+Brooklyn,Bedford,17,269
+Brooklyn,Bedford,18,306
+Brooklyn,Bedford,19,315
+Brooklyn,Bedford,20,326
+Brooklyn,Bedford,21,261
+Brooklyn,Bedford,22,316
+Brooklyn,Bedford,23,339
+Brooklyn,Bensonhurst East,0,34
+Brooklyn,Bensonhurst East,1,26
+Brooklyn,Bensonhurst East,2,13
+Brooklyn,Bensonhurst East,3,24
+Brooklyn,Bensonhurst East,4,16
+Brooklyn,Bensonhurst East,5,24
+Brooklyn,Bensonhurst East,6,36
+Brooklyn,Bensonhurst East,7,92
+Brooklyn,Bensonhurst East,8,106
+Brooklyn,Bensonhurst East,9,94
+Brooklyn,Bensonhurst East,10,73
+Brooklyn,Bensonhurst East,11,47
+Brooklyn,Bensonhurst East,12,52
+Brooklyn,Bensonhurst East,13,58
+Brooklyn,Bensonhurst East,14,73
+Brooklyn,Bensonhurst East,15,48
+Brooklyn,Bensonhurst East,16,21
+Brooklyn,Bensonhurst East,17,33
+Brooklyn,Bensonhurst East,18,26
+Brooklyn,Bensonhurst East,19,30
+Brooklyn,Bensonhurst East,20,29
+Brooklyn,Bensonhurst East,21,27
+Brooklyn,Bensonhurst East,22,37
+Brooklyn,Bensonhurst East,23,34
+Brooklyn,Bensonhurst West,0,32
+Brooklyn,Bensonhurst West,1,24
+Brooklyn,Bensonhurst West,2,16
+Brooklyn,Bensonhurst West,3,7
+Brooklyn,Bensonhurst West,4,20
+Brooklyn,Bensonhurst West,5,24
+Brooklyn,Bensonhurst West,6,91
+Brooklyn,Bensonhurst West,7,148
+Brooklyn,Bensonhurst West,8,129
+Brooklyn,Bensonhurst West,9,101
+Brooklyn,Bensonhurst West,10,105
+Brooklyn,Bensonhurst West,11,85
+Brooklyn,Bensonhurst West,12,89
+Brooklyn,Bensonhurst West,13,84
+Brooklyn,Bensonhurst West,14,71
+Brooklyn,Bensonhurst West,15,54
+Brooklyn,Bensonhurst West,16,49
+Brooklyn,Bensonhurst West,17,42
+Brooklyn,Bensonhurst West,18,59
+Brooklyn,Bensonhurst West,19,50
+Brooklyn,Bensonhurst West,20,50
+Brooklyn,Bensonhurst West,21,51
+Brooklyn,Bensonhurst West,22,51
+Brooklyn,Bensonhurst West,23,55
+Brooklyn,Boerum Hill,0,452
+Brooklyn,Boerum Hill,1,318
+Brooklyn,Boerum Hill,2,278
+Brooklyn,Boerum Hill,3,236
+Brooklyn,Boerum Hill,4,191
+Brooklyn,Boerum Hill,5,122
+Brooklyn,Boerum Hill,6,211
+Brooklyn,Boerum Hill,7,302
+Brooklyn,Boerum Hill,8,379
+Brooklyn,Boerum Hill,9,267
+Brooklyn,Boerum Hill,10,247
+Brooklyn,Boerum Hill,11,321
+Brooklyn,Boerum Hill,12,333
+Brooklyn,Boerum Hill,13,315
+Brooklyn,Boerum Hill,14,339
+Brooklyn,Boerum Hill,15,328
+Brooklyn,Boerum Hill,16,331
+Brooklyn,Boerum Hill,17,415
+Brooklyn,Boerum Hill,18,472
+Brooklyn,Boerum Hill,19,499
+Brooklyn,Boerum Hill,20,475
+Brooklyn,Boerum Hill,21,469
+Brooklyn,Boerum Hill,22,649
+Brooklyn,Boerum Hill,23,566
+Brooklyn,Borough Park,0,56
+Brooklyn,Borough Park,1,34
+Brooklyn,Borough Park,2,24
+Brooklyn,Borough Park,3,13
+Brooklyn,Borough Park,4,20
+Brooklyn,Borough Park,5,22
+Brooklyn,Borough Park,6,49
+Brooklyn,Borough Park,7,131
+Brooklyn,Borough Park,8,167
+Brooklyn,Borough Park,9,176
+Brooklyn,Borough Park,10,176
+Brooklyn,Borough Park,11,162
+Brooklyn,Borough Park,12,151
+Brooklyn,Borough Park,13,149
+Brooklyn,Borough Park,14,168
+Brooklyn,Borough Park,15,169
+Brooklyn,Borough Park,16,104
+Brooklyn,Borough Park,17,104
+Brooklyn,Borough Park,18,91
+Brooklyn,Borough Park,19,122
+Brooklyn,Borough Park,20,102
+Brooklyn,Borough Park,21,98
+Brooklyn,Borough Park,22,124
+Brooklyn,Borough Park,23,94
+Brooklyn,Brighton Beach,0,33
+Brooklyn,Brighton Beach,1,13
+Brooklyn,Brighton Beach,2,5
+Brooklyn,Brighton Beach,3,4
+Brooklyn,Brighton Beach,4,7
+Brooklyn,Brighton Beach,5,11
+Brooklyn,Brighton Beach,6,44
+Brooklyn,Brighton Beach,7,72
+Brooklyn,Brighton Beach,8,54
+Brooklyn,Brighton Beach,9,65
+Brooklyn,Brighton Beach,10,59
+Brooklyn,Brighton Beach,11,49
+Brooklyn,Brighton Beach,12,67
+Brooklyn,Brighton Beach,13,42
+Brooklyn,Brighton Beach,14,74
+Brooklyn,Brighton Beach,15,62
+Brooklyn,Brighton Beach,16,37
+Brooklyn,Brighton Beach,17,37
+Brooklyn,Brighton Beach,18,25
+Brooklyn,Brighton Beach,19,44
+Brooklyn,Brighton Beach,20,43
+Brooklyn,Brighton Beach,21,25
+Brooklyn,Brighton Beach,22,35
+Brooklyn,Brighton Beach,23,38
+Brooklyn,Brooklyn Heights,0,271
+Brooklyn,Brooklyn Heights,1,119
+Brooklyn,Brooklyn Heights,2,82
+Brooklyn,Brooklyn Heights,3,29
+Brooklyn,Brooklyn Heights,4,32
+Brooklyn,Brooklyn Heights,5,65
+Brooklyn,Brooklyn Heights,6,213
+Brooklyn,Brooklyn Heights,7,499
+Brooklyn,Brooklyn Heights,8,660
+Brooklyn,Brooklyn Heights,9,415
+Brooklyn,Brooklyn Heights,10,313
+Brooklyn,Brooklyn Heights,11,342
+Brooklyn,Brooklyn Heights,12,384
+Brooklyn,Brooklyn Heights,13,401
+Brooklyn,Brooklyn Heights,14,376
+Brooklyn,Brooklyn Heights,15,438
+Brooklyn,Brooklyn Heights,16,320
+Brooklyn,Brooklyn Heights,17,502
+Brooklyn,Brooklyn Heights,18,658
+Brooklyn,Brooklyn Heights,19,607
+Brooklyn,Brooklyn Heights,20,508
+Brooklyn,Brooklyn Heights,21,486
+Brooklyn,Brooklyn Heights,22,535
+Brooklyn,Brooklyn Heights,23,426
+Brooklyn,Brooklyn Navy Yard,0,26
+Brooklyn,Brooklyn Navy Yard,1,29
+Brooklyn,Brooklyn Navy Yard,2,58
+Brooklyn,Brooklyn Navy Yard,3,122
+Brooklyn,Brooklyn Navy Yard,4,138
+Brooklyn,Brooklyn Navy Yard,5,142
+Brooklyn,Brooklyn Navy Yard,6,48
+Brooklyn,Brooklyn Navy Yard,7,15
+Brooklyn,Brooklyn Navy Yard,8,25
+Brooklyn,Brooklyn Navy Yard,9,16
+Brooklyn,Brooklyn Navy Yard,10,17
+Brooklyn,Brooklyn Navy Yard,11,15
+Brooklyn,Brooklyn Navy Yard,12,24
+Brooklyn,Brooklyn Navy Yard,13,33
+Brooklyn,Brooklyn Navy Yard,14,38
+Brooklyn,Brooklyn Navy Yard,15,52
+Brooklyn,Brooklyn Navy Yard,16,49
+Brooklyn,Brooklyn Navy Yard,17,52
+Brooklyn,Brooklyn Navy Yard,18,66
+Brooklyn,Brooklyn Navy Yard,19,59
+Brooklyn,Brooklyn Navy Yard,20,53
+Brooklyn,Brooklyn Navy Yard,21,36
+Brooklyn,Brooklyn Navy Yard,22,41
+Brooklyn,Brooklyn Navy Yard,23,30
+Brooklyn,Brownsville,0,140
+Brooklyn,Brownsville,1,58
+Brooklyn,Brownsville,2,50
+Brooklyn,Brownsville,3,73
+Brooklyn,Brownsville,4,95
+Brooklyn,Brownsville,5,328
+Brooklyn,Brownsville,6,314
+Brooklyn,Brownsville,7,570
+Brooklyn,Brownsville,8,626
+Brooklyn,Brownsville,9,424
+Brooklyn,Brownsville,10,336
+Brooklyn,Brownsville,11,305
+Brooklyn,Brownsville,12,333
+Brooklyn,Brownsville,13,322
+Brooklyn,Brownsville,14,290
+Brooklyn,Brownsville,15,257
+Brooklyn,Brownsville,16,172
+Brooklyn,Brownsville,17,156
+Brooklyn,Brownsville,18,148
+Brooklyn,Brownsville,19,181
+Brooklyn,Brownsville,20,221
+Brooklyn,Brownsville,21,169
+Brooklyn,Brownsville,22,204
+Brooklyn,Brownsville,23,219
+Brooklyn,Bushwick North,0,343
+Brooklyn,Bushwick North,1,497
+Brooklyn,Bushwick North,2,512
+Brooklyn,Bushwick North,3,489
+Brooklyn,Bushwick North,4,456
+Brooklyn,Bushwick North,5,248
+Brooklyn,Bushwick North,6,176
+Brooklyn,Bushwick North,7,189
+Brooklyn,Bushwick North,8,175
+Brooklyn,Bushwick North,9,130
+Brooklyn,Bushwick North,10,101
+Brooklyn,Bushwick North,11,102
+Brooklyn,Bushwick North,12,93
+Brooklyn,Bushwick North,13,103
+Brooklyn,Bushwick North,14,99
+Brooklyn,Bushwick North,15,107
+Brooklyn,Bushwick North,16,91
+Brooklyn,Bushwick North,17,99
+Brooklyn,Bushwick North,18,158
+Brooklyn,Bushwick North,19,221
+Brooklyn,Bushwick North,20,261
+Brooklyn,Bushwick North,21,188
+Brooklyn,Bushwick North,22,278
+Brooklyn,Bushwick North,23,353
+Brooklyn,Bushwick South,0,402
+Brooklyn,Bushwick South,1,389
+Brooklyn,Bushwick South,2,420
+Brooklyn,Bushwick South,3,474
+Brooklyn,Bushwick South,4,479
+Brooklyn,Bushwick South,5,337
+Brooklyn,Bushwick South,6,286
+Brooklyn,Bushwick South,7,392
+Brooklyn,Bushwick South,8,428
+Brooklyn,Bushwick South,9,387
+Brooklyn,Bushwick South,10,265
+Brooklyn,Bushwick South,11,245
+Brooklyn,Bushwick South,12,270
+Brooklyn,Bushwick South,13,235
+Brooklyn,Bushwick South,14,231
+Brooklyn,Bushwick South,15,241
+Brooklyn,Bushwick South,16,205
+Brooklyn,Bushwick South,17,228
+Brooklyn,Bushwick South,18,296
+Brooklyn,Bushwick South,19,342
+Brooklyn,Bushwick South,20,365
+Brooklyn,Bushwick South,21,268
+Brooklyn,Bushwick South,22,374
+Brooklyn,Bushwick South,23,445
+Brooklyn,Canarsie,0,119
+Brooklyn,Canarsie,1,71
+Brooklyn,Canarsie,2,51
+Brooklyn,Canarsie,3,59
+Brooklyn,Canarsie,4,98
+Brooklyn,Canarsie,5,307
+Brooklyn,Canarsie,6,528
+Brooklyn,Canarsie,7,663
+Brooklyn,Canarsie,8,724
+Brooklyn,Canarsie,9,565
+Brooklyn,Canarsie,10,449
+Brooklyn,Canarsie,11,355
+Brooklyn,Canarsie,12,364
+Brooklyn,Canarsie,13,316
+Brooklyn,Canarsie,14,356
+Brooklyn,Canarsie,15,303
+Brooklyn,Canarsie,16,167
+Brooklyn,Canarsie,17,163
+Brooklyn,Canarsie,18,177
+Brooklyn,Canarsie,19,177
+Brooklyn,Canarsie,20,199
+Brooklyn,Canarsie,21,177
+Brooklyn,Canarsie,22,204
+Brooklyn,Canarsie,23,215
+Brooklyn,Carroll Gardens,0,102
+Brooklyn,Carroll Gardens,1,54
+Brooklyn,Carroll Gardens,2,22
+Brooklyn,Carroll Gardens,3,7
+Brooklyn,Carroll Gardens,4,15
+Brooklyn,Carroll Gardens,5,25
+Brooklyn,Carroll Gardens,6,159
+Brooklyn,Carroll Gardens,7,193
+Brooklyn,Carroll Gardens,8,359
+Brooklyn,Carroll Gardens,9,172
+Brooklyn,Carroll Gardens,10,90
+Brooklyn,Carroll Gardens,11,56
+Brooklyn,Carroll Gardens,12,72
+Brooklyn,Carroll Gardens,13,60
+Brooklyn,Carroll Gardens,14,75
+Brooklyn,Carroll Gardens,15,64
+Brooklyn,Carroll Gardens,16,52
+Brooklyn,Carroll Gardens,17,109
+Brooklyn,Carroll Gardens,18,133
+Brooklyn,Carroll Gardens,19,123
+Brooklyn,Carroll Gardens,20,136
+Brooklyn,Carroll Gardens,21,151
+Brooklyn,Carroll Gardens,22,222
+Brooklyn,Carroll Gardens,23,163
+Brooklyn,Clinton Hill,0,208
+Brooklyn,Clinton Hill,1,105
+Brooklyn,Clinton Hill,2,58
+Brooklyn,Clinton Hill,3,42
+Brooklyn,Clinton Hill,4,87
+Brooklyn,Clinton Hill,5,97
+Brooklyn,Clinton Hill,6,165
+Brooklyn,Clinton Hill,7,254
+Brooklyn,Clinton Hill,8,457
+Brooklyn,Clinton Hill,9,339
+Brooklyn,Clinton Hill,10,237
+Brooklyn,Clinton Hill,11,212
+Brooklyn,Clinton Hill,12,212
+Brooklyn,Clinton Hill,13,208
+Brooklyn,Clinton Hill,14,239
+Brooklyn,Clinton Hill,15,271
+Brooklyn,Clinton Hill,16,213
+Brooklyn,Clinton Hill,17,313
+Brooklyn,Clinton Hill,18,296
+Brooklyn,Clinton Hill,19,325
+Brooklyn,Clinton Hill,20,268
+Brooklyn,Clinton Hill,21,227
+Brooklyn,Clinton Hill,22,306
+Brooklyn,Clinton Hill,23,341
+Brooklyn,Cobble Hill,0,53
+Brooklyn,Cobble Hill,1,29
+Brooklyn,Cobble Hill,2,13
+Brooklyn,Cobble Hill,3,3
+Brooklyn,Cobble Hill,4,6
+Brooklyn,Cobble Hill,5,14
+Brooklyn,Cobble Hill,6,64
+Brooklyn,Cobble Hill,7,311
+Brooklyn,Cobble Hill,8,355
+Brooklyn,Cobble Hill,9,186
+Brooklyn,Cobble Hill,10,118
+Brooklyn,Cobble Hill,11,119
+Brooklyn,Cobble Hill,12,106
+Brooklyn,Cobble Hill,13,106
+Brooklyn,Cobble Hill,14,102
+Brooklyn,Cobble Hill,15,102
+Brooklyn,Cobble Hill,16,97
+Brooklyn,Cobble Hill,17,109
+Brooklyn,Cobble Hill,18,146
+Brooklyn,Cobble Hill,19,156
+Brooklyn,Cobble Hill,20,152
+Brooklyn,Cobble Hill,21,138
+Brooklyn,Cobble Hill,22,196
+Brooklyn,Cobble Hill,23,130
+Brooklyn,Columbia Street,0,17
+Brooklyn,Columbia Street,1,9
+Brooklyn,Columbia Street,2,5
+Brooklyn,Columbia Street,3,2
+Brooklyn,Columbia Street,4,7
+Brooklyn,Columbia Street,5,10
+Brooklyn,Columbia Street,6,19
+Brooklyn,Columbia Street,7,63
+Brooklyn,Columbia Street,8,113
+Brooklyn,Columbia Street,9,50
+Brooklyn,Columbia Street,10,24
+Brooklyn,Columbia Street,11,18
+Brooklyn,Columbia Street,12,18
+Brooklyn,Columbia Street,13,19
+Brooklyn,Columbia Street,14,16
+Brooklyn,Columbia Street,15,16
+Brooklyn,Columbia Street,16,18
+Brooklyn,Columbia Street,17,26
+Brooklyn,Columbia Street,18,28
+Brooklyn,Columbia Street,19,36
+Brooklyn,Columbia Street,20,25
+Brooklyn,Columbia Street,21,42
+Brooklyn,Columbia Street,22,58
+Brooklyn,Columbia Street,23,41
+Brooklyn,Coney Island,0,31
+Brooklyn,Coney Island,1,21
+Brooklyn,Coney Island,2,9
+Brooklyn,Coney Island,3,19
+Brooklyn,Coney Island,4,38
+Brooklyn,Coney Island,5,49
+Brooklyn,Coney Island,6,138
+Brooklyn,Coney Island,7,193
+Brooklyn,Coney Island,8,189
+Brooklyn,Coney Island,9,165
+Brooklyn,Coney Island,10,177
+Brooklyn,Coney Island,11,127
+Brooklyn,Coney Island,12,215
+Brooklyn,Coney Island,13,117
+Brooklyn,Coney Island,14,108
+Brooklyn,Coney Island,15,101
+Brooklyn,Coney Island,16,76
+Brooklyn,Coney Island,17,64
+Brooklyn,Coney Island,18,79
+Brooklyn,Coney Island,19,83
+Brooklyn,Coney Island,20,77
+Brooklyn,Coney Island,21,57
+Brooklyn,Coney Island,22,51
+Brooklyn,Coney Island,23,59
+Brooklyn,Crown Heights North,0,389
+Brooklyn,Crown Heights North,1,202
+Brooklyn,Crown Heights North,2,130
+Brooklyn,Crown Heights North,3,127
+Brooklyn,Crown Heights North,4,242
+Brooklyn,Crown Heights North,5,431
+Brooklyn,Crown Heights North,6,620
+Brooklyn,Crown Heights North,7,872
+Brooklyn,Crown Heights North,8,1029
+Brooklyn,Crown Heights North,9,910
+Brooklyn,Crown Heights North,10,643
+Brooklyn,Crown Heights North,11,635
+Brooklyn,Crown Heights North,12,660
+Brooklyn,Crown Heights North,13,648
+Brooklyn,Crown Heights North,14,652
+Brooklyn,Crown Heights North,15,590
+Brooklyn,Crown Heights North,16,397
+Brooklyn,Crown Heights North,17,422
+Brooklyn,Crown Heights North,18,504
+Brooklyn,Crown Heights North,19,581
+Brooklyn,Crown Heights North,20,546
+Brooklyn,Crown Heights North,21,460
+Brooklyn,Crown Heights North,22,468
+Brooklyn,Crown Heights North,23,586
+Brooklyn,Crown Heights South,0,93
+Brooklyn,Crown Heights South,1,46
+Brooklyn,Crown Heights South,2,33
+Brooklyn,Crown Heights South,3,26
+Brooklyn,Crown Heights South,4,85
+Brooklyn,Crown Heights South,5,131
+Brooklyn,Crown Heights South,6,188
+Brooklyn,Crown Heights South,7,273
+Brooklyn,Crown Heights South,8,354
+Brooklyn,Crown Heights South,9,327
+Brooklyn,Crown Heights South,10,222
+Brooklyn,Crown Heights South,11,162
+Brooklyn,Crown Heights South,12,200
+Brooklyn,Crown Heights South,13,231
+Brooklyn,Crown Heights South,14,179
+Brooklyn,Crown Heights South,15,160
+Brooklyn,Crown Heights South,16,120
+Brooklyn,Crown Heights South,17,125
+Brooklyn,Crown Heights South,18,138
+Brooklyn,Crown Heights South,19,156
+Brooklyn,Crown Heights South,20,160
+Brooklyn,Crown Heights South,21,140
+Brooklyn,Crown Heights South,22,121
+Brooklyn,Crown Heights South,23,123
+Brooklyn,Cypress Hills,0,88
+Brooklyn,Cypress Hills,1,63
+Brooklyn,Cypress Hills,2,37
+Brooklyn,Cypress Hills,3,57
+Brooklyn,Cypress Hills,4,79
+Brooklyn,Cypress Hills,5,88
+Brooklyn,Cypress Hills,6,160
+Brooklyn,Cypress Hills,7,297
+Brooklyn,Cypress Hills,8,233
+Brooklyn,Cypress Hills,9,156
+Brooklyn,Cypress Hills,10,146
+Brooklyn,Cypress Hills,11,115
+Brooklyn,Cypress Hills,12,104
+Brooklyn,Cypress Hills,13,109
+Brooklyn,Cypress Hills,14,99
+Brooklyn,Cypress Hills,15,104
+Brooklyn,Cypress Hills,16,83
+Brooklyn,Cypress Hills,17,88
+Brooklyn,Cypress Hills,18,97
+Brooklyn,Cypress Hills,19,83
+Brooklyn,Cypress Hills,20,97
+Brooklyn,Cypress Hills,21,102
+Brooklyn,Cypress Hills,22,119
+Brooklyn,Cypress Hills,23,146
+Brooklyn,DUMBO/Vinegar Hill,0,260
+Brooklyn,DUMBO/Vinegar Hill,1,143
+Brooklyn,DUMBO/Vinegar Hill,2,78
+Brooklyn,DUMBO/Vinegar Hill,3,27
+Brooklyn,DUMBO/Vinegar Hill,4,44
+Brooklyn,DUMBO/Vinegar Hill,5,39
+Brooklyn,DUMBO/Vinegar Hill,6,127
+Brooklyn,DUMBO/Vinegar Hill,7,235
+Brooklyn,DUMBO/Vinegar Hill,8,350
+Brooklyn,DUMBO/Vinegar Hill,9,179
+Brooklyn,DUMBO/Vinegar Hill,10,137
+Brooklyn,DUMBO/Vinegar Hill,11,145
+Brooklyn,DUMBO/Vinegar Hill,12,204
+Brooklyn,DUMBO/Vinegar Hill,13,299
+Brooklyn,DUMBO/Vinegar Hill,14,367
+Brooklyn,DUMBO/Vinegar Hill,15,394
+Brooklyn,DUMBO/Vinegar Hill,16,396
+Brooklyn,DUMBO/Vinegar Hill,17,526
+Brooklyn,DUMBO/Vinegar Hill,18,685
+Brooklyn,DUMBO/Vinegar Hill,19,535
+Brooklyn,DUMBO/Vinegar Hill,20,575
+Brooklyn,DUMBO/Vinegar Hill,21,529
+Brooklyn,DUMBO/Vinegar Hill,22,584
+Brooklyn,DUMBO/Vinegar Hill,23,434
+Brooklyn,Downtown Brooklyn/MetroTech,0,364
+Brooklyn,Downtown Brooklyn/MetroTech,1,171
+Brooklyn,Downtown Brooklyn/MetroTech,2,79
+Brooklyn,Downtown Brooklyn/MetroTech,3,71
+Brooklyn,Downtown Brooklyn/MetroTech,4,66
+Brooklyn,Downtown Brooklyn/MetroTech,5,80
+Brooklyn,Downtown Brooklyn/MetroTech,6,148
+Brooklyn,Downtown Brooklyn/MetroTech,7,336
+Brooklyn,Downtown Brooklyn/MetroTech,8,417
+Brooklyn,Downtown Brooklyn/MetroTech,9,363
+Brooklyn,Downtown Brooklyn/MetroTech,10,288
+Brooklyn,Downtown Brooklyn/MetroTech,11,316
+Brooklyn,Downtown Brooklyn/MetroTech,12,390
+Brooklyn,Downtown Brooklyn/MetroTech,13,460
+Brooklyn,Downtown Brooklyn/MetroTech,14,452
+Brooklyn,Downtown Brooklyn/MetroTech,15,541
+Brooklyn,Downtown Brooklyn/MetroTech,16,489
+Brooklyn,Downtown Brooklyn/MetroTech,17,665
+Brooklyn,Downtown Brooklyn/MetroTech,18,689
+Brooklyn,Downtown Brooklyn/MetroTech,19,650
+Brooklyn,Downtown Brooklyn/MetroTech,20,614
+Brooklyn,Downtown Brooklyn/MetroTech,21,501
+Brooklyn,Downtown Brooklyn/MetroTech,22,563
+Brooklyn,Downtown Brooklyn/MetroTech,23,458
+Brooklyn,Dyker Heights,0,14
+Brooklyn,Dyker Heights,1,20
+Brooklyn,Dyker Heights,2,8
+Brooklyn,Dyker Heights,3,6
+Brooklyn,Dyker Heights,4,11
+Brooklyn,Dyker Heights,5,36
+Brooklyn,Dyker Heights,6,35
+Brooklyn,Dyker Heights,7,112
+Brooklyn,Dyker Heights,8,73
+Brooklyn,Dyker Heights,9,54
+Brooklyn,Dyker Heights,10,48
+Brooklyn,Dyker Heights,11,43
+Brooklyn,Dyker Heights,12,34
+Brooklyn,Dyker Heights,13,38
+Brooklyn,Dyker Heights,14,45
+Brooklyn,Dyker Heights,15,34
+Brooklyn,Dyker Heights,16,27
+Brooklyn,Dyker Heights,17,28
+Brooklyn,Dyker Heights,18,31
+Brooklyn,Dyker Heights,19,23
+Brooklyn,Dyker Heights,20,29
+Brooklyn,Dyker Heights,21,22
+Brooklyn,Dyker Heights,22,11
+Brooklyn,Dyker Heights,23,24
+Brooklyn,East Flatbush/Farragut,0,76
+Brooklyn,East Flatbush/Farragut,1,37
+Brooklyn,East Flatbush/Farragut,2,23
+Brooklyn,East Flatbush/Farragut,3,62
+Brooklyn,East Flatbush/Farragut,4,140
+Brooklyn,East Flatbush/Farragut,5,204
+Brooklyn,East Flatbush/Farragut,6,354
+Brooklyn,East Flatbush/Farragut,7,443
+Brooklyn,East Flatbush/Farragut,8,434
+Brooklyn,East Flatbush/Farragut,9,342
+Brooklyn,East Flatbush/Farragut,10,239
+Brooklyn,East Flatbush/Farragut,11,239
+Brooklyn,East Flatbush/Farragut,12,242
+Brooklyn,East Flatbush/Farragut,13,205
+Brooklyn,East Flatbush/Farragut,14,224
+Brooklyn,East Flatbush/Farragut,15,185
+Brooklyn,East Flatbush/Farragut,16,132
+Brooklyn,East Flatbush/Farragut,17,125
+Brooklyn,East Flatbush/Farragut,18,111
+Brooklyn,East Flatbush/Farragut,19,115
+Brooklyn,East Flatbush/Farragut,20,119
+Brooklyn,East Flatbush/Farragut,21,91
+Brooklyn,East Flatbush/Farragut,22,111
+Brooklyn,East Flatbush/Farragut,23,95
+Brooklyn,East Flatbush/Remsen Village,0,89
+Brooklyn,East Flatbush/Remsen Village,1,46
+Brooklyn,East Flatbush/Remsen Village,2,31
+Brooklyn,East Flatbush/Remsen Village,3,55
+Brooklyn,East Flatbush/Remsen Village,4,167
+Brooklyn,East Flatbush/Remsen Village,5,282
+Brooklyn,East Flatbush/Remsen Village,6,408
+Brooklyn,East Flatbush/Remsen Village,7,477
+Brooklyn,East Flatbush/Remsen Village,8,538
+Brooklyn,East Flatbush/Remsen Village,9,433
+Brooklyn,East Flatbush/Remsen Village,10,354
+Brooklyn,East Flatbush/Remsen Village,11,288
+Brooklyn,East Flatbush/Remsen Village,12,286
+Brooklyn,East Flatbush/Remsen Village,13,263
+Brooklyn,East Flatbush/Remsen Village,14,325
+Brooklyn,East Flatbush/Remsen Village,15,291
+Brooklyn,East Flatbush/Remsen Village,16,172
+Brooklyn,East Flatbush/Remsen Village,17,142
+Brooklyn,East Flatbush/Remsen Village,18,127
+Brooklyn,East Flatbush/Remsen Village,19,162
+Brooklyn,East Flatbush/Remsen Village,20,178
+Brooklyn,East Flatbush/Remsen Village,21,135
+Brooklyn,East Flatbush/Remsen Village,22,148
+Brooklyn,East Flatbush/Remsen Village,23,148
+Brooklyn,East New York,0,287
+Brooklyn,East New York,1,163
+Brooklyn,East New York,2,116
+Brooklyn,East New York,3,138
+Brooklyn,East New York,4,238
+Brooklyn,East New York,5,367
+Brooklyn,East New York,6,658
+Brooklyn,East New York,7,943
+Brooklyn,East New York,8,928
+Brooklyn,East New York,9,681
+Brooklyn,East New York,10,542
+Brooklyn,East New York,11,512
+Brooklyn,East New York,12,519
+Brooklyn,East New York,13,479
+Brooklyn,East New York,14,528
+Brooklyn,East New York,15,430
+Brooklyn,East New York,16,310
+Brooklyn,East New York,17,304
+Brooklyn,East New York,18,314
+Brooklyn,East New York,19,355
+Brooklyn,East New York,20,415
+Brooklyn,East New York,21,377
+Brooklyn,East New York,22,466
+Brooklyn,East New York,23,540
+Brooklyn,East New York/Pennsylvania Avenue,0,90
+Brooklyn,East New York/Pennsylvania Avenue,1,37
+Brooklyn,East New York/Pennsylvania Avenue,2,24
+Brooklyn,East New York/Pennsylvania Avenue,3,33
+Brooklyn,East New York/Pennsylvania Avenue,4,75
+Brooklyn,East New York/Pennsylvania Avenue,5,111
+Brooklyn,East New York/Pennsylvania Avenue,6,184
+Brooklyn,East New York/Pennsylvania Avenue,7,253
+Brooklyn,East New York/Pennsylvania Avenue,8,279
+Brooklyn,East New York/Pennsylvania Avenue,9,223
+Brooklyn,East New York/Pennsylvania Avenue,10,160
+Brooklyn,East New York/Pennsylvania Avenue,11,117
+Brooklyn,East New York/Pennsylvania Avenue,12,119
+Brooklyn,East New York/Pennsylvania Avenue,13,115
+Brooklyn,East New York/Pennsylvania Avenue,14,132
+Brooklyn,East New York/Pennsylvania Avenue,15,119
+Brooklyn,East New York/Pennsylvania Avenue,16,68
+Brooklyn,East New York/Pennsylvania Avenue,17,84
+Brooklyn,East New York/Pennsylvania Avenue,18,61
+Brooklyn,East New York/Pennsylvania Avenue,19,79
+Brooklyn,East New York/Pennsylvania Avenue,20,85
+Brooklyn,East New York/Pennsylvania Avenue,21,78
+Brooklyn,East New York/Pennsylvania Avenue,22,97
+Brooklyn,East New York/Pennsylvania Avenue,23,110
+Brooklyn,East Williamsburg,0,536
+Brooklyn,East Williamsburg,1,570
+Brooklyn,East Williamsburg,2,682
+Brooklyn,East Williamsburg,3,830
+Brooklyn,East Williamsburg,4,589
+Brooklyn,East Williamsburg,5,249
+Brooklyn,East Williamsburg,6,176
+Brooklyn,East Williamsburg,7,213
+Brooklyn,East Williamsburg,8,281
+Brooklyn,East Williamsburg,9,219
+Brooklyn,East Williamsburg,10,128
+Brooklyn,East Williamsburg,11,112
+Brooklyn,East Williamsburg,12,114
+Brooklyn,East Williamsburg,13,146
+Brooklyn,East Williamsburg,14,164
+Brooklyn,East Williamsburg,15,177
+Brooklyn,East Williamsburg,16,134
+Brooklyn,East Williamsburg,17,185
+Brooklyn,East Williamsburg,18,258
+Brooklyn,East Williamsburg,19,294
+Brooklyn,East Williamsburg,20,337
+Brooklyn,East Williamsburg,21,309
+Brooklyn,East Williamsburg,22,444
+Brooklyn,East Williamsburg,23,567
+Brooklyn,Erasmus,0,75
+Brooklyn,Erasmus,1,20
+Brooklyn,Erasmus,2,23
+Brooklyn,Erasmus,3,39
+Brooklyn,Erasmus,4,100
+Brooklyn,Erasmus,5,120
+Brooklyn,Erasmus,6,195
+Brooklyn,Erasmus,7,265
+Brooklyn,Erasmus,8,263
+Brooklyn,Erasmus,9,181
+Brooklyn,Erasmus,10,167
+Brooklyn,Erasmus,11,103
+Brooklyn,Erasmus,12,130
+Brooklyn,Erasmus,13,145
+Brooklyn,Erasmus,14,171
+Brooklyn,Erasmus,15,116
+Brooklyn,Erasmus,16,111
+Brooklyn,Erasmus,17,96
+Brooklyn,Erasmus,18,97
+Brooklyn,Erasmus,19,135
+Brooklyn,Erasmus,20,141
+Brooklyn,Erasmus,21,98
+Brooklyn,Erasmus,22,130
+Brooklyn,Erasmus,23,142
+Brooklyn,Flatbush/Ditmas Park,0,164
+Brooklyn,Flatbush/Ditmas Park,1,65
+Brooklyn,Flatbush/Ditmas Park,2,44
+Brooklyn,Flatbush/Ditmas Park,3,45
+Brooklyn,Flatbush/Ditmas Park,4,123
+Brooklyn,Flatbush/Ditmas Park,5,215
+Brooklyn,Flatbush/Ditmas Park,6,321
+Brooklyn,Flatbush/Ditmas Park,7,719
+Brooklyn,Flatbush/Ditmas Park,8,755
+Brooklyn,Flatbush/Ditmas Park,9,513
+Brooklyn,Flatbush/Ditmas Park,10,395
+Brooklyn,Flatbush/Ditmas Park,11,343
+Brooklyn,Flatbush/Ditmas Park,12,308
+Brooklyn,Flatbush/Ditmas Park,13,369
+Brooklyn,Flatbush/Ditmas Park,14,377
+Brooklyn,Flatbush/Ditmas Park,15,276
+Brooklyn,Flatbush/Ditmas Park,16,201
+Brooklyn,Flatbush/Ditmas Park,17,259
+Brooklyn,Flatbush/Ditmas Park,18,308
+Brooklyn,Flatbush/Ditmas Park,19,308
+Brooklyn,Flatbush/Ditmas Park,20,310
+Brooklyn,Flatbush/Ditmas Park,21,240
+Brooklyn,Flatbush/Ditmas Park,22,309
+Brooklyn,Flatbush/Ditmas Park,23,298
+Brooklyn,Flatlands,0,64
+Brooklyn,Flatlands,1,48
+Brooklyn,Flatlands,2,37
+Brooklyn,Flatlands,3,71
+Brooklyn,Flatlands,4,83
+Brooklyn,Flatlands,5,135
+Brooklyn,Flatlands,6,347
+Brooklyn,Flatlands,7,533
+Brooklyn,Flatlands,8,485
+Brooklyn,Flatlands,9,404
+Brooklyn,Flatlands,10,249
+Brooklyn,Flatlands,11,222
+Brooklyn,Flatlands,12,186
+Brooklyn,Flatlands,13,266
+Brooklyn,Flatlands,14,244
+Brooklyn,Flatlands,15,216
+Brooklyn,Flatlands,16,94
+Brooklyn,Flatlands,17,109
+Brooklyn,Flatlands,18,132
+Brooklyn,Flatlands,19,139
+Brooklyn,Flatlands,20,124
+Brooklyn,Flatlands,21,121
+Brooklyn,Flatlands,22,153
+Brooklyn,Flatlands,23,139
+Brooklyn,Fort Greene,0,446
+Brooklyn,Fort Greene,1,209
+Brooklyn,Fort Greene,2,96
+Brooklyn,Fort Greene,3,71
+Brooklyn,Fort Greene,4,85
+Brooklyn,Fort Greene,5,127
+Brooklyn,Fort Greene,6,205
+Brooklyn,Fort Greene,7,342
+Brooklyn,Fort Greene,8,451
+Brooklyn,Fort Greene,9,328
+Brooklyn,Fort Greene,10,307
+Brooklyn,Fort Greene,11,294
+Brooklyn,Fort Greene,12,323
+Brooklyn,Fort Greene,13,337
+Brooklyn,Fort Greene,14,376
+Brooklyn,Fort Greene,15,383
+Brooklyn,Fort Greene,16,391
+Brooklyn,Fort Greene,17,436
+Brooklyn,Fort Greene,18,595
+Brooklyn,Fort Greene,19,527
+Brooklyn,Fort Greene,20,529
+Brooklyn,Fort Greene,21,592
+Brooklyn,Fort Greene,22,1156
+Brooklyn,Fort Greene,23,884
+Brooklyn,Gowanus,0,145
+Brooklyn,Gowanus,1,70
+Brooklyn,Gowanus,2,47
+Brooklyn,Gowanus,3,30
+Brooklyn,Gowanus,4,37
+Brooklyn,Gowanus,5,26
+Brooklyn,Gowanus,6,33
+Brooklyn,Gowanus,7,40
+Brooklyn,Gowanus,8,77
+Brooklyn,Gowanus,9,89
+Brooklyn,Gowanus,10,48
+Brooklyn,Gowanus,11,72
+Brooklyn,Gowanus,12,32
+Brooklyn,Gowanus,13,55
+Brooklyn,Gowanus,14,84
+Brooklyn,Gowanus,15,53
+Brooklyn,Gowanus,16,50
+Brooklyn,Gowanus,17,80
+Brooklyn,Gowanus,18,125
+Brooklyn,Gowanus,19,91
+Brooklyn,Gowanus,20,131
+Brooklyn,Gowanus,21,155
+Brooklyn,Gowanus,22,201
+Brooklyn,Gowanus,23,191
+Brooklyn,Gravesend,0,20
+Brooklyn,Gravesend,1,20
+Brooklyn,Gravesend,2,13
+Brooklyn,Gravesend,3,5
+Brooklyn,Gravesend,4,15
+Brooklyn,Gravesend,5,16
+Brooklyn,Gravesend,6,65
+Brooklyn,Gravesend,7,86
+Brooklyn,Gravesend,8,100
+Brooklyn,Gravesend,9,63
+Brooklyn,Gravesend,10,76
+Brooklyn,Gravesend,11,47
+Brooklyn,Gravesend,12,54
+Brooklyn,Gravesend,13,44
+Brooklyn,Gravesend,14,61
+Brooklyn,Gravesend,15,43
+Brooklyn,Gravesend,16,17
+Brooklyn,Gravesend,17,21
+Brooklyn,Gravesend,18,24
+Brooklyn,Gravesend,19,18
+Brooklyn,Gravesend,20,23
+Brooklyn,Gravesend,21,20
+Brooklyn,Gravesend,22,25
+Brooklyn,Gravesend,23,28
+Brooklyn,Green-Wood Cemetery,0,1
+Brooklyn,Green-Wood Cemetery,1,1
+Brooklyn,Green-Wood Cemetery,6,1
+Brooklyn,Green-Wood Cemetery,8,1
+Brooklyn,Green-Wood Cemetery,11,2
+Brooklyn,Green-Wood Cemetery,12,2
+Brooklyn,Green-Wood Cemetery,13,1
+Brooklyn,Green-Wood Cemetery,14,2
+Brooklyn,Green-Wood Cemetery,16,2
+Brooklyn,Green-Wood Cemetery,18,1
+Brooklyn,Green-Wood Cemetery,21,1
+Brooklyn,Green-Wood Cemetery,22,1
+Brooklyn,Green-Wood Cemetery,23,2
+Brooklyn,Greenpoint,0,732
+Brooklyn,Greenpoint,1,561
+Brooklyn,Greenpoint,2,431
+Brooklyn,Greenpoint,3,359
+Brooklyn,Greenpoint,4,328
+Brooklyn,Greenpoint,5,175
+Brooklyn,Greenpoint,6,157
+Brooklyn,Greenpoint,7,166
+Brooklyn,Greenpoint,8,309
+Brooklyn,Greenpoint,9,204
+Brooklyn,Greenpoint,10,125
+Brooklyn,Greenpoint,11,105
+Brooklyn,Greenpoint,12,130
+Brooklyn,Greenpoint,13,122
+Brooklyn,Greenpoint,14,130
+Brooklyn,Greenpoint,15,158
+Brooklyn,Greenpoint,16,150
+Brooklyn,Greenpoint,17,224
+Brooklyn,Greenpoint,18,431
+Brooklyn,Greenpoint,19,485
+Brooklyn,Greenpoint,20,442
+Brooklyn,Greenpoint,21,411
+Brooklyn,Greenpoint,22,728
+Brooklyn,Greenpoint,23,787
+Brooklyn,Homecrest,0,49
+Brooklyn,Homecrest,1,20
+Brooklyn,Homecrest,2,13
+Brooklyn,Homecrest,3,10
+Brooklyn,Homecrest,4,5
+Brooklyn,Homecrest,5,30
+Brooklyn,Homecrest,6,46
+Brooklyn,Homecrest,7,108
+Brooklyn,Homecrest,8,108
+Brooklyn,Homecrest,9,108
+Brooklyn,Homecrest,10,67
+Brooklyn,Homecrest,11,103
+Brooklyn,Homecrest,12,112
+Brooklyn,Homecrest,13,111
+Brooklyn,Homecrest,14,100
+Brooklyn,Homecrest,15,75
+Brooklyn,Homecrest,16,56
+Brooklyn,Homecrest,17,66
+Brooklyn,Homecrest,18,56
+Brooklyn,Homecrest,19,52
+Brooklyn,Homecrest,20,42
+Brooklyn,Homecrest,21,36
+Brooklyn,Homecrest,22,45
+Brooklyn,Homecrest,23,42
+Brooklyn,Kensington,0,29
+Brooklyn,Kensington,1,17
+Brooklyn,Kensington,2,16
+Brooklyn,Kensington,3,21
+Brooklyn,Kensington,4,12
+Brooklyn,Kensington,5,33
+Brooklyn,Kensington,6,85
+Brooklyn,Kensington,7,191
+Brooklyn,Kensington,8,236
+Brooklyn,Kensington,9,133
+Brooklyn,Kensington,10,93
+Brooklyn,Kensington,11,88
+Brooklyn,Kensington,12,94
+Brooklyn,Kensington,13,102
+Brooklyn,Kensington,14,78
+Brooklyn,Kensington,15,59
+Brooklyn,Kensington,16,37
+Brooklyn,Kensington,17,65
+Brooklyn,Kensington,18,74
+Brooklyn,Kensington,19,101
+Brooklyn,Kensington,20,53
+Brooklyn,Kensington,21,37
+Brooklyn,Kensington,22,55
+Brooklyn,Kensington,23,57
+Brooklyn,Madison,0,14
+Brooklyn,Madison,1,19
+Brooklyn,Madison,2,8
+Brooklyn,Madison,3,5
+Brooklyn,Madison,4,12
+Brooklyn,Madison,5,25
+Brooklyn,Madison,6,90
+Brooklyn,Madison,7,77
+Brooklyn,Madison,8,96
+Brooklyn,Madison,9,47
+Brooklyn,Madison,10,49
+Brooklyn,Madison,11,59
+Brooklyn,Madison,12,56
+Brooklyn,Madison,13,63
+Brooklyn,Madison,14,49
+Brooklyn,Madison,15,63
+Brooklyn,Madison,16,45
+Brooklyn,Madison,17,29
+Brooklyn,Madison,18,37
+Brooklyn,Madison,19,40
+Brooklyn,Madison,20,43
+Brooklyn,Madison,21,36
+Brooklyn,Madison,22,36
+Brooklyn,Madison,23,36
+Brooklyn,Manhattan Beach,0,37
+Brooklyn,Manhattan Beach,1,19
+Brooklyn,Manhattan Beach,2,5
+Brooklyn,Manhattan Beach,3,1
+Brooklyn,Manhattan Beach,4,2
+Brooklyn,Manhattan Beach,5,9
+Brooklyn,Manhattan Beach,6,14
+Brooklyn,Manhattan Beach,7,38
+Brooklyn,Manhattan Beach,8,30
+Brooklyn,Manhattan Beach,9,16
+Brooklyn,Manhattan Beach,10,25
+Brooklyn,Manhattan Beach,11,19
+Brooklyn,Manhattan Beach,12,20
+Brooklyn,Manhattan Beach,13,23
+Brooklyn,Manhattan Beach,14,38
+Brooklyn,Manhattan Beach,15,35
+Brooklyn,Manhattan Beach,16,25
+Brooklyn,Manhattan Beach,17,24
+Brooklyn,Manhattan Beach,18,24
+Brooklyn,Manhattan Beach,19,27
+Brooklyn,Manhattan Beach,20,24
+Brooklyn,Manhattan Beach,21,21
+Brooklyn,Manhattan Beach,22,27
+Brooklyn,Manhattan Beach,23,49
+Brooklyn,Marine Park/Floyd Bennett Field,0,4
+Brooklyn,Marine Park/Floyd Bennett Field,1,3
+Brooklyn,Marine Park/Floyd Bennett Field,2,2
+Brooklyn,Marine Park/Floyd Bennett Field,5,3
+Brooklyn,Marine Park/Floyd Bennett Field,6,1
+Brooklyn,Marine Park/Floyd Bennett Field,7,8
+Brooklyn,Marine Park/Floyd Bennett Field,8,3
+Brooklyn,Marine Park/Floyd Bennett Field,9,4
+Brooklyn,Marine Park/Floyd Bennett Field,10,6
+Brooklyn,Marine Park/Floyd Bennett Field,11,3
+Brooklyn,Marine Park/Floyd Bennett Field,12,5
+Brooklyn,Marine Park/Floyd Bennett Field,13,5
+Brooklyn,Marine Park/Floyd Bennett Field,14,7
+Brooklyn,Marine Park/Floyd Bennett Field,15,13
+Brooklyn,Marine Park/Floyd Bennett Field,16,8
+Brooklyn,Marine Park/Floyd Bennett Field,17,4
+Brooklyn,Marine Park/Floyd Bennett Field,18,11
+Brooklyn,Marine Park/Floyd Bennett Field,19,16
+Brooklyn,Marine Park/Floyd Bennett Field,20,9
+Brooklyn,Marine Park/Floyd Bennett Field,21,7
+Brooklyn,Marine Park/Floyd Bennett Field,22,10
+Brooklyn,Marine Park/Floyd Bennett Field,23,9
+Brooklyn,Marine Park/Mill Basin,0,47
+Brooklyn,Marine Park/Mill Basin,1,16
+Brooklyn,Marine Park/Mill Basin,2,16
+Brooklyn,Marine Park/Mill Basin,3,11
+Brooklyn,Marine Park/Mill Basin,4,17
+Brooklyn,Marine Park/Mill Basin,5,63
+Brooklyn,Marine Park/Mill Basin,6,133
+Brooklyn,Marine Park/Mill Basin,7,128
+Brooklyn,Marine Park/Mill Basin,8,128
+Brooklyn,Marine Park/Mill Basin,9,138
+Brooklyn,Marine Park/Mill Basin,10,105
+Brooklyn,Marine Park/Mill Basin,11,129
+Brooklyn,Marine Park/Mill Basin,12,135
+Brooklyn,Marine Park/Mill Basin,13,160
+Brooklyn,Marine Park/Mill Basin,14,132
+Brooklyn,Marine Park/Mill Basin,15,96
+Brooklyn,Marine Park/Mill Basin,16,76
+Brooklyn,Marine Park/Mill Basin,17,73
+Brooklyn,Marine Park/Mill Basin,18,105
+Brooklyn,Marine Park/Mill Basin,19,97
+Brooklyn,Marine Park/Mill Basin,20,124
+Brooklyn,Marine Park/Mill Basin,21,96
+Brooklyn,Marine Park/Mill Basin,22,80
+Brooklyn,Marine Park/Mill Basin,23,62
+Brooklyn,Midwood,0,38
+Brooklyn,Midwood,1,13
+Brooklyn,Midwood,2,15
+Brooklyn,Midwood,3,6
+Brooklyn,Midwood,4,12
+Brooklyn,Midwood,5,19
+Brooklyn,Midwood,6,83
+Brooklyn,Midwood,7,165
+Brooklyn,Midwood,8,187
+Brooklyn,Midwood,9,152
+Brooklyn,Midwood,10,116
+Brooklyn,Midwood,11,142
+Brooklyn,Midwood,12,130
+Brooklyn,Midwood,13,111
+Brooklyn,Midwood,14,126
+Brooklyn,Midwood,15,105
+Brooklyn,Midwood,16,70
+Brooklyn,Midwood,17,66
+Brooklyn,Midwood,18,81
+Brooklyn,Midwood,19,62
+Brooklyn,Midwood,20,83
+Brooklyn,Midwood,21,35
+Brooklyn,Midwood,22,48
+Brooklyn,Midwood,23,42
+Brooklyn,Ocean Hill,0,155
+Brooklyn,Ocean Hill,1,69
+Brooklyn,Ocean Hill,2,39
+Brooklyn,Ocean Hill,3,39
+Brooklyn,Ocean Hill,4,87
+Brooklyn,Ocean Hill,5,183
+Brooklyn,Ocean Hill,6,283
+Brooklyn,Ocean Hill,7,384
+Brooklyn,Ocean Hill,8,492
+Brooklyn,Ocean Hill,9,358
+Brooklyn,Ocean Hill,10,278
+Brooklyn,Ocean Hill,11,244
+Brooklyn,Ocean Hill,12,199
+Brooklyn,Ocean Hill,13,189
+Brooklyn,Ocean Hill,14,231
+Brooklyn,Ocean Hill,15,183
+Brooklyn,Ocean Hill,16,148
+Brooklyn,Ocean Hill,17,135
+Brooklyn,Ocean Hill,18,161
+Brooklyn,Ocean Hill,19,151
+Brooklyn,Ocean Hill,20,196
+Brooklyn,Ocean Hill,21,175
+Brooklyn,Ocean Hill,22,169
+Brooklyn,Ocean Hill,23,203
+Brooklyn,Ocean Parkway South,0,15
+Brooklyn,Ocean Parkway South,1,10
+Brooklyn,Ocean Parkway South,2,2
+Brooklyn,Ocean Parkway South,3,2
+Brooklyn,Ocean Parkway South,4,9
+Brooklyn,Ocean Parkway South,5,24
+Brooklyn,Ocean Parkway South,6,16
+Brooklyn,Ocean Parkway South,7,62
+Brooklyn,Ocean Parkway South,8,68
+Brooklyn,Ocean Parkway South,9,66
+Brooklyn,Ocean Parkway South,10,30
+Brooklyn,Ocean Parkway South,11,25
+Brooklyn,Ocean Parkway South,12,25
+Brooklyn,Ocean Parkway South,13,12
+Brooklyn,Ocean Parkway South,14,22
+Brooklyn,Ocean Parkway South,15,20
+Brooklyn,Ocean Parkway South,16,22
+Brooklyn,Ocean Parkway South,17,26
+Brooklyn,Ocean Parkway South,18,15
+Brooklyn,Ocean Parkway South,19,21
+Brooklyn,Ocean Parkway South,20,18
+Brooklyn,Ocean Parkway South,21,14
+Brooklyn,Ocean Parkway South,22,10
+Brooklyn,Ocean Parkway South,23,12
+Brooklyn,Park Slope,0,488
+Brooklyn,Park Slope,1,252
+Brooklyn,Park Slope,2,108
+Brooklyn,Park Slope,3,83
+Brooklyn,Park Slope,4,77
+Brooklyn,Park Slope,5,94
+Brooklyn,Park Slope,6,119
+Brooklyn,Park Slope,7,216
+Brooklyn,Park Slope,8,355
+Brooklyn,Park Slope,9,267
+Brooklyn,Park Slope,10,234
+Brooklyn,Park Slope,11,231
+Brooklyn,Park Slope,12,277
+Brooklyn,Park Slope,13,273
+Brooklyn,Park Slope,14,291
+Brooklyn,Park Slope,15,293
+Brooklyn,Park Slope,16,247
+Brooklyn,Park Slope,17,344
+Brooklyn,Park Slope,18,527
+Brooklyn,Park Slope,19,517
+Brooklyn,Park Slope,20,570
+Brooklyn,Park Slope,21,685
+Brooklyn,Park Slope,22,1021
+Brooklyn,Park Slope,23,805
+Brooklyn,Prospect Heights,0,147
+Brooklyn,Prospect Heights,1,104
+Brooklyn,Prospect Heights,2,33
+Brooklyn,Prospect Heights,3,30
+Brooklyn,Prospect Heights,4,35
+Brooklyn,Prospect Heights,5,71
+Brooklyn,Prospect Heights,6,83
+Brooklyn,Prospect Heights,7,129
+Brooklyn,Prospect Heights,8,178
+Brooklyn,Prospect Heights,9,108
+Brooklyn,Prospect Heights,10,83
+Brooklyn,Prospect Heights,11,101
+Brooklyn,Prospect Heights,12,93
+Brooklyn,Prospect Heights,13,131
+Brooklyn,Prospect Heights,14,118
+Brooklyn,Prospect Heights,15,148
+Brooklyn,Prospect Heights,16,103
+Brooklyn,Prospect Heights,17,136
+Brooklyn,Prospect Heights,18,171
+Brooklyn,Prospect Heights,19,194
+Brooklyn,Prospect Heights,20,160
+Brooklyn,Prospect Heights,21,194
+Brooklyn,Prospect Heights,22,300
+Brooklyn,Prospect Heights,23,272
+Brooklyn,Prospect Park,0,19
+Brooklyn,Prospect Park,1,11
+Brooklyn,Prospect Park,2,2
+Brooklyn,Prospect Park,3,7
+Brooklyn,Prospect Park,4,2
+Brooklyn,Prospect Park,5,8
+Brooklyn,Prospect Park,6,19
+Brooklyn,Prospect Park,7,21
+Brooklyn,Prospect Park,8,27
+Brooklyn,Prospect Park,9,27
+Brooklyn,Prospect Park,10,19
+Brooklyn,Prospect Park,11,13
+Brooklyn,Prospect Park,12,19
+Brooklyn,Prospect Park,13,26
+Brooklyn,Prospect Park,14,30
+Brooklyn,Prospect Park,15,30
+Brooklyn,Prospect Park,16,32
+Brooklyn,Prospect Park,17,43
+Brooklyn,Prospect Park,18,31
+Brooklyn,Prospect Park,19,30
+Brooklyn,Prospect Park,20,24
+Brooklyn,Prospect Park,21,21
+Brooklyn,Prospect Park,22,26
+Brooklyn,Prospect Park,23,21
+Brooklyn,Prospect-Lefferts Gardens,0,182
+Brooklyn,Prospect-Lefferts Gardens,1,84
+Brooklyn,Prospect-Lefferts Gardens,2,48
+Brooklyn,Prospect-Lefferts Gardens,3,56
+Brooklyn,Prospect-Lefferts Gardens,4,170
+Brooklyn,Prospect-Lefferts Gardens,5,346
+Brooklyn,Prospect-Lefferts Gardens,6,582
+Brooklyn,Prospect-Lefferts Gardens,7,569
+Brooklyn,Prospect-Lefferts Gardens,8,633
+Brooklyn,Prospect-Lefferts Gardens,9,555
+Brooklyn,Prospect-Lefferts Gardens,10,413
+Brooklyn,Prospect-Lefferts Gardens,11,334
+Brooklyn,Prospect-Lefferts Gardens,12,402
+Brooklyn,Prospect-Lefferts Gardens,13,369
+Brooklyn,Prospect-Lefferts Gardens,14,439
+Brooklyn,Prospect-Lefferts Gardens,15,392
+Brooklyn,Prospect-Lefferts Gardens,16,314
+Brooklyn,Prospect-Lefferts Gardens,17,280
+Brooklyn,Prospect-Lefferts Gardens,18,329
+Brooklyn,Prospect-Lefferts Gardens,19,328
+Brooklyn,Prospect-Lefferts Gardens,20,360
+Brooklyn,Prospect-Lefferts Gardens,21,222
+Brooklyn,Prospect-Lefferts Gardens,22,245
+Brooklyn,Prospect-Lefferts Gardens,23,258
+Brooklyn,Red Hook,0,53
+Brooklyn,Red Hook,1,26
+Brooklyn,Red Hook,2,11
+Brooklyn,Red Hook,3,11
+Brooklyn,Red Hook,4,26
+Brooklyn,Red Hook,5,27
+Brooklyn,Red Hook,6,93
+Brooklyn,Red Hook,7,325
+Brooklyn,Red Hook,8,388
+Brooklyn,Red Hook,9,436
+Brooklyn,Red Hook,10,245
+Brooklyn,Red Hook,11,63
+Brooklyn,Red Hook,12,56
+Brooklyn,Red Hook,13,59
+Brooklyn,Red Hook,14,70
+Brooklyn,Red Hook,15,82
+Brooklyn,Red Hook,16,78
+Brooklyn,Red Hook,17,86
+Brooklyn,Red Hook,18,101
+Brooklyn,Red Hook,19,102
+Brooklyn,Red Hook,20,109
+Brooklyn,Red Hook,21,101
+Brooklyn,Red Hook,22,102
+Brooklyn,Red Hook,23,81
+Brooklyn,Sheepshead Bay,0,46
+Brooklyn,Sheepshead Bay,1,23
+Brooklyn,Sheepshead Bay,2,18
+Brooklyn,Sheepshead Bay,3,17
+Brooklyn,Sheepshead Bay,4,17
+Brooklyn,Sheepshead Bay,5,43
+Brooklyn,Sheepshead Bay,6,101
+Brooklyn,Sheepshead Bay,7,136
+Brooklyn,Sheepshead Bay,8,140
+Brooklyn,Sheepshead Bay,9,117
+Brooklyn,Sheepshead Bay,10,105
+Brooklyn,Sheepshead Bay,11,123
+Brooklyn,Sheepshead Bay,12,109
+Brooklyn,Sheepshead Bay,13,87
+Brooklyn,Sheepshead Bay,14,129
+Brooklyn,Sheepshead Bay,15,68
+Brooklyn,Sheepshead Bay,16,61
+Brooklyn,Sheepshead Bay,17,47
+Brooklyn,Sheepshead Bay,18,50
+Brooklyn,Sheepshead Bay,19,48
+Brooklyn,Sheepshead Bay,20,50
+Brooklyn,Sheepshead Bay,21,45
+Brooklyn,Sheepshead Bay,22,58
+Brooklyn,Sheepshead Bay,23,60
+Brooklyn,South Williamsburg,0,61
+Brooklyn,South Williamsburg,1,32
+Brooklyn,South Williamsburg,2,27
+Brooklyn,South Williamsburg,3,29
+Brooklyn,South Williamsburg,4,26
+Brooklyn,South Williamsburg,5,28
+Brooklyn,South Williamsburg,6,37
+Brooklyn,South Williamsburg,7,49
+Brooklyn,South Williamsburg,8,77
+Brooklyn,South Williamsburg,9,97
+Brooklyn,South Williamsburg,10,67
+Brooklyn,South Williamsburg,11,61
+Brooklyn,South Williamsburg,12,54
+Brooklyn,South Williamsburg,13,63
+Brooklyn,South Williamsburg,14,79
+Brooklyn,South Williamsburg,15,79
+Brooklyn,South Williamsburg,16,56
+Brooklyn,South Williamsburg,17,45
+Brooklyn,South Williamsburg,18,77
+Brooklyn,South Williamsburg,19,74
+Brooklyn,South Williamsburg,20,79
+Brooklyn,South Williamsburg,21,76
+Brooklyn,South Williamsburg,22,70
+Brooklyn,South Williamsburg,23,92
+Brooklyn,Starrett City,0,28
+Brooklyn,Starrett City,1,10
+Brooklyn,Starrett City,2,7
+Brooklyn,Starrett City,3,12
+Brooklyn,Starrett City,4,38
+Brooklyn,Starrett City,5,54
+Brooklyn,Starrett City,6,106
+Brooklyn,Starrett City,7,125
+Brooklyn,Starrett City,8,215
+Brooklyn,Starrett City,9,185
+Brooklyn,Starrett City,10,167
+Brooklyn,Starrett City,11,134
+Brooklyn,Starrett City,12,163
+Brooklyn,Starrett City,13,106
+Brooklyn,Starrett City,14,87
+Brooklyn,Starrett City,15,78
+Brooklyn,Starrett City,16,53
+Brooklyn,Starrett City,17,43
+Brooklyn,Starrett City,18,42
+Brooklyn,Starrett City,19,35
+Brooklyn,Starrett City,20,40
+Brooklyn,Starrett City,21,43
+Brooklyn,Starrett City,22,43
+Brooklyn,Starrett City,23,57
+Brooklyn,Stuyvesant Heights,0,215
+Brooklyn,Stuyvesant Heights,1,106
+Brooklyn,Stuyvesant Heights,2,109
+Brooklyn,Stuyvesant Heights,3,120
+Brooklyn,Stuyvesant Heights,4,168
+Brooklyn,Stuyvesant Heights,5,214
+Brooklyn,Stuyvesant Heights,6,385
+Brooklyn,Stuyvesant Heights,7,471
+Brooklyn,Stuyvesant Heights,8,564
+Brooklyn,Stuyvesant Heights,9,486
+Brooklyn,Stuyvesant Heights,10,335
+Brooklyn,Stuyvesant Heights,11,279
+Brooklyn,Stuyvesant Heights,12,279
+Brooklyn,Stuyvesant Heights,13,282
+Brooklyn,Stuyvesant Heights,14,263
+Brooklyn,Stuyvesant Heights,15,281
+Brooklyn,Stuyvesant Heights,16,181
+Brooklyn,Stuyvesant Heights,17,225
+Brooklyn,Stuyvesant Heights,18,250
+Brooklyn,Stuyvesant Heights,19,320
+Brooklyn,Stuyvesant Heights,20,301
+Brooklyn,Stuyvesant Heights,21,215
+Brooklyn,Stuyvesant Heights,22,248
+Brooklyn,Stuyvesant Heights,23,256
+Brooklyn,Sunset Park East,0,31
+Brooklyn,Sunset Park East,1,29
+Brooklyn,Sunset Park East,2,23
+Brooklyn,Sunset Park East,3,18
+Brooklyn,Sunset Park East,4,25
+Brooklyn,Sunset Park East,5,69
+Brooklyn,Sunset Park East,6,60
+Brooklyn,Sunset Park East,7,83
+Brooklyn,Sunset Park East,8,111
+Brooklyn,Sunset Park East,9,61
+Brooklyn,Sunset Park East,10,51
+Brooklyn,Sunset Park East,11,63
+Brooklyn,Sunset Park East,12,75
+Brooklyn,Sunset Park East,13,59
+Brooklyn,Sunset Park East,14,75
+Brooklyn,Sunset Park East,15,73
+Brooklyn,Sunset Park East,16,69
+Brooklyn,Sunset Park East,17,52
+Brooklyn,Sunset Park East,18,49
+Brooklyn,Sunset Park East,19,44
+Brooklyn,Sunset Park East,20,48
+Brooklyn,Sunset Park East,21,40
+Brooklyn,Sunset Park East,22,35
+Brooklyn,Sunset Park East,23,35
+Brooklyn,Sunset Park West,0,137
+Brooklyn,Sunset Park West,1,81
+Brooklyn,Sunset Park West,2,44
+Brooklyn,Sunset Park West,3,96
+Brooklyn,Sunset Park West,4,167
+Brooklyn,Sunset Park West,5,124
+Brooklyn,Sunset Park West,6,125
+Brooklyn,Sunset Park West,7,194
+Brooklyn,Sunset Park West,8,173
+Brooklyn,Sunset Park West,9,116
+Brooklyn,Sunset Park West,10,96
+Brooklyn,Sunset Park West,11,129
+Brooklyn,Sunset Park West,12,129
+Brooklyn,Sunset Park West,13,119
+Brooklyn,Sunset Park West,14,148
+Brooklyn,Sunset Park West,15,179
+Brooklyn,Sunset Park West,16,126
+Brooklyn,Sunset Park West,17,172
+Brooklyn,Sunset Park West,18,179
+Brooklyn,Sunset Park West,19,206
+Brooklyn,Sunset Park West,20,197
+Brooklyn,Sunset Park West,21,160
+Brooklyn,Sunset Park West,22,130
+Brooklyn,Sunset Park West,23,147
+Brooklyn,Williamsburg (North Side),0,1570
+Brooklyn,Williamsburg (North Side),1,1371
+Brooklyn,Williamsburg (North Side),2,1083
+Brooklyn,Williamsburg (North Side),3,916
+Brooklyn,Williamsburg (North Side),4,431
+Brooklyn,Williamsburg (North Side),5,150
+Brooklyn,Williamsburg (North Side),6,86
+Brooklyn,Williamsburg (North Side),7,133
+Brooklyn,Williamsburg (North Side),8,193
+Brooklyn,Williamsburg (North Side),9,124
+Brooklyn,Williamsburg (North Side),10,68
+Brooklyn,Williamsburg (North Side),11,79
+Brooklyn,Williamsburg (North Side),12,105
+Brooklyn,Williamsburg (North Side),13,116
+Brooklyn,Williamsburg (North Side),14,180
+Brooklyn,Williamsburg (North Side),15,226
+Brooklyn,Williamsburg (North Side),16,201
+Brooklyn,Williamsburg (North Side),17,316
+Brooklyn,Williamsburg (North Side),18,529
+Brooklyn,Williamsburg (North Side),19,676
+Brooklyn,Williamsburg (North Side),20,639
+Brooklyn,Williamsburg (North Side),21,819
+Brooklyn,Williamsburg (North Side),22,1243
+Brooklyn,Williamsburg (North Side),23,1450
+Brooklyn,Williamsburg (South Side),0,814
+Brooklyn,Williamsburg (South Side),1,764
+Brooklyn,Williamsburg (South Side),2,565
+Brooklyn,Williamsburg (South Side),3,593
+Brooklyn,Williamsburg (South Side),4,419
+Brooklyn,Williamsburg (South Side),5,190
+Brooklyn,Williamsburg (South Side),6,163
+Brooklyn,Williamsburg (South Side),7,227
+Brooklyn,Williamsburg (South Side),8,299
+Brooklyn,Williamsburg (South Side),9,254
+Brooklyn,Williamsburg (South Side),10,147
+Brooklyn,Williamsburg (South Side),11,136
+Brooklyn,Williamsburg (South Side),12,136
+Brooklyn,Williamsburg (South Side),13,147
+Brooklyn,Williamsburg (South Side),14,197
+Brooklyn,Williamsburg (South Side),15,253
+Brooklyn,Williamsburg (South Side),16,219
+Brooklyn,Williamsburg (South Side),17,298
+Brooklyn,Williamsburg (South Side),18,455
+Brooklyn,Williamsburg (South Side),19,562
+Brooklyn,Williamsburg (South Side),20,586
+Brooklyn,Williamsburg (South Side),21,628
+Brooklyn,Williamsburg (South Side),22,947
+Brooklyn,Williamsburg (South Side),23,856
+Brooklyn,Windsor Terrace,0,34
+Brooklyn,Windsor Terrace,1,14
+Brooklyn,Windsor Terrace,2,5
+Brooklyn,Windsor Terrace,3,8
+Brooklyn,Windsor Terrace,4,8
+Brooklyn,Windsor Terrace,5,33
+Brooklyn,Windsor Terrace,6,37
+Brooklyn,Windsor Terrace,7,104
+Brooklyn,Windsor Terrace,8,94
+Brooklyn,Windsor Terrace,9,49
+Brooklyn,Windsor Terrace,10,42
+Brooklyn,Windsor Terrace,11,35
+Brooklyn,Windsor Terrace,12,49
+Brooklyn,Windsor Terrace,13,41
+Brooklyn,Windsor Terrace,14,36
+Brooklyn,Windsor Terrace,15,33
+Brooklyn,Windsor Terrace,16,30
+Brooklyn,Windsor Terrace,17,27
+Brooklyn,Windsor Terrace,18,43
+Brooklyn,Windsor Terrace,19,48
+Brooklyn,Windsor Terrace,20,44
+Brooklyn,Windsor Terrace,21,30
+Brooklyn,Windsor Terrace,22,30
+Brooklyn,Windsor Terrace,23,53
+EWR,Newark Airport,5,4
+EWR,Newark Airport,6,3
+EWR,Newark Airport,7,1
+EWR,Newark Airport,9,1
+EWR,Newark Airport,10,2
+EWR,Newark Airport,11,1
+EWR,Newark Airport,12,6
+EWR,Newark Airport,13,5
+EWR,Newark Airport,14,7
+EWR,Newark Airport,15,13
+EWR,Newark Airport,16,10
+EWR,Newark Airport,17,8
+EWR,Newark Airport,18,2
+EWR,Newark Airport,19,3
+EWR,Newark Airport,20,2
+EWR,Newark Airport,23,3
+Manhattan,Alphabet City,0,2799
+Manhattan,Alphabet City,1,3246
+Manhattan,Alphabet City,2,2535
+Manhattan,Alphabet City,3,1321
+Manhattan,Alphabet City,4,554
+Manhattan,Alphabet City,5,253
+Manhattan,Alphabet City,6,529
+Manhattan,Alphabet City,7,901
+Manhattan,Alphabet City,8,1159
+Manhattan,Alphabet City,9,1113
+Manhattan,Alphabet City,10,657
+Manhattan,Alphabet City,11,510
+Manhattan,Alphabet City,12,517
+Manhattan,Alphabet City,13,526
+Manhattan,Alphabet City,14,550
+Manhattan,Alphabet City,15,558
+Manhattan,Alphabet City,16,430
+Manhattan,Alphabet City,17,591
+Manhattan,Alphabet City,18,1024
+Manhattan,Alphabet City,19,1105
+Manhattan,Alphabet City,20,1065
+Manhattan,Alphabet City,21,1153
+Manhattan,Alphabet City,22,1661
+Manhattan,Alphabet City,23,2218
+Manhattan,Battery Park,0,13
+Manhattan,Battery Park,1,12
+Manhattan,Battery Park,2,3
+Manhattan,Battery Park,3,5
+Manhattan,Battery Park,4,1
+Manhattan,Battery Park,5,1
+Manhattan,Battery Park,6,5
+Manhattan,Battery Park,7,14
+Manhattan,Battery Park,8,34
+Manhattan,Battery Park,9,44
+Manhattan,Battery Park,10,62
+Manhattan,Battery Park,11,164
+Manhattan,Battery Park,12,273
+Manhattan,Battery Park,13,335
+Manhattan,Battery Park,14,359
+Manhattan,Battery Park,15,431
+Manhattan,Battery Park,16,416
+Manhattan,Battery Park,17,236
+Manhattan,Battery Park,18,88
+Manhattan,Battery Park,19,62
+Manhattan,Battery Park,20,59
+Manhattan,Battery Park,21,40
+Manhattan,Battery Park,22,54
+Manhattan,Battery Park,23,30
+Manhattan,Battery Park City,0,474
+Manhattan,Battery Park City,1,171
+Manhattan,Battery Park City,2,77
+Manhattan,Battery Park City,3,60
+Manhattan,Battery Park City,4,130
+Manhattan,Battery Park City,5,200
+Manhattan,Battery Park City,6,690
+Manhattan,Battery Park City,7,1696
+Manhattan,Battery Park City,8,2612
+Manhattan,Battery Park City,9,2311
+Manhattan,Battery Park City,10,2368
+Manhattan,Battery Park City,11,2908
+Manhattan,Battery Park City,12,3268
+Manhattan,Battery Park City,13,3730
+Manhattan,Battery Park City,14,3837
+Manhattan,Battery Park City,15,3977
+Manhattan,Battery Park City,16,4630
+Manhattan,Battery Park City,17,6347
+Manhattan,Battery Park City,18,6231
+Manhattan,Battery Park City,19,5242
+Manhattan,Battery Park City,20,4297
+Manhattan,Battery Park City,21,3340
+Manhattan,Battery Park City,22,1841
+Manhattan,Battery Park City,23,869
+Manhattan,Bloomingdale,0,442
+Manhattan,Bloomingdale,1,231
+Manhattan,Bloomingdale,2,126
+Manhattan,Bloomingdale,3,99
+Manhattan,Bloomingdale,4,126
+Manhattan,Bloomingdale,5,288
+Manhattan,Bloomingdale,6,491
+Manhattan,Bloomingdale,7,1404
+Manhattan,Bloomingdale,8,1859
+Manhattan,Bloomingdale,9,1686
+Manhattan,Bloomingdale,10,1675
+Manhattan,Bloomingdale,11,1474
+Manhattan,Bloomingdale,12,1609
+Manhattan,Bloomingdale,13,1635
+Manhattan,Bloomingdale,14,1593
+Manhattan,Bloomingdale,15,1549
+Manhattan,Bloomingdale,16,1400
+Manhattan,Bloomingdale,17,1732
+Manhattan,Bloomingdale,18,1703
+Manhattan,Bloomingdale,19,1416
+Manhattan,Bloomingdale,20,1265
+Manhattan,Bloomingdale,21,1151
+Manhattan,Bloomingdale,22,946
+Manhattan,Bloomingdale,23,698
+Manhattan,Central Harlem,0,901
+Manhattan,Central Harlem,1,387
+Manhattan,Central Harlem,2,208
+Manhattan,Central Harlem,3,151
+Manhattan,Central Harlem,4,311
+Manhattan,Central Harlem,5,513
+Manhattan,Central Harlem,6,1137
+Manhattan,Central Harlem,7,2228
+Manhattan,Central Harlem,8,2577
+Manhattan,Central Harlem,9,1774
+Manhattan,Central Harlem,10,1395
+Manhattan,Central Harlem,11,1407
+Manhattan,Central Harlem,12,1624
+Manhattan,Central Harlem,13,1947
+Manhattan,Central Harlem,14,1941
+Manhattan,Central Harlem,15,2040
+Manhattan,Central Harlem,16,1780
+Manhattan,Central Harlem,17,2256
+Manhattan,Central Harlem,18,2512
+Manhattan,Central Harlem,19,2144
+Manhattan,Central Harlem,20,2129
+Manhattan,Central Harlem,21,1770
+Manhattan,Central Harlem,22,1582
+Manhattan,Central Harlem,23,1466
+Manhattan,Central Harlem North,0,627
+Manhattan,Central Harlem North,1,321
+Manhattan,Central Harlem North,2,181
+Manhattan,Central Harlem North,3,151
+Manhattan,Central Harlem North,4,306
+Manhattan,Central Harlem North,5,410
+Manhattan,Central Harlem North,6,1016
+Manhattan,Central Harlem North,7,1885
+Manhattan,Central Harlem North,8,1794
+Manhattan,Central Harlem North,9,1074
+Manhattan,Central Harlem North,10,839
+Manhattan,Central Harlem North,11,829
+Manhattan,Central Harlem North,12,931
+Manhattan,Central Harlem North,13,1008
+Manhattan,Central Harlem North,14,1078
+Manhattan,Central Harlem North,15,1024
+Manhattan,Central Harlem North,16,853
+Manhattan,Central Harlem North,17,988
+Manhattan,Central Harlem North,18,1198
+Manhattan,Central Harlem North,19,1148
+Manhattan,Central Harlem North,20,1152
+Manhattan,Central Harlem North,21,819
+Manhattan,Central Harlem North,22,949
+Manhattan,Central Harlem North,23,918
+Manhattan,Central Park,0,946
+Manhattan,Central Park,1,355
+Manhattan,Central Park,2,127
+Manhattan,Central Park,3,94
+Manhattan,Central Park,4,141
+Manhattan,Central Park,5,237
+Manhattan,Central Park,6,835
+Manhattan,Central Park,7,3171
+Manhattan,Central Park,8,4638
+Manhattan,Central Park,9,5770
+Manhattan,Central Park,10,7329
+Manhattan,Central Park,11,8446
+Manhattan,Central Park,12,10260
+Manhattan,Central Park,13,11025
+Manhattan,Central Park,14,12148
+Manhattan,Central Park,15,14410
+Manhattan,Central Park,16,13564
+Manhattan,Central Park,17,11359
+Manhattan,Central Park,18,8615
+Manhattan,Central Park,19,7035
+Manhattan,Central Park,20,6411
+Manhattan,Central Park,21,5162
+Manhattan,Central Park,22,3431
+Manhattan,Central Park,23,1802
+Manhattan,Chinatown,0,913
+Manhattan,Chinatown,1,675
+Manhattan,Chinatown,2,355
+Manhattan,Chinatown,3,204
+Manhattan,Chinatown,4,137
+Manhattan,Chinatown,5,68
+Manhattan,Chinatown,6,140
+Manhattan,Chinatown,7,240
+Manhattan,Chinatown,8,300
+Manhattan,Chinatown,9,465
+Manhattan,Chinatown,10,567
+Manhattan,Chinatown,11,716
+Manhattan,Chinatown,12,845
+Manhattan,Chinatown,13,897
+Manhattan,Chinatown,14,1046
+Manhattan,Chinatown,15,1228
+Manhattan,Chinatown,16,1134
+Manhattan,Chinatown,17,1006
+Manhattan,Chinatown,18,1240
+Manhattan,Chinatown,19,1242
+Manhattan,Chinatown,20,1516
+Manhattan,Chinatown,21,1390
+Manhattan,Chinatown,22,1290
+Manhattan,Chinatown,23,1201
+Manhattan,Clinton East,0,11417
+Manhattan,Clinton East,1,7340
+Manhattan,Clinton East,2,5010
+Manhattan,Clinton East,3,3978
+Manhattan,Clinton East,4,3410
+Manhattan,Clinton East,5,3454
+Manhattan,Clinton East,6,6188
+Manhattan,Clinton East,7,7285
+Manhattan,Clinton East,8,9202
+Manhattan,Clinton East,9,9467
+Manhattan,Clinton East,10,9333
+Manhattan,Clinton East,11,8994
+Manhattan,Clinton East,12,9084
+Manhattan,Clinton East,13,9021
+Manhattan,Clinton East,14,9358
+Manhattan,Clinton East,15,9329
+Manhattan,Clinton East,16,11212
+Manhattan,Clinton East,17,13301
+Manhattan,Clinton East,18,15948
+Manhattan,Clinton East,19,14525
+Manhattan,Clinton East,20,15553
+Manhattan,Clinton East,21,20472
+Manhattan,Clinton East,22,23409
+Manhattan,Clinton East,23,16638
+Manhattan,Clinton West,0,1859
+Manhattan,Clinton West,1,1066
+Manhattan,Clinton West,2,647
+Manhattan,Clinton West,3,502
+Manhattan,Clinton West,4,587
+Manhattan,Clinton West,5,537
+Manhattan,Clinton West,6,856
+Manhattan,Clinton West,7,1941
+Manhattan,Clinton West,8,3862
+Manhattan,Clinton West,9,3468
+Manhattan,Clinton West,10,3050
+Manhattan,Clinton West,11,2830
+Manhattan,Clinton West,12,2913
+Manhattan,Clinton West,13,2893
+Manhattan,Clinton West,14,2963
+Manhattan,Clinton West,15,2819
+Manhattan,Clinton West,16,3015
+Manhattan,Clinton West,17,3462
+Manhattan,Clinton West,18,3959
+Manhattan,Clinton West,19,3481
+Manhattan,Clinton West,20,3029
+Manhattan,Clinton West,21,3272
+Manhattan,Clinton West,22,3385
+Manhattan,Clinton West,23,2639
+Manhattan,East Chelsea,0,8141
+Manhattan,East Chelsea,1,4837
+Manhattan,East Chelsea,2,3735
+Manhattan,East Chelsea,3,2863
+Manhattan,East Chelsea,4,2023
+Manhattan,East Chelsea,5,1266
+Manhattan,East Chelsea,6,2193
+Manhattan,East Chelsea,7,3985
+Manhattan,East Chelsea,8,7994
+Manhattan,East Chelsea,9,10007
+Manhattan,East Chelsea,10,10664
+Manhattan,East Chelsea,11,12251
+Manhattan,East Chelsea,12,12693
+Manhattan,East Chelsea,13,15039
+Manhattan,East Chelsea,14,15135
+Manhattan,East Chelsea,15,15754
+Manhattan,East Chelsea,16,16310
+Manhattan,East Chelsea,17,20495
+Manhattan,East Chelsea,18,22051
+Manhattan,East Chelsea,19,19820
+Manhattan,East Chelsea,20,18907
+Manhattan,East Chelsea,21,19385
+Manhattan,East Chelsea,22,17319
+Manhattan,East Chelsea,23,11835
+Manhattan,East Harlem North,0,621
+Manhattan,East Harlem North,1,305
+Manhattan,East Harlem North,2,172
+Manhattan,East Harlem North,3,129
+Manhattan,East Harlem North,4,356
+Manhattan,East Harlem North,5,681
+Manhattan,East Harlem North,6,1236
+Manhattan,East Harlem North,7,2098
+Manhattan,East Harlem North,8,2315
+Manhattan,East Harlem North,9,1622
+Manhattan,East Harlem North,10,1316
+Manhattan,East Harlem North,11,1353
+Manhattan,East Harlem North,12,1482
+Manhattan,East Harlem North,13,1662
+Manhattan,East Harlem North,14,1893
+Manhattan,East Harlem North,15,1925
+Manhattan,East Harlem North,16,1666
+Manhattan,East Harlem North,17,1749
+Manhattan,East Harlem North,18,1948
+Manhattan,East Harlem North,19,1601
+Manhattan,East Harlem North,20,1515
+Manhattan,East Harlem North,21,1186
+Manhattan,East Harlem North,22,1119
+Manhattan,East Harlem North,23,1079
+Manhattan,East Harlem South,0,855
+Manhattan,East Harlem South,1,432
+Manhattan,East Harlem South,2,268
+Manhattan,East Harlem South,3,227
+Manhattan,East Harlem South,4,395
+Manhattan,East Harlem South,5,1112
+Manhattan,East Harlem South,6,1838
+Manhattan,East Harlem South,7,3899
+Manhattan,East Harlem South,8,4155
+Manhattan,East Harlem South,9,3917
+Manhattan,East Harlem South,10,3733
+Manhattan,East Harlem South,11,4109
+Manhattan,East Harlem South,12,4355
+Manhattan,East Harlem South,13,4371
+Manhattan,East Harlem South,14,4895
+Manhattan,East Harlem South,15,5152
+Manhattan,East Harlem South,16,4528
+Manhattan,East Harlem South,17,4672
+Manhattan,East Harlem South,18,4211
+Manhattan,East Harlem South,19,3623
+Manhattan,East Harlem South,20,2791
+Manhattan,East Harlem South,21,2125
+Manhattan,East Harlem South,22,1874
+Manhattan,East Harlem South,23,1502
+Manhattan,East Village,0,24040
+Manhattan,East Village,1,21872
+Manhattan,East Village,2,14981
+Manhattan,East Village,3,9821
+Manhattan,East Village,4,4522
+Manhattan,East Village,5,1465
+Manhattan,East Village,6,2628
+Manhattan,East Village,7,4402
+Manhattan,East Village,8,6496
+Manhattan,East Village,9,6830
+Manhattan,East Village,10,5592
+Manhattan,East Village,11,5686
+Manhattan,East Village,12,6287
+Manhattan,East Village,13,6974
+Manhattan,East Village,14,7451
+Manhattan,East Village,15,7999
+Manhattan,East Village,16,7514
+Manhattan,East Village,17,9030
+Manhattan,East Village,18,12828
+Manhattan,East Village,19,14803
+Manhattan,East Village,20,16975
+Manhattan,East Village,21,20921
+Manhattan,East Village,22,23507
+Manhattan,East Village,23,23761
+Manhattan,Financial District North,0,2390
+Manhattan,Financial District North,1,1317
+Manhattan,Financial District North,2,628
+Manhattan,Financial District North,3,305
+Manhattan,Financial District North,4,331
+Manhattan,Financial District North,5,303
+Manhattan,Financial District North,6,609
+Manhattan,Financial District North,7,1044
+Manhattan,Financial District North,8,1805
+Manhattan,Financial District North,9,1856
+Manhattan,Financial District North,10,1731
+Manhattan,Financial District North,11,1950
+Manhattan,Financial District North,12,2302
+Manhattan,Financial District North,13,2614
+Manhattan,Financial District North,14,2415
+Manhattan,Financial District North,15,2726
+Manhattan,Financial District North,16,2932
+Manhattan,Financial District North,17,4349
+Manhattan,Financial District North,18,5190
+Manhattan,Financial District North,19,4683
+Manhattan,Financial District North,20,4682
+Manhattan,Financial District North,21,4061
+Manhattan,Financial District North,22,3924
+Manhattan,Financial District North,23,3166
+Manhattan,Financial District South,0,1425
+Manhattan,Financial District South,1,903
+Manhattan,Financial District South,2,428
+Manhattan,Financial District South,3,152
+Manhattan,Financial District South,4,108
+Manhattan,Financial District South,5,71
+Manhattan,Financial District South,6,140
+Manhattan,Financial District South,7,225
+Manhattan,Financial District South,8,408
+Manhattan,Financial District South,9,488
+Manhattan,Financial District South,10,715
+Manhattan,Financial District South,11,905
+Manhattan,Financial District South,12,1202
+Manhattan,Financial District South,13,1556
+Manhattan,Financial District South,14,1723
+Manhattan,Financial District South,15,1903
+Manhattan,Financial District South,16,2203
+Manhattan,Financial District South,17,2580
+Manhattan,Financial District South,18,2305
+Manhattan,Financial District South,19,2151
+Manhattan,Financial District South,20,2146
+Manhattan,Financial District South,21,2143
+Manhattan,Financial District South,22,1928
+Manhattan,Financial District South,23,1688
+Manhattan,Flatiron,0,7047
+Manhattan,Flatiron,1,4904
+Manhattan,Flatiron,2,3273
+Manhattan,Flatiron,3,2190
+Manhattan,Flatiron,4,1613
+Manhattan,Flatiron,5,1026
+Manhattan,Flatiron,6,1691
+Manhattan,Flatiron,7,3238
+Manhattan,Flatiron,8,5840
+Manhattan,Flatiron,9,6393
+Manhattan,Flatiron,10,6416
+Manhattan,Flatiron,11,6898
+Manhattan,Flatiron,12,7343
+Manhattan,Flatiron,13,7585
+Manhattan,Flatiron,14,8080
+Manhattan,Flatiron,15,8205
+Manhattan,Flatiron,16,8252
+Manhattan,Flatiron,17,9630
+Manhattan,Flatiron,18,12255
+Manhattan,Flatiron,19,11541
+Manhattan,Flatiron,20,11038
+Manhattan,Flatiron,21,11335
+Manhattan,Flatiron,22,10359
+Manhattan,Flatiron,23,8676
+Manhattan,Garment District,0,4020
+Manhattan,Garment District,1,2401
+Manhattan,Garment District,2,1312
+Manhattan,Garment District,3,1014
+Manhattan,Garment District,4,887
+Manhattan,Garment District,5,3132
+Manhattan,Garment District,6,5527
+Manhattan,Garment District,7,5565
+Manhattan,Garment District,8,5350
+Manhattan,Garment District,9,5909
+Manhattan,Garment District,10,6093
+Manhattan,Garment District,11,6754
+Manhattan,Garment District,12,7124
+Manhattan,Garment District,13,7438
+Manhattan,Garment District,14,7870
+Manhattan,Garment District,15,7703
+Manhattan,Garment District,16,8966
+Manhattan,Garment District,17,10599
+Manhattan,Garment District,18,10883
+Manhattan,Garment District,19,8837
+Manhattan,Garment District,20,8591
+Manhattan,Garment District,21,8900
+Manhattan,Garment District,22,8834
+Manhattan,Garment District,23,5675
+Manhattan,Gramercy,0,8180
+Manhattan,Gramercy,1,5514
+Manhattan,Gramercy,2,3227
+Manhattan,Gramercy,3,2013
+Manhattan,Gramercy,4,1429
+Manhattan,Gramercy,5,1424
+Manhattan,Gramercy,6,3344
+Manhattan,Gramercy,7,6484
+Manhattan,Gramercy,8,9168
+Manhattan,Gramercy,9,9636
+Manhattan,Gramercy,10,8537
+Manhattan,Gramercy,11,8654
+Manhattan,Gramercy,12,9210
+Manhattan,Gramercy,13,9538
+Manhattan,Gramercy,14,10145
+Manhattan,Gramercy,15,10240
+Manhattan,Gramercy,16,10058
+Manhattan,Gramercy,17,11705
+Manhattan,Gramercy,18,13894
+Manhattan,Gramercy,19,13476
+Manhattan,Gramercy,20,13666
+Manhattan,Gramercy,21,13519
+Manhattan,Gramercy,22,13406
+Manhattan,Gramercy,23,10954
+Manhattan,Greenwich Village North,0,5813
+Manhattan,Greenwich Village North,1,4282
+Manhattan,Greenwich Village North,2,3043
+Manhattan,Greenwich Village North,3,1829
+Manhattan,Greenwich Village North,4,837
+Manhattan,Greenwich Village North,5,509
+Manhattan,Greenwich Village North,6,1229
+Manhattan,Greenwich Village North,7,2888
+Manhattan,Greenwich Village North,8,5273
+Manhattan,Greenwich Village North,9,5422
+Manhattan,Greenwich Village North,10,5412
+Manhattan,Greenwich Village North,11,6068
+Manhattan,Greenwich Village North,12,6708
+Manhattan,Greenwich Village North,13,7138
+Manhattan,Greenwich Village North,14,7796
+Manhattan,Greenwich Village North,15,8641
+Manhattan,Greenwich Village North,16,8442
+Manhattan,Greenwich Village North,17,9275
+Manhattan,Greenwich Village North,18,10829
+Manhattan,Greenwich Village North,19,10233
+Manhattan,Greenwich Village North,20,10864
+Manhattan,Greenwich Village North,21,11461
+Manhattan,Greenwich Village North,22,10178
+Manhattan,Greenwich Village North,23,8191
+Manhattan,Greenwich Village South,0,15872
+Manhattan,Greenwich Village South,1,14129
+Manhattan,Greenwich Village South,2,9532
+Manhattan,Greenwich Village South,3,5153
+Manhattan,Greenwich Village South,4,1627
+Manhattan,Greenwich Village South,5,392
+Manhattan,Greenwich Village South,6,560
+Manhattan,Greenwich Village South,7,1123
+Manhattan,Greenwich Village South,8,2054
+Manhattan,Greenwich Village South,9,2072
+Manhattan,Greenwich Village South,10,2297
+Manhattan,Greenwich Village South,11,2757
+Manhattan,Greenwich Village South,12,3518
+Manhattan,Greenwich Village South,13,4230
+Manhattan,Greenwich Village South,14,4840
+Manhattan,Greenwich Village South,15,5784
+Manhattan,Greenwich Village South,16,5903
+Manhattan,Greenwich Village South,17,6656
+Manhattan,Greenwich Village South,18,8627
+Manhattan,Greenwich Village South,19,9471
+Manhattan,Greenwich Village South,20,11320
+Manhattan,Greenwich Village South,21,15385
+Manhattan,Greenwich Village South,22,16171
+Manhattan,Greenwich Village South,23,16638
+Manhattan,Hamilton Heights,0,466
+Manhattan,Hamilton Heights,1,222
+Manhattan,Hamilton Heights,2,106
+Manhattan,Hamilton Heights,3,91
+Manhattan,Hamilton Heights,4,182
+Manhattan,Hamilton Heights,5,234
+Manhattan,Hamilton Heights,6,576
+Manhattan,Hamilton Heights,7,1177
+Manhattan,Hamilton Heights,8,1288
+Manhattan,Hamilton Heights,9,707
+Manhattan,Hamilton Heights,10,481
+Manhattan,Hamilton Heights,11,454
+Manhattan,Hamilton Heights,12,502
+Manhattan,Hamilton Heights,13,533
+Manhattan,Hamilton Heights,14,572
+Manhattan,Hamilton Heights,15,532
+Manhattan,Hamilton Heights,16,422
+Manhattan,Hamilton Heights,17,528
+Manhattan,Hamilton Heights,18,764
+Manhattan,Hamilton Heights,19,750
+Manhattan,Hamilton Heights,20,751
+Manhattan,Hamilton Heights,21,597
+Manhattan,Hamilton Heights,22,755
+Manhattan,Hamilton Heights,23,721
+Manhattan,Highbridge Park,0,4
+Manhattan,Highbridge Park,1,2
+Manhattan,Highbridge Park,3,1
+Manhattan,Highbridge Park,4,1
+Manhattan,Highbridge Park,6,4
+Manhattan,Highbridge Park,7,8
+Manhattan,Highbridge Park,8,7
+Manhattan,Highbridge Park,9,4
+Manhattan,Highbridge Park,10,5
+Manhattan,Highbridge Park,11,2
+Manhattan,Highbridge Park,12,4
+Manhattan,Highbridge Park,13,1
+Manhattan,Highbridge Park,14,6
+Manhattan,Highbridge Park,15,2
+Manhattan,Highbridge Park,16,3
+Manhattan,Highbridge Park,17,3
+Manhattan,Highbridge Park,18,8
+Manhattan,Highbridge Park,19,6
+Manhattan,Highbridge Park,20,9
+Manhattan,Highbridge Park,21,12
+Manhattan,Highbridge Park,22,6
+Manhattan,Highbridge Park,23,11
+Manhattan,Hudson Sq,0,2074
+Manhattan,Hudson Sq,1,1680
+Manhattan,Hudson Sq,2,1177
+Manhattan,Hudson Sq,3,973
+Manhattan,Hudson Sq,4,703
+Manhattan,Hudson Sq,5,253
+Manhattan,Hudson Sq,6,407
+Manhattan,Hudson Sq,7,1247
+Manhattan,Hudson Sq,8,2002
+Manhattan,Hudson Sq,9,1870
+Manhattan,Hudson Sq,10,1876
+Manhattan,Hudson Sq,11,1966
+Manhattan,Hudson Sq,12,2180
+Manhattan,Hudson Sq,13,2428
+Manhattan,Hudson Sq,14,2459
+Manhattan,Hudson Sq,15,2660
+Manhattan,Hudson Sq,16,2789
+Manhattan,Hudson Sq,17,3596
+Manhattan,Hudson Sq,18,3992
+Manhattan,Hudson Sq,19,3598
+Manhattan,Hudson Sq,20,3635
+Manhattan,Hudson Sq,21,3489
+Manhattan,Hudson Sq,22,3486
+Manhattan,Hudson Sq,23,2665
+Manhattan,Inwood,0,87
+Manhattan,Inwood,1,50
+Manhattan,Inwood,2,36
+Manhattan,Inwood,3,52
+Manhattan,Inwood,4,78
+Manhattan,Inwood,5,27
+Manhattan,Inwood,6,51
+Manhattan,Inwood,7,118
+Manhattan,Inwood,8,120
+Manhattan,Inwood,9,68
+Manhattan,Inwood,10,68
+Manhattan,Inwood,11,59
+Manhattan,Inwood,12,60
+Manhattan,Inwood,13,65
+Manhattan,Inwood,14,149
+Manhattan,Inwood,15,109
+Manhattan,Inwood,16,69
+Manhattan,Inwood,17,78
+Manhattan,Inwood,18,133
+Manhattan,Inwood,19,116
+Manhattan,Inwood,20,131
+Manhattan,Inwood,21,95
+Manhattan,Inwood,22,133
+Manhattan,Inwood,23,129
+Manhattan,Inwood Hill Park,0,2
+Manhattan,Inwood Hill Park,1,1
+Manhattan,Inwood Hill Park,2,2
+Manhattan,Inwood Hill Park,3,1
+Manhattan,Inwood Hill Park,5,2
+Manhattan,Inwood Hill Park,6,2
+Manhattan,Inwood Hill Park,7,6
+Manhattan,Inwood Hill Park,8,5
+Manhattan,Inwood Hill Park,9,5
+Manhattan,Inwood Hill Park,10,5
+Manhattan,Inwood Hill Park,11,4
+Manhattan,Inwood Hill Park,12,9
+Manhattan,Inwood Hill Park,13,5
+Manhattan,Inwood Hill Park,14,7
+Manhattan,Inwood Hill Park,15,6
+Manhattan,Inwood Hill Park,16,10
+Manhattan,Inwood Hill Park,17,14
+Manhattan,Inwood Hill Park,18,1
+Manhattan,Inwood Hill Park,19,7
+Manhattan,Inwood Hill Park,20,13
+Manhattan,Inwood Hill Park,21,2
+Manhattan,Inwood Hill Park,22,11
+Manhattan,Inwood Hill Park,23,8
+Manhattan,Kips Bay,0,4059
+Manhattan,Kips Bay,1,2405
+Manhattan,Kips Bay,2,1365
+Manhattan,Kips Bay,3,1000
+Manhattan,Kips Bay,4,966
+Manhattan,Kips Bay,5,864
+Manhattan,Kips Bay,6,1675
+Manhattan,Kips Bay,7,3721
+Manhattan,Kips Bay,8,4728
+Manhattan,Kips Bay,9,4554
+Manhattan,Kips Bay,10,4857
+Manhattan,Kips Bay,11,5390
+Manhattan,Kips Bay,12,5939
+Manhattan,Kips Bay,13,5978
+Manhattan,Kips Bay,14,6193
+Manhattan,Kips Bay,15,7023
+Manhattan,Kips Bay,16,7085
+Manhattan,Kips Bay,17,7555
+Manhattan,Kips Bay,18,8317
+Manhattan,Kips Bay,19,8318
+Manhattan,Kips Bay,20,6857
+Manhattan,Kips Bay,21,5638
+Manhattan,Kips Bay,22,5234
+Manhattan,Kips Bay,23,5017
+Manhattan,Lenox Hill East,0,1847
+Manhattan,Lenox Hill East,1,925
+Manhattan,Lenox Hill East,2,528
+Manhattan,Lenox Hill East,3,439
+Manhattan,Lenox Hill East,4,570
+Manhattan,Lenox Hill East,5,998
+Manhattan,Lenox Hill East,6,2734
+Manhattan,Lenox Hill East,7,7906
+Manhattan,Lenox Hill East,8,12614
+Manhattan,Lenox Hill East,9,12248
+Manhattan,Lenox Hill East,10,12661
+Manhattan,Lenox Hill East,11,13590
+Manhattan,Lenox Hill East,12,14282
+Manhattan,Lenox Hill East,13,14071
+Manhattan,Lenox Hill East,14,15515
+Manhattan,Lenox Hill East,15,16949
+Manhattan,Lenox Hill East,16,15923
+Manhattan,Lenox Hill East,17,16241
+Manhattan,Lenox Hill East,18,14259
+Manhattan,Lenox Hill East,19,11937
+Manhattan,Lenox Hill East,20,9162
+Manhattan,Lenox Hill East,21,6125
+Manhattan,Lenox Hill East,22,4404
+Manhattan,Lenox Hill East,23,2839
+Manhattan,Lenox Hill West,0,3581
+Manhattan,Lenox Hill West,1,2108
+Manhattan,Lenox Hill West,2,1262
+Manhattan,Lenox Hill West,3,1001
+Manhattan,Lenox Hill West,4,1056
+Manhattan,Lenox Hill West,5,1408
+Manhattan,Lenox Hill West,6,3714
+Manhattan,Lenox Hill West,7,9395
+Manhattan,Lenox Hill West,8,12642
+Manhattan,Lenox Hill West,9,12505
+Manhattan,Lenox Hill West,10,13272
+Manhattan,Lenox Hill West,11,13469
+Manhattan,Lenox Hill West,12,14374
+Manhattan,Lenox Hill West,13,14544
+Manhattan,Lenox Hill West,14,15074
+Manhattan,Lenox Hill West,15,15239
+Manhattan,Lenox Hill West,16,13717
+Manhattan,Lenox Hill West,17,15213
+Manhattan,Lenox Hill West,18,16832
+Manhattan,Lenox Hill West,19,14842
+Manhattan,Lenox Hill West,20,12774
+Manhattan,Lenox Hill West,21,11520
+Manhattan,Lenox Hill West,22,9155
+Manhattan,Lenox Hill West,23,5862
+Manhattan,Lincoln Square East,0,5376
+Manhattan,Lincoln Square East,1,1631
+Manhattan,Lincoln Square East,2,601
+Manhattan,Lincoln Square East,3,389
+Manhattan,Lincoln Square East,4,587
+Manhattan,Lincoln Square East,5,1025
+Manhattan,Lincoln Square East,6,2347
+Manhattan,Lincoln Square East,7,7658
+Manhattan,Lincoln Square East,8,12150
+Manhattan,Lincoln Square East,9,12406
+Manhattan,Lincoln Square East,10,13752
+Manhattan,Lincoln Square East,11,14955
+Manhattan,Lincoln Square East,12,16665
+Manhattan,Lincoln Square East,13,16981
+Manhattan,Lincoln Square East,14,18285
+Manhattan,Lincoln Square East,15,19174
+Manhattan,Lincoln Square East,16,18791
+Manhattan,Lincoln Square East,17,20818
+Manhattan,Lincoln Square East,18,23367
+Manhattan,Lincoln Square East,19,19508
+Manhattan,Lincoln Square East,20,19842
+Manhattan,Lincoln Square East,21,29526
+Manhattan,Lincoln Square East,22,25071
+Manhattan,Lincoln Square East,23,13858
+Manhattan,Lincoln Square West,0,1080
+Manhattan,Lincoln Square West,1,415
+Manhattan,Lincoln Square West,2,187
+Manhattan,Lincoln Square West,3,196
+Manhattan,Lincoln Square West,4,257
+Manhattan,Lincoln Square West,5,757
+Manhattan,Lincoln Square West,6,1956
+Manhattan,Lincoln Square West,7,5642
+Manhattan,Lincoln Square West,8,8621
+Manhattan,Lincoln Square West,9,8539
+Manhattan,Lincoln Square West,10,7372
+Manhattan,Lincoln Square West,11,6912
+Manhattan,Lincoln Square West,12,7131
+Manhattan,Lincoln Square West,13,6899
+Manhattan,Lincoln Square West,14,7065
+Manhattan,Lincoln Square West,15,7394
+Manhattan,Lincoln Square West,16,6914
+Manhattan,Lincoln Square West,17,7570
+Manhattan,Lincoln Square West,18,8291
+Manhattan,Lincoln Square West,19,6174
+Manhattan,Lincoln Square West,20,4690
+Manhattan,Lincoln Square West,21,4338
+Manhattan,Lincoln Square West,22,3672
+Manhattan,Lincoln Square West,23,2383
+Manhattan,Little Italy/NoLiTa,0,6952
+Manhattan,Little Italy/NoLiTa,1,6732
+Manhattan,Little Italy/NoLiTa,2,5888
+Manhattan,Little Italy/NoLiTa,3,4135
+Manhattan,Little Italy/NoLiTa,4,2301
+Manhattan,Little Italy/NoLiTa,5,380
+Manhattan,Little Italy/NoLiTa,6,290
+Manhattan,Little Italy/NoLiTa,7,686
+Manhattan,Little Italy/NoLiTa,8,1392
+Manhattan,Little Italy/NoLiTa,9,1336
+Manhattan,Little Italy/NoLiTa,10,1707
+Manhattan,Little Italy/NoLiTa,11,2440
+Manhattan,Little Italy/NoLiTa,12,3441
+Manhattan,Little Italy/NoLiTa,13,4647
+Manhattan,Little Italy/NoLiTa,14,5590
+Manhattan,Little Italy/NoLiTa,15,6536
+Manhattan,Little Italy/NoLiTa,16,6715
+Manhattan,Little Italy/NoLiTa,17,7425
+Manhattan,Little Italy/NoLiTa,18,8186
+Manhattan,Little Italy/NoLiTa,19,7755
+Manhattan,Little Italy/NoLiTa,20,7890
+Manhattan,Little Italy/NoLiTa,21,8118
+Manhattan,Little Italy/NoLiTa,22,8044
+Manhattan,Little Italy/NoLiTa,23,7356
+Manhattan,Lower East Side,0,12992
+Manhattan,Lower East Side,1,13507
+Manhattan,Lower East Side,2,11263
+Manhattan,Lower East Side,3,7947
+Manhattan,Lower East Side,4,3647
+Manhattan,Lower East Side,5,615
+Manhattan,Lower East Side,6,650
+Manhattan,Lower East Side,7,1286
+Manhattan,Lower East Side,8,1834
+Manhattan,Lower East Side,9,1782
+Manhattan,Lower East Side,10,1632
+Manhattan,Lower East Side,11,1859
+Manhattan,Lower East Side,12,2256
+Manhattan,Lower East Side,13,2642
+Manhattan,Lower East Side,14,3045
+Manhattan,Lower East Side,15,3281
+Manhattan,Lower East Side,16,3193
+Manhattan,Lower East Side,17,3618
+Manhattan,Lower East Side,18,4752
+Manhattan,Lower East Side,19,5584
+Manhattan,Lower East Side,20,6570
+Manhattan,Lower East Side,21,7649
+Manhattan,Lower East Side,22,9830
+Manhattan,Lower East Side,23,11282
+Manhattan,Manhattan Valley,0,811
+Manhattan,Manhattan Valley,1,318
+Manhattan,Manhattan Valley,2,168
+Manhattan,Manhattan Valley,3,169
+Manhattan,Manhattan Valley,4,267
+Manhattan,Manhattan Valley,5,600
+Manhattan,Manhattan Valley,6,1635
+Manhattan,Manhattan Valley,7,4130
+Manhattan,Manhattan Valley,8,5410
+Manhattan,Manhattan Valley,9,5330
+Manhattan,Manhattan Valley,10,5235
+Manhattan,Manhattan Valley,11,5281
+Manhattan,Manhattan Valley,12,5421
+Manhattan,Manhattan Valley,13,5614
+Manhattan,Manhattan Valley,14,5387
+Manhattan,Manhattan Valley,15,5159
+Manhattan,Manhattan Valley,16,4883
+Manhattan,Manhattan Valley,17,5289
+Manhattan,Manhattan Valley,18,5769
+Manhattan,Manhattan Valley,19,4219
+Manhattan,Manhattan Valley,20,3524
+Manhattan,Manhattan Valley,21,2539
+Manhattan,Manhattan Valley,22,2157
+Manhattan,Manhattan Valley,23,1343
+Manhattan,Manhattanville,0,279
+Manhattan,Manhattanville,1,127
+Manhattan,Manhattanville,2,55
+Manhattan,Manhattanville,3,40
+Manhattan,Manhattanville,4,83
+Manhattan,Manhattanville,5,104
+Manhattan,Manhattanville,6,354
+Manhattan,Manhattanville,7,634
+Manhattan,Manhattanville,8,566
+Manhattan,Manhattanville,9,433
+Manhattan,Manhattanville,10,335
+Manhattan,Manhattanville,11,334
+Manhattan,Manhattanville,12,397
+Manhattan,Manhattanville,13,512
+Manhattan,Manhattanville,14,488
+Manhattan,Manhattanville,15,567
+Manhattan,Manhattanville,16,476
+Manhattan,Manhattanville,17,661
+Manhattan,Manhattanville,18,714
+Manhattan,Manhattanville,19,665
+Manhattan,Manhattanville,20,602
+Manhattan,Manhattanville,21,504
+Manhattan,Manhattanville,22,476
+Manhattan,Manhattanville,23,459
+Manhattan,Marble Hill,0,15
+Manhattan,Marble Hill,1,7
+Manhattan,Marble Hill,2,2
+Manhattan,Marble Hill,3,1
+Manhattan,Marble Hill,4,4
+Manhattan,Marble Hill,5,14
+Manhattan,Marble Hill,6,9
+Manhattan,Marble Hill,7,16
+Manhattan,Marble Hill,8,13
+Manhattan,Marble Hill,9,17
+Manhattan,Marble Hill,10,13
+Manhattan,Marble Hill,11,10
+Manhattan,Marble Hill,12,16
+Manhattan,Marble Hill,13,20
+Manhattan,Marble Hill,14,14
+Manhattan,Marble Hill,15,9
+Manhattan,Marble Hill,16,15
+Manhattan,Marble Hill,17,13
+Manhattan,Marble Hill,18,33
+Manhattan,Marble Hill,19,24
+Manhattan,Marble Hill,20,26
+Manhattan,Marble Hill,21,14
+Manhattan,Marble Hill,22,21
+Manhattan,Marble Hill,23,13
+Manhattan,Meatpacking/West Village West,0,7389
+Manhattan,Meatpacking/West Village West,1,6852
+Manhattan,Meatpacking/West Village West,2,4833
+Manhattan,Meatpacking/West Village West,3,2565
+Manhattan,Meatpacking/West Village West,4,683
+Manhattan,Meatpacking/West Village West,5,269
+Manhattan,Meatpacking/West Village West,6,770
+Manhattan,Meatpacking/West Village West,7,1638
+Manhattan,Meatpacking/West Village West,8,2950
+Manhattan,Meatpacking/West Village West,9,2267
+Manhattan,Meatpacking/West Village West,10,2191
+Manhattan,Meatpacking/West Village West,11,2411
+Manhattan,Meatpacking/West Village West,12,2943
+Manhattan,Meatpacking/West Village West,13,3450
+Manhattan,Meatpacking/West Village West,14,4078
+Manhattan,Meatpacking/West Village West,15,4786
+Manhattan,Meatpacking/West Village West,16,4703
+Manhattan,Meatpacking/West Village West,17,5695
+Manhattan,Meatpacking/West Village West,18,6189
+Manhattan,Meatpacking/West Village West,19,6084
+Manhattan,Meatpacking/West Village West,20,7111
+Manhattan,Meatpacking/West Village West,21,8158
+Manhattan,Meatpacking/West Village West,22,8063
+Manhattan,Meatpacking/West Village West,23,7742
+Manhattan,Midtown Center,0,6538
+Manhattan,Midtown Center,1,2447
+Manhattan,Midtown Center,2,947
+Manhattan,Midtown Center,3,597
+Manhattan,Midtown Center,4,724
+Manhattan,Midtown Center,5,981
+Manhattan,Midtown Center,6,2926
+Manhattan,Midtown Center,7,6180
+Manhattan,Midtown Center,8,10058
+Manhattan,Midtown Center,9,14157
+Manhattan,Midtown Center,10,17622
+Manhattan,Midtown Center,11,22156
+Manhattan,Midtown Center,12,25073
+Manhattan,Midtown Center,13,28281
+Manhattan,Midtown Center,14,31032
+Manhattan,Midtown Center,15,32357
+Manhattan,Midtown Center,16,36645
+Manhattan,Midtown Center,17,45004
+Manhattan,Midtown Center,18,45915
+Manhattan,Midtown Center,19,38729
+Manhattan,Midtown Center,20,38473
+Manhattan,Midtown Center,21,35485
+Manhattan,Midtown Center,22,27514
+Manhattan,Midtown Center,23,14804
+Manhattan,Midtown East,0,4021
+Manhattan,Midtown East,1,1926
+Manhattan,Midtown East,2,897
+Manhattan,Midtown East,3,574
+Manhattan,Midtown East,4,642
+Manhattan,Midtown East,5,1594
+Manhattan,Midtown East,6,5038
+Manhattan,Midtown East,7,8946
+Manhattan,Midtown East,8,13297
+Manhattan,Midtown East,9,15197
+Manhattan,Midtown East,10,15107
+Manhattan,Midtown East,11,17157
+Manhattan,Midtown East,12,18502
+Manhattan,Midtown East,13,18410
+Manhattan,Midtown East,14,19524
+Manhattan,Midtown East,15,20240
+Manhattan,Midtown East,16,22919
+Manhattan,Midtown East,17,30816
+Manhattan,Midtown East,18,33395
+Manhattan,Midtown East,19,26787
+Manhattan,Midtown East,20,25388
+Manhattan,Midtown East,21,20277
+Manhattan,Midtown East,22,13829
+Manhattan,Midtown East,23,7772
+Manhattan,Midtown North,0,5108
+Manhattan,Midtown North,1,2304
+Manhattan,Midtown North,2,1197
+Manhattan,Midtown North,3,800
+Manhattan,Midtown North,4,835
+Manhattan,Midtown North,5,987
+Manhattan,Midtown North,6,1645
+Manhattan,Midtown North,7,4200
+Manhattan,Midtown North,8,6951
+Manhattan,Midtown North,9,8977
+Manhattan,Midtown North,10,11589
+Manhattan,Midtown North,11,14023
+Manhattan,Midtown North,12,15345
+Manhattan,Midtown North,13,16758
+Manhattan,Midtown North,14,17719
+Manhattan,Midtown North,15,18120
+Manhattan,Midtown North,16,19487
+Manhattan,Midtown North,17,22602
+Manhattan,Midtown North,18,24979
+Manhattan,Midtown North,19,20630
+Manhattan,Midtown North,20,18720
+Manhattan,Midtown North,21,19405
+Manhattan,Midtown North,22,18766
+Manhattan,Midtown North,23,10139
+Manhattan,Midtown South,0,8047
+Manhattan,Midtown South,1,5040
+Manhattan,Midtown South,2,2791
+Manhattan,Midtown South,3,1985
+Manhattan,Midtown South,4,1698
+Manhattan,Midtown South,5,1079
+Manhattan,Midtown South,6,1517
+Manhattan,Midtown South,7,3168
+Manhattan,Midtown South,8,6189
+Manhattan,Midtown South,9,7095
+Manhattan,Midtown South,10,8280
+Manhattan,Midtown South,11,9906
+Manhattan,Midtown South,12,10726
+Manhattan,Midtown South,13,11454
+Manhattan,Midtown South,14,11947
+Manhattan,Midtown South,15,11997
+Manhattan,Midtown South,16,12913
+Manhattan,Midtown South,17,15644
+Manhattan,Midtown South,18,17461
+Manhattan,Midtown South,19,16558
+Manhattan,Midtown South,20,16785
+Manhattan,Midtown South,21,16574
+Manhattan,Midtown South,22,16100
+Manhattan,Midtown South,23,11677
+Manhattan,Morningside Heights,0,983
+Manhattan,Morningside Heights,1,405
+Manhattan,Morningside Heights,2,239
+Manhattan,Morningside Heights,3,147
+Manhattan,Morningside Heights,4,206
+Manhattan,Morningside Heights,5,343
+Manhattan,Morningside Heights,6,706
+Manhattan,Morningside Heights,7,1858
+Manhattan,Morningside Heights,8,2613
+Manhattan,Morningside Heights,9,2345
+Manhattan,Morningside Heights,10,2343
+Manhattan,Morningside Heights,11,2566
+Manhattan,Morningside Heights,12,3268
+Manhattan,Morningside Heights,13,3241
+Manhattan,Morningside Heights,14,3244
+Manhattan,Morningside Heights,15,3673
+Manhattan,Morningside Heights,16,3348
+Manhattan,Morningside Heights,17,4337
+Manhattan,Morningside Heights,18,4280
+Manhattan,Morningside Heights,19,3599
+Manhattan,Morningside Heights,20,3636
+Manhattan,Morningside Heights,21,2985
+Manhattan,Morningside Heights,22,2420
+Manhattan,Morningside Heights,23,1701
+Manhattan,Murray Hill,0,5749
+Manhattan,Murray Hill,1,2994
+Manhattan,Murray Hill,2,1503
+Manhattan,Murray Hill,3,938
+Manhattan,Murray Hill,4,952
+Manhattan,Murray Hill,5,1272
+Manhattan,Murray Hill,6,3339
+Manhattan,Murray Hill,7,6946
+Manhattan,Murray Hill,8,11359
+Manhattan,Murray Hill,9,12965
+Manhattan,Murray Hill,10,14179
+Manhattan,Murray Hill,11,15332
+Manhattan,Murray Hill,12,15977
+Manhattan,Murray Hill,13,16644
+Manhattan,Murray Hill,14,17068
+Manhattan,Murray Hill,15,16498
+Manhattan,Murray Hill,16,17317
+Manhattan,Murray Hill,17,20340
+Manhattan,Murray Hill,18,22147
+Manhattan,Murray Hill,19,20294
+Manhattan,Murray Hill,20,19300
+Manhattan,Murray Hill,21,16196
+Manhattan,Murray Hill,22,13722
+Manhattan,Murray Hill,23,9376
+Manhattan,Penn Station/Madison Sq West,0,8435
+Manhattan,Penn Station/Madison Sq West,1,4104
+Manhattan,Penn Station/Madison Sq West,2,2417
+Manhattan,Penn Station/Madison Sq West,3,1399
+Manhattan,Penn Station/Madison Sq West,4,1345
+Manhattan,Penn Station/Madison Sq West,5,4031
+Manhattan,Penn Station/Madison Sq West,6,8552
+Manhattan,Penn Station/Madison Sq West,7,13431
+Manhattan,Penn Station/Madison Sq West,8,17382
+Manhattan,Penn Station/Madison Sq West,9,19018
+Manhattan,Penn Station/Madison Sq West,10,17809
+Manhattan,Penn Station/Madison Sq West,11,19159
+Manhattan,Penn Station/Madison Sq West,12,18146
+Manhattan,Penn Station/Madison Sq West,13,21627
+Manhattan,Penn Station/Madison Sq West,14,17631
+Manhattan,Penn Station/Madison Sq West,15,18056
+Manhattan,Penn Station/Madison Sq West,16,18594
+Manhattan,Penn Station/Madison Sq West,17,22323
+Manhattan,Penn Station/Madison Sq West,18,21230
+Manhattan,Penn Station/Madison Sq West,19,19935
+Manhattan,Penn Station/Madison Sq West,20,18259
+Manhattan,Penn Station/Madison Sq West,21,22399
+Manhattan,Penn Station/Madison Sq West,22,19478
+Manhattan,Penn Station/Madison Sq West,23,13016
+Manhattan,Randalls Island,0,5
+Manhattan,Randalls Island,1,7
+Manhattan,Randalls Island,4,3
+Manhattan,Randalls Island,5,6
+Manhattan,Randalls Island,6,10
+Manhattan,Randalls Island,7,10
+Manhattan,Randalls Island,8,18
+Manhattan,Randalls Island,9,9
+Manhattan,Randalls Island,10,19
+Manhattan,Randalls Island,11,6
+Manhattan,Randalls Island,12,14
+Manhattan,Randalls Island,13,15
+Manhattan,Randalls Island,14,23
+Manhattan,Randalls Island,15,37
+Manhattan,Randalls Island,16,25
+Manhattan,Randalls Island,17,13
+Manhattan,Randalls Island,18,23
+Manhattan,Randalls Island,19,21
+Manhattan,Randalls Island,20,24
+Manhattan,Randalls Island,21,45
+Manhattan,Randalls Island,22,88
+Manhattan,Randalls Island,23,25
+Manhattan,Roosevelt Island,0,19
+Manhattan,Roosevelt Island,1,12
+Manhattan,Roosevelt Island,2,8
+Manhattan,Roosevelt Island,3,10
+Manhattan,Roosevelt Island,4,11
+Manhattan,Roosevelt Island,5,7
+Manhattan,Roosevelt Island,6,37
+Manhattan,Roosevelt Island,7,35
+Manhattan,Roosevelt Island,8,33
+Manhattan,Roosevelt Island,9,40
+Manhattan,Roosevelt Island,10,27
+Manhattan,Roosevelt Island,11,40
+Manhattan,Roosevelt Island,12,36
+Manhattan,Roosevelt Island,13,28
+Manhattan,Roosevelt Island,14,27
+Manhattan,Roosevelt Island,15,42
+Manhattan,Roosevelt Island,16,26
+Manhattan,Roosevelt Island,17,22
+Manhattan,Roosevelt Island,18,32
+Manhattan,Roosevelt Island,19,28
+Manhattan,Roosevelt Island,20,26
+Manhattan,Roosevelt Island,21,26
+Manhattan,Roosevelt Island,22,36
+Manhattan,Roosevelt Island,23,38
+Manhattan,Seaport,0,1148
+Manhattan,Seaport,1,790
+Manhattan,Seaport,2,448
+Manhattan,Seaport,3,246
+Manhattan,Seaport,4,146
+Manhattan,Seaport,5,92
+Manhattan,Seaport,6,134
+Manhattan,Seaport,7,217
+Manhattan,Seaport,8,372
+Manhattan,Seaport,9,390
+Manhattan,Seaport,10,496
+Manhattan,Seaport,11,590
+Manhattan,Seaport,12,657
+Manhattan,Seaport,13,766
+Manhattan,Seaport,14,861
+Manhattan,Seaport,15,911
+Manhattan,Seaport,16,923
+Manhattan,Seaport,17,1105
+Manhattan,Seaport,18,1351
+Manhattan,Seaport,19,1469
+Manhattan,Seaport,20,1585
+Manhattan,Seaport,21,1613
+Manhattan,Seaport,22,1374
+Manhattan,Seaport,23,1306
+Manhattan,SoHo,0,4587
+Manhattan,SoHo,1,3918
+Manhattan,SoHo,2,2418
+Manhattan,SoHo,3,1271
+Manhattan,SoHo,4,662
+Manhattan,SoHo,5,272
+Manhattan,SoHo,6,264
+Manhattan,SoHo,7,760
+Manhattan,SoHo,8,1420
+Manhattan,SoHo,9,1398
+Manhattan,SoHo,10,1789
+Manhattan,SoHo,11,2359
+Manhattan,SoHo,12,3190
+Manhattan,SoHo,13,3906
+Manhattan,SoHo,14,4942
+Manhattan,SoHo,15,6034
+Manhattan,SoHo,16,6134
+Manhattan,SoHo,17,6440
+Manhattan,SoHo,18,7113
+Manhattan,SoHo,19,6479
+Manhattan,SoHo,20,5976
+Manhattan,SoHo,21,6304
+Manhattan,SoHo,22,6489
+Manhattan,SoHo,23,5325
+Manhattan,Stuy Town/Peter Cooper Village,0,559
+Manhattan,Stuy Town/Peter Cooper Village,1,434
+Manhattan,Stuy Town/Peter Cooper Village,2,314
+Manhattan,Stuy Town/Peter Cooper Village,3,230
+Manhattan,Stuy Town/Peter Cooper Village,4,192
+Manhattan,Stuy Town/Peter Cooper Village,5,297
+Manhattan,Stuy Town/Peter Cooper Village,6,651
+Manhattan,Stuy Town/Peter Cooper Village,7,1066
+Manhattan,Stuy Town/Peter Cooper Village,8,1164
+Manhattan,Stuy Town/Peter Cooper Village,9,1286
+Manhattan,Stuy Town/Peter Cooper Village,10,1098
+Manhattan,Stuy Town/Peter Cooper Village,11,953
+Manhattan,Stuy Town/Peter Cooper Village,12,916
+Manhattan,Stuy Town/Peter Cooper Village,13,857
+Manhattan,Stuy Town/Peter Cooper Village,14,757
+Manhattan,Stuy Town/Peter Cooper Village,15,785
+Manhattan,Stuy Town/Peter Cooper Village,16,637
+Manhattan,Stuy Town/Peter Cooper Village,17,800
+Manhattan,Stuy Town/Peter Cooper Village,18,1247
+Manhattan,Stuy Town/Peter Cooper Village,19,1133
+Manhattan,Stuy Town/Peter Cooper Village,20,943
+Manhattan,Stuy Town/Peter Cooper Village,21,701
+Manhattan,Stuy Town/Peter Cooper Village,22,797
+Manhattan,Stuy Town/Peter Cooper Village,23,778
+Manhattan,Sutton Place/Turtle Bay North,0,3324
+Manhattan,Sutton Place/Turtle Bay North,1,1849
+Manhattan,Sutton Place/Turtle Bay North,2,1082
+Manhattan,Sutton Place/Turtle Bay North,3,737
+Manhattan,Sutton Place/Turtle Bay North,4,657
+Manhattan,Sutton Place/Turtle Bay North,5,919
+Manhattan,Sutton Place/Turtle Bay North,6,2061
+Manhattan,Sutton Place/Turtle Bay North,7,6124
+Manhattan,Sutton Place/Turtle Bay North,8,8929
+Manhattan,Sutton Place/Turtle Bay North,9,9292
+Manhattan,Sutton Place/Turtle Bay North,10,9693
+Manhattan,Sutton Place/Turtle Bay North,11,9587
+Manhattan,Sutton Place/Turtle Bay North,12,10268
+Manhattan,Sutton Place/Turtle Bay North,13,10359
+Manhattan,Sutton Place/Turtle Bay North,14,9394
+Manhattan,Sutton Place/Turtle Bay North,15,8626
+Manhattan,Sutton Place/Turtle Bay North,16,8515
+Manhattan,Sutton Place/Turtle Bay North,17,10826
+Manhattan,Sutton Place/Turtle Bay North,18,13186
+Manhattan,Sutton Place/Turtle Bay North,19,11129
+Manhattan,Sutton Place/Turtle Bay North,20,10391
+Manhattan,Sutton Place/Turtle Bay North,21,9642
+Manhattan,Sutton Place/Turtle Bay North,22,7482
+Manhattan,Sutton Place/Turtle Bay North,23,5324
+Manhattan,Times Sq/Theatre District,0,9718
+Manhattan,Times Sq/Theatre District,1,4583
+Manhattan,Times Sq/Theatre District,2,2369
+Manhattan,Times Sq/Theatre District,3,1929
+Manhattan,Times Sq/Theatre District,4,2006
+Manhattan,Times Sq/Theatre District,5,1776
+Manhattan,Times Sq/Theatre District,6,2724
+Manhattan,Times Sq/Theatre District,7,5047
+Manhattan,Times Sq/Theatre District,8,8421
+Manhattan,Times Sq/Theatre District,9,11041
+Manhattan,Times Sq/Theatre District,10,13308
+Manhattan,Times Sq/Theatre District,11,15106
+Manhattan,Times Sq/Theatre District,12,14845
+Manhattan,Times Sq/Theatre District,13,14685
+Manhattan,Times Sq/Theatre District,14,15313
+Manhattan,Times Sq/Theatre District,15,16661
+Manhattan,Times Sq/Theatre District,16,21787
+Manhattan,Times Sq/Theatre District,17,24852
+Manhattan,Times Sq/Theatre District,18,25826
+Manhattan,Times Sq/Theatre District,19,22185
+Manhattan,Times Sq/Theatre District,20,25142
+Manhattan,Times Sq/Theatre District,21,36292
+Manhattan,Times Sq/Theatre District,22,35263
+Manhattan,Times Sq/Theatre District,23,20845
+Manhattan,TriBeCa/Civic Center,0,5389
+Manhattan,TriBeCa/Civic Center,1,3698
+Manhattan,TriBeCa/Civic Center,2,2194
+Manhattan,TriBeCa/Civic Center,3,1463
+Manhattan,TriBeCa/Civic Center,4,898
+Manhattan,TriBeCa/Civic Center,5,389
+Manhattan,TriBeCa/Civic Center,6,910
+Manhattan,TriBeCa/Civic Center,7,2852
+Manhattan,TriBeCa/Civic Center,8,4688
+Manhattan,TriBeCa/Civic Center,9,4387
+Manhattan,TriBeCa/Civic Center,10,4997
+Manhattan,TriBeCa/Civic Center,11,5557
+Manhattan,TriBeCa/Civic Center,12,6145
+Manhattan,TriBeCa/Civic Center,13,6451
+Manhattan,TriBeCa/Civic Center,14,6926
+Manhattan,TriBeCa/Civic Center,15,7433
+Manhattan,TriBeCa/Civic Center,16,7794
+Manhattan,TriBeCa/Civic Center,17,10457
+Manhattan,TriBeCa/Civic Center,18,11814
+Manhattan,TriBeCa/Civic Center,19,10786
+Manhattan,TriBeCa/Civic Center,20,9849
+Manhattan,TriBeCa/Civic Center,21,9190
+Manhattan,TriBeCa/Civic Center,22,8783
+Manhattan,TriBeCa/Civic Center,23,7422
+Manhattan,Two Bridges/Seward Park,0,1191
+Manhattan,Two Bridges/Seward Park,1,918
+Manhattan,Two Bridges/Seward Park,2,647
+Manhattan,Two Bridges/Seward Park,3,406
+Manhattan,Two Bridges/Seward Park,4,369
+Manhattan,Two Bridges/Seward Park,5,237
+Manhattan,Two Bridges/Seward Park,6,497
+Manhattan,Two Bridges/Seward Park,7,709
+Manhattan,Two Bridges/Seward Park,8,967
+Manhattan,Two Bridges/Seward Park,9,896
+Manhattan,Two Bridges/Seward Park,10,531
+Manhattan,Two Bridges/Seward Park,11,563
+Manhattan,Two Bridges/Seward Park,12,626
+Manhattan,Two Bridges/Seward Park,13,711
+Manhattan,Two Bridges/Seward Park,14,700
+Manhattan,Two Bridges/Seward Park,15,782
+Manhattan,Two Bridges/Seward Park,16,655
+Manhattan,Two Bridges/Seward Park,17,776
+Manhattan,Two Bridges/Seward Park,18,1086
+Manhattan,Two Bridges/Seward Park,19,1130
+Manhattan,Two Bridges/Seward Park,20,1221
+Manhattan,Two Bridges/Seward Park,21,1333
+Manhattan,Two Bridges/Seward Park,22,1628
+Manhattan,Two Bridges/Seward Park,23,1393
+Manhattan,UN/Turtle Bay South,0,1722
+Manhattan,UN/Turtle Bay South,1,832
+Manhattan,UN/Turtle Bay South,2,499
+Manhattan,UN/Turtle Bay South,3,376
+Manhattan,UN/Turtle Bay South,4,499
+Manhattan,UN/Turtle Bay South,5,785
+Manhattan,UN/Turtle Bay South,6,1814
+Manhattan,UN/Turtle Bay South,7,3146
+Manhattan,UN/Turtle Bay South,8,5184
+Manhattan,UN/Turtle Bay South,9,5585
+Manhattan,UN/Turtle Bay South,10,6258
+Manhattan,UN/Turtle Bay South,11,6409
+Manhattan,UN/Turtle Bay South,12,6785
+Manhattan,UN/Turtle Bay South,13,6904
+Manhattan,UN/Turtle Bay South,14,6534
+Manhattan,UN/Turtle Bay South,15,6172
+Manhattan,UN/Turtle Bay South,16,6693
+Manhattan,UN/Turtle Bay South,17,8718
+Manhattan,UN/Turtle Bay South,18,9240
+Manhattan,UN/Turtle Bay South,19,8047
+Manhattan,UN/Turtle Bay South,20,7083
+Manhattan,UN/Turtle Bay South,21,5552
+Manhattan,UN/Turtle Bay South,22,4351
+Manhattan,UN/Turtle Bay South,23,2996
+Manhattan,Union Sq,0,10091
+Manhattan,Union Sq,1,5745
+Manhattan,Union Sq,2,2829
+Manhattan,Union Sq,3,1527
+Manhattan,Union Sq,4,1097
+Manhattan,Union Sq,5,667
+Manhattan,Union Sq,6,1631
+Manhattan,Union Sq,7,3907
+Manhattan,Union Sq,8,7114
+Manhattan,Union Sq,9,7980
+Manhattan,Union Sq,10,9474
+Manhattan,Union Sq,11,11551
+Manhattan,Union Sq,12,13216
+Manhattan,Union Sq,13,14935
+Manhattan,Union Sq,14,16667
+Manhattan,Union Sq,15,17286
+Manhattan,Union Sq,16,17797
+Manhattan,Union Sq,17,20959
+Manhattan,Union Sq,18,23251
+Manhattan,Union Sq,19,22075
+Manhattan,Union Sq,20,22515
+Manhattan,Union Sq,21,23339
+Manhattan,Union Sq,22,21326
+Manhattan,Union Sq,23,15634
+Manhattan,Upper East Side North,0,1893
+Manhattan,Upper East Side North,1,816
+Manhattan,Upper East Side North,2,389
+Manhattan,Upper East Side North,3,226
+Manhattan,Upper East Side North,4,437
+Manhattan,Upper East Side North,5,1368
+Manhattan,Upper East Side North,6,5526
+Manhattan,Upper East Side North,7,18618
+Manhattan,Upper East Side North,8,26652
+Manhattan,Upper East Side North,9,27262
+Manhattan,Upper East Side North,10,27261
+Manhattan,Upper East Side North,11,28510
+Manhattan,Upper East Side North,12,31180
+Manhattan,Upper East Side North,13,29862
+Manhattan,Upper East Side North,14,31785
+Manhattan,Upper East Side North,15,36550
+Manhattan,Upper East Side North,16,31526
+Manhattan,Upper East Side North,17,33089
+Manhattan,Upper East Side North,18,32110
+Manhattan,Upper East Side North,19,22773
+Manhattan,Upper East Side North,20,18433
+Manhattan,Upper East Side North,21,14724
+Manhattan,Upper East Side North,22,9014
+Manhattan,Upper East Side North,23,4344
+Manhattan,Upper East Side South,0,4799
+Manhattan,Upper East Side South,1,2156
+Manhattan,Upper East Side South,2,889
+Manhattan,Upper East Side South,3,548
+Manhattan,Upper East Side South,4,533
+Manhattan,Upper East Side South,5,963
+Manhattan,Upper East Side South,6,3309
+Manhattan,Upper East Side South,7,12346
+Manhattan,Upper East Side South,8,18814
+Manhattan,Upper East Side South,9,22241
+Manhattan,Upper East Side South,10,24868
+Manhattan,Upper East Side South,11,28528
+Manhattan,Upper East Side South,12,31404
+Manhattan,Upper East Side South,13,32102
+Manhattan,Upper East Side South,14,36432
+Manhattan,Upper East Side South,15,36350
+Manhattan,Upper East Side South,16,34263
+Manhattan,Upper East Side South,17,35514
+Manhattan,Upper East Side South,18,36040
+Manhattan,Upper East Side South,19,28861
+Manhattan,Upper East Side South,20,25980
+Manhattan,Upper East Side South,21,25566
+Manhattan,Upper East Side South,22,18219
+Manhattan,Upper East Side South,23,9822
+Manhattan,Upper West Side North,0,1700
+Manhattan,Upper West Side North,1,810
+Manhattan,Upper West Side North,2,408
+Manhattan,Upper West Side North,3,280
+Manhattan,Upper West Side North,4,524
+Manhattan,Upper West Side North,5,1326
+Manhattan,Upper West Side North,6,3973
+Manhattan,Upper West Side North,7,8612
+Manhattan,Upper West Side North,8,13092
+Manhattan,Upper West Side North,9,13572
+Manhattan,Upper West Side North,10,13057
+Manhattan,Upper West Side North,11,12571
+Manhattan,Upper West Side North,12,13260
+Manhattan,Upper West Side North,13,12479
+Manhattan,Upper West Side North,14,12700
+Manhattan,Upper West Side North,15,14740
+Manhattan,Upper West Side North,16,11609
+Manhattan,Upper West Side North,17,13398
+Manhattan,Upper West Side North,18,13879
+Manhattan,Upper West Side North,19,10466
+Manhattan,Upper West Side North,20,8099
+Manhattan,Upper West Side North,21,6988
+Manhattan,Upper West Side North,22,5073
+Manhattan,Upper West Side North,23,3221
+Manhattan,Upper West Side South,0,3697
+Manhattan,Upper West Side South,1,1726
+Manhattan,Upper West Side South,2,703
+Manhattan,Upper West Side South,3,377
+Manhattan,Upper West Side South,4,525
+Manhattan,Upper West Side South,5,1442
+Manhattan,Upper West Side South,6,3745
+Manhattan,Upper West Side South,7,9876
+Manhattan,Upper West Side South,8,14265
+Manhattan,Upper West Side South,9,14922
+Manhattan,Upper West Side South,10,15525
+Manhattan,Upper West Side South,11,16197
+Manhattan,Upper West Side South,12,18029
+Manhattan,Upper West Side South,13,18152
+Manhattan,Upper West Side South,14,18703
+Manhattan,Upper West Side South,15,18631
+Manhattan,Upper West Side South,16,17740
+Manhattan,Upper West Side South,17,19827
+Manhattan,Upper West Side South,18,19160
+Manhattan,Upper West Side South,19,16024
+Manhattan,Upper West Side South,20,14289
+Manhattan,Upper West Side South,21,15353
+Manhattan,Upper West Side South,22,11252
+Manhattan,Upper West Side South,23,6502
+Manhattan,Washington Heights North,0,186
+Manhattan,Washington Heights North,1,99
+Manhattan,Washington Heights North,2,71
+Manhattan,Washington Heights North,3,58
+Manhattan,Washington Heights North,4,76
+Manhattan,Washington Heights North,5,66
+Manhattan,Washington Heights North,6,129
+Manhattan,Washington Heights North,7,314
+Manhattan,Washington Heights North,8,394
+Manhattan,Washington Heights North,9,227
+Manhattan,Washington Heights North,10,163
+Manhattan,Washington Heights North,11,153
+Manhattan,Washington Heights North,12,182
+Manhattan,Washington Heights North,13,196
+Manhattan,Washington Heights North,14,260
+Manhattan,Washington Heights North,15,226
+Manhattan,Washington Heights North,16,159
+Manhattan,Washington Heights North,17,204
+Manhattan,Washington Heights North,18,292
+Manhattan,Washington Heights North,19,331
+Manhattan,Washington Heights North,20,316
+Manhattan,Washington Heights North,21,214
+Manhattan,Washington Heights North,22,306
+Manhattan,Washington Heights North,23,337
+Manhattan,Washington Heights South,0,400
+Manhattan,Washington Heights South,1,141
+Manhattan,Washington Heights South,2,81
+Manhattan,Washington Heights South,3,71
+Manhattan,Washington Heights South,4,125
+Manhattan,Washington Heights South,5,179
+Manhattan,Washington Heights South,6,292
+Manhattan,Washington Heights South,7,946
+Manhattan,Washington Heights South,8,805
+Manhattan,Washington Heights South,9,536
+Manhattan,Washington Heights South,10,469
+Manhattan,Washington Heights South,11,499
+Manhattan,Washington Heights South,12,565
+Manhattan,Washington Heights South,13,658
+Manhattan,Washington Heights South,14,740
+Manhattan,Washington Heights South,15,733
+Manhattan,Washington Heights South,16,578
+Manhattan,Washington Heights South,17,705
+Manhattan,Washington Heights South,18,847
+Manhattan,Washington Heights South,19,802
+Manhattan,Washington Heights South,20,800
+Manhattan,Washington Heights South,21,534
+Manhattan,Washington Heights South,22,648
+Manhattan,Washington Heights South,23,817
+Manhattan,West Chelsea/Hudson Yards,0,3621
+Manhattan,West Chelsea/Hudson Yards,1,3313
+Manhattan,West Chelsea/Hudson Yards,2,3348
+Manhattan,West Chelsea/Hudson Yards,3,3693
+Manhattan,West Chelsea/Hudson Yards,4,1554
+Manhattan,West Chelsea/Hudson Yards,5,233
+Manhattan,West Chelsea/Hudson Yards,6,587
+Manhattan,West Chelsea/Hudson Yards,7,1851
+Manhattan,West Chelsea/Hudson Yards,8,3676
+Manhattan,West Chelsea/Hudson Yards,9,4139
+Manhattan,West Chelsea/Hudson Yards,10,5185
+Manhattan,West Chelsea/Hudson Yards,11,6923
+Manhattan,West Chelsea/Hudson Yards,12,8479
+Manhattan,West Chelsea/Hudson Yards,13,10278
+Manhattan,West Chelsea/Hudson Yards,14,12082
+Manhattan,West Chelsea/Hudson Yards,15,13825
+Manhattan,West Chelsea/Hudson Yards,16,14933
+Manhattan,West Chelsea/Hudson Yards,17,17750
+Manhattan,West Chelsea/Hudson Yards,18,17989
+Manhattan,West Chelsea/Hudson Yards,19,14555
+Manhattan,West Chelsea/Hudson Yards,20,14045
+Manhattan,West Chelsea/Hudson Yards,21,11897
+Manhattan,West Chelsea/Hudson Yards,22,8960
+Manhattan,West Chelsea/Hudson Yards,23,5504
+Manhattan,West Village,0,19778
+Manhattan,West Village,1,16559
+Manhattan,West Village,2,10848
+Manhattan,West Village,3,6771
+Manhattan,West Village,4,2666
+Manhattan,West Village,5,909
+Manhattan,West Village,6,1869
+Manhattan,West Village,7,3839
+Manhattan,West Village,8,6303
+Manhattan,West Village,9,6133
+Manhattan,West Village,10,5379
+Manhattan,West Village,11,5534
+Manhattan,West Village,12,6335
+Manhattan,West Village,13,7243
+Manhattan,West Village,14,7991
+Manhattan,West Village,15,8402
+Manhattan,West Village,16,8306
+Manhattan,West Village,17,9935
+Manhattan,West Village,18,12887
+Manhattan,West Village,19,14299
+Manhattan,West Village,20,17521
+Manhattan,West Village,21,21271
+Manhattan,West Village,22,22950
+Manhattan,West Village,23,22219
+Manhattan,World Trade Center,0,889
+Manhattan,World Trade Center,1,431
+Manhattan,World Trade Center,2,211
+Manhattan,World Trade Center,3,144
+Manhattan,World Trade Center,4,149
+Manhattan,World Trade Center,5,159
+Manhattan,World Trade Center,6,267
+Manhattan,World Trade Center,7,507
+Manhattan,World Trade Center,8,989
+Manhattan,World Trade Center,9,1178
+Manhattan,World Trade Center,10,1602
+Manhattan,World Trade Center,11,2433
+Manhattan,World Trade Center,12,2967
+Manhattan,World Trade Center,13,3456
+Manhattan,World Trade Center,14,3767
+Manhattan,World Trade Center,15,3963
+Manhattan,World Trade Center,16,3989
+Manhattan,World Trade Center,17,4221
+Manhattan,World Trade Center,18,4188
+Manhattan,World Trade Center,19,3625
+Manhattan,World Trade Center,20,3145
+Manhattan,World Trade Center,21,2287
+Manhattan,World Trade Center,22,1827
+Manhattan,World Trade Center,23,1406
+Manhattan,Yorkville East,0,695
+Manhattan,Yorkville East,1,344
+Manhattan,Yorkville East,2,224
+Manhattan,Yorkville East,3,161
+Manhattan,Yorkville East,4,522
+Manhattan,Yorkville East,5,1608
+Manhattan,Yorkville East,6,4954
+Manhattan,Yorkville East,7,10129
+Manhattan,Yorkville East,8,12045
+Manhattan,Yorkville East,9,12153
+Manhattan,Yorkville East,10,10459
+Manhattan,Yorkville East,11,9366
+Manhattan,Yorkville East,12,9348
+Manhattan,Yorkville East,13,8456
+Manhattan,Yorkville East,14,8024
+Manhattan,Yorkville East,15,9052
+Manhattan,Yorkville East,16,7487
+Manhattan,Yorkville East,17,8839
+Manhattan,Yorkville East,18,8852
+Manhattan,Yorkville East,19,6244
+Manhattan,Yorkville East,20,4350
+Manhattan,Yorkville East,21,3025
+Manhattan,Yorkville East,22,2171
+Manhattan,Yorkville East,23,1403
+Manhattan,Yorkville West,0,3957
+Manhattan,Yorkville West,1,2376
+Manhattan,Yorkville West,2,1436
+Manhattan,Yorkville West,3,957
+Manhattan,Yorkville West,4,1089
+Manhattan,Yorkville West,5,1919
+Manhattan,Yorkville West,6,4915
+Manhattan,Yorkville West,7,8757
+Manhattan,Yorkville West,8,10958
+Manhattan,Yorkville West,9,11034
+Manhattan,Yorkville West,10,10482
+Manhattan,Yorkville West,11,10308
+Manhattan,Yorkville West,12,11033
+Manhattan,Yorkville West,13,10635
+Manhattan,Yorkville West,14,10933
+Manhattan,Yorkville West,15,10952
+Manhattan,Yorkville West,16,10271
+Manhattan,Yorkville West,17,11897
+Manhattan,Yorkville West,18,12979
+Manhattan,Yorkville West,19,11574
+Manhattan,Yorkville West,20,11082
+Manhattan,Yorkville West,21,10130
+Manhattan,Yorkville West,22,8455
+Manhattan,Yorkville West,23,5816
+N/A,Outside of NYC,0,35
+N/A,Outside of NYC,1,32
+N/A,Outside of NYC,2,30
+N/A,Outside of NYC,3,22
+N/A,Outside of NYC,4,19
+N/A,Outside of NYC,5,31
+N/A,Outside of NYC,6,30
+N/A,Outside of NYC,7,34
+N/A,Outside of NYC,8,29
+N/A,Outside of NYC,9,42
+N/A,Outside of NYC,10,31
+N/A,Outside of NYC,11,54
+N/A,Outside of NYC,12,54
+N/A,Outside of NYC,13,65
+N/A,Outside of NYC,14,78
+N/A,Outside of NYC,15,67
+N/A,Outside of NYC,16,87
+N/A,Outside of NYC,17,52
+N/A,Outside of NYC,18,51
+N/A,Outside of NYC,19,44
+N/A,Outside of NYC,20,44
+N/A,Outside of NYC,21,55
+N/A,Outside of NYC,22,53
+N/A,Outside of NYC,23,57
+Queens,Astoria,0,605
+Queens,Astoria,1,385
+Queens,Astoria,2,315
+Queens,Astoria,3,365
+Queens,Astoria,4,612
+Queens,Astoria,5,346
+Queens,Astoria,6,469
+Queens,Astoria,7,791
+Queens,Astoria,8,812
+Queens,Astoria,9,515
+Queens,Astoria,10,446
+Queens,Astoria,11,463
+Queens,Astoria,12,434
+Queens,Astoria,13,459
+Queens,Astoria,14,490
+Queens,Astoria,15,496
+Queens,Astoria,16,417
+Queens,Astoria,17,575
+Queens,Astoria,18,703
+Queens,Astoria,19,683
+Queens,Astoria,20,689
+Queens,Astoria,21,644
+Queens,Astoria,22,744
+Queens,Astoria,23,763
+Queens,Astoria Park,0,1
+Queens,Astoria Park,1,2
+Queens,Astoria Park,2,3
+Queens,Astoria Park,5,1
+Queens,Astoria Park,6,2
+Queens,Astoria Park,7,3
+Queens,Astoria Park,8,4
+Queens,Astoria Park,9,2
+Queens,Astoria Park,10,6
+Queens,Astoria Park,12,2
+Queens,Astoria Park,13,2
+Queens,Astoria Park,14,4
+Queens,Astoria Park,15,4
+Queens,Astoria Park,16,3
+Queens,Astoria Park,17,5
+Queens,Astoria Park,18,2
+Queens,Astoria Park,19,2
+Queens,Astoria Park,20,4
+Queens,Astoria Park,21,1
+Queens,Astoria Park,22,3
+Queens,Astoria Park,23,4
+Queens,Auburndale,0,12
+Queens,Auburndale,1,10
+Queens,Auburndale,2,1
+Queens,Auburndale,3,3
+Queens,Auburndale,4,4
+Queens,Auburndale,5,6
+Queens,Auburndale,6,14
+Queens,Auburndale,7,19
+Queens,Auburndale,8,22
+Queens,Auburndale,9,17
+Queens,Auburndale,10,12
+Queens,Auburndale,11,16
+Queens,Auburndale,12,39
+Queens,Auburndale,13,20
+Queens,Auburndale,14,15
+Queens,Auburndale,15,12
+Queens,Auburndale,16,6
+Queens,Auburndale,17,5
+Queens,Auburndale,18,7
+Queens,Auburndale,19,15
+Queens,Auburndale,20,8
+Queens,Auburndale,21,11
+Queens,Auburndale,22,10
+Queens,Auburndale,23,17
+Queens,Baisley Park,0,115
+Queens,Baisley Park,1,55
+Queens,Baisley Park,2,28
+Queens,Baisley Park,3,49
+Queens,Baisley Park,4,78
+Queens,Baisley Park,5,137
+Queens,Baisley Park,6,226
+Queens,Baisley Park,7,387
+Queens,Baisley Park,8,321
+Queens,Baisley Park,9,183
+Queens,Baisley Park,10,135
+Queens,Baisley Park,11,138
+Queens,Baisley Park,12,122
+Queens,Baisley Park,13,205
+Queens,Baisley Park,14,237
+Queens,Baisley Park,15,208
+Queens,Baisley Park,16,265
+Queens,Baisley Park,17,149
+Queens,Baisley Park,18,168
+Queens,Baisley Park,19,167
+Queens,Baisley Park,20,170
+Queens,Baisley Park,21,168
+Queens,Baisley Park,22,202
+Queens,Baisley Park,23,196
+Queens,Bay Terrace/Fort Totten,0,7
+Queens,Bay Terrace/Fort Totten,1,6
+Queens,Bay Terrace/Fort Totten,2,3
+Queens,Bay Terrace/Fort Totten,3,2
+Queens,Bay Terrace/Fort Totten,4,2
+Queens,Bay Terrace/Fort Totten,5,1
+Queens,Bay Terrace/Fort Totten,6,10
+Queens,Bay Terrace/Fort Totten,7,19
+Queens,Bay Terrace/Fort Totten,8,21
+Queens,Bay Terrace/Fort Totten,9,11
+Queens,Bay Terrace/Fort Totten,10,22
+Queens,Bay Terrace/Fort Totten,11,15
+Queens,Bay Terrace/Fort Totten,12,7
+Queens,Bay Terrace/Fort Totten,13,12
+Queens,Bay Terrace/Fort Totten,14,23
+Queens,Bay Terrace/Fort Totten,15,14
+Queens,Bay Terrace/Fort Totten,16,9
+Queens,Bay Terrace/Fort Totten,17,12
+Queens,Bay Terrace/Fort Totten,18,11
+Queens,Bay Terrace/Fort Totten,19,19
+Queens,Bay Terrace/Fort Totten,20,15
+Queens,Bay Terrace/Fort Totten,21,18
+Queens,Bay Terrace/Fort Totten,22,15
+Queens,Bay Terrace/Fort Totten,23,13
+Queens,Bayside,0,39
+Queens,Bayside,1,33
+Queens,Bayside,2,20
+Queens,Bayside,3,4
+Queens,Bayside,4,17
+Queens,Bayside,5,16
+Queens,Bayside,6,17
+Queens,Bayside,7,29
+Queens,Bayside,8,42
+Queens,Bayside,9,14
+Queens,Bayside,10,11
+Queens,Bayside,11,13
+Queens,Bayside,12,16
+Queens,Bayside,13,19
+Queens,Bayside,14,21
+Queens,Bayside,15,21
+Queens,Bayside,16,16
+Queens,Bayside,17,19
+Queens,Bayside,18,23
+Queens,Bayside,19,17
+Queens,Bayside,20,21
+Queens,Bayside,21,24
+Queens,Bayside,22,40
+Queens,Bayside,23,40
+Queens,Bellerose,0,28
+Queens,Bellerose,1,17
+Queens,Bellerose,2,7
+Queens,Bellerose,3,10
+Queens,Bellerose,4,6
+Queens,Bellerose,5,35
+Queens,Bellerose,6,52
+Queens,Bellerose,7,48
+Queens,Bellerose,8,48
+Queens,Bellerose,9,53
+Queens,Bellerose,10,33
+Queens,Bellerose,11,44
+Queens,Bellerose,12,27
+Queens,Bellerose,13,42
+Queens,Bellerose,14,40
+Queens,Bellerose,15,38
+Queens,Bellerose,16,16
+Queens,Bellerose,17,25
+Queens,Bellerose,18,19
+Queens,Bellerose,19,9
+Queens,Bellerose,20,21
+Queens,Bellerose,21,27
+Queens,Bellerose,22,34
+Queens,Bellerose,23,55
+Queens,Breezy Point/Fort Tilden/Riis Beach,0,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,6,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,8,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,10,2
+Queens,Breezy Point/Fort Tilden/Riis Beach,11,2
+Queens,Breezy Point/Fort Tilden/Riis Beach,14,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,16,4
+Queens,Breezy Point/Fort Tilden/Riis Beach,17,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,18,2
+Queens,Breezy Point/Fort Tilden/Riis Beach,19,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,20,3
+Queens,Breezy Point/Fort Tilden/Riis Beach,21,1
+Queens,Breezy Point/Fort Tilden/Riis Beach,22,3
+Queens,Breezy Point/Fort Tilden/Riis Beach,23,3
+Queens,Briarwood/Jamaica Hills,0,115
+Queens,Briarwood/Jamaica Hills,1,70
+Queens,Briarwood/Jamaica Hills,2,39
+Queens,Briarwood/Jamaica Hills,3,54
+Queens,Briarwood/Jamaica Hills,4,58
+Queens,Briarwood/Jamaica Hills,5,84
+Queens,Briarwood/Jamaica Hills,6,163
+Queens,Briarwood/Jamaica Hills,7,224
+Queens,Briarwood/Jamaica Hills,8,165
+Queens,Briarwood/Jamaica Hills,9,94
+Queens,Briarwood/Jamaica Hills,10,79
+Queens,Briarwood/Jamaica Hills,11,83
+Queens,Briarwood/Jamaica Hills,12,93
+Queens,Briarwood/Jamaica Hills,13,123
+Queens,Briarwood/Jamaica Hills,14,151
+Queens,Briarwood/Jamaica Hills,15,110
+Queens,Briarwood/Jamaica Hills,16,108
+Queens,Briarwood/Jamaica Hills,17,95
+Queens,Briarwood/Jamaica Hills,18,105
+Queens,Briarwood/Jamaica Hills,19,105
+Queens,Briarwood/Jamaica Hills,20,88
+Queens,Briarwood/Jamaica Hills,21,100
+Queens,Briarwood/Jamaica Hills,22,113
+Queens,Briarwood/Jamaica Hills,23,138
+Queens,Broad Channel,0,4
+Queens,Broad Channel,1,4
+Queens,Broad Channel,5,2
+Queens,Broad Channel,6,2
+Queens,Broad Channel,7,1
+Queens,Broad Channel,8,3
+Queens,Broad Channel,10,1
+Queens,Broad Channel,11,2
+Queens,Broad Channel,12,1
+Queens,Broad Channel,13,1
+Queens,Broad Channel,14,2
+Queens,Broad Channel,15,3
+Queens,Broad Channel,16,3
+Queens,Broad Channel,17,4
+Queens,Broad Channel,18,1
+Queens,Broad Channel,19,2
+Queens,Broad Channel,20,1
+Queens,Broad Channel,22,1
+Queens,Broad Channel,23,6
+Queens,Cambria Heights,0,17
+Queens,Cambria Heights,1,9
+Queens,Cambria Heights,2,3
+Queens,Cambria Heights,3,7
+Queens,Cambria Heights,4,26
+Queens,Cambria Heights,5,63
+Queens,Cambria Heights,6,78
+Queens,Cambria Heights,7,63
+Queens,Cambria Heights,8,60
+Queens,Cambria Heights,9,45
+Queens,Cambria Heights,10,27
+Queens,Cambria Heights,11,32
+Queens,Cambria Heights,12,33
+Queens,Cambria Heights,13,44
+Queens,Cambria Heights,14,50
+Queens,Cambria Heights,15,39
+Queens,Cambria Heights,16,20
+Queens,Cambria Heights,17,20
+Queens,Cambria Heights,18,14
+Queens,Cambria Heights,19,10
+Queens,Cambria Heights,20,20
+Queens,Cambria Heights,21,16
+Queens,Cambria Heights,22,30
+Queens,Cambria Heights,23,41
+Queens,College Point,0,58
+Queens,College Point,1,16
+Queens,College Point,2,12
+Queens,College Point,3,6
+Queens,College Point,4,13
+Queens,College Point,5,7
+Queens,College Point,6,27
+Queens,College Point,7,48
+Queens,College Point,8,37
+Queens,College Point,9,47
+Queens,College Point,10,25
+Queens,College Point,11,19
+Queens,College Point,12,18
+Queens,College Point,13,31
+Queens,College Point,14,32
+Queens,College Point,15,37
+Queens,College Point,16,22
+Queens,College Point,17,26
+Queens,College Point,18,29
+Queens,College Point,19,30
+Queens,College Point,20,32
+Queens,College Point,21,44
+Queens,College Point,22,49
+Queens,College Point,23,71
+Queens,Corona,0,79
+Queens,Corona,1,43
+Queens,Corona,2,23
+Queens,Corona,3,39
+Queens,Corona,4,76
+Queens,Corona,5,125
+Queens,Corona,6,144
+Queens,Corona,7,215
+Queens,Corona,8,205
+Queens,Corona,9,134
+Queens,Corona,10,85
+Queens,Corona,11,58
+Queens,Corona,12,49
+Queens,Corona,13,96
+Queens,Corona,14,109
+Queens,Corona,15,106
+Queens,Corona,16,75
+Queens,Corona,17,62
+Queens,Corona,18,87
+Queens,Corona,19,118
+Queens,Corona,20,129
+Queens,Corona,21,116
+Queens,Corona,22,130
+Queens,Corona,23,136
+Queens,Douglaston,0,11
+Queens,Douglaston,1,14
+Queens,Douglaston,2,5
+Queens,Douglaston,3,4
+Queens,Douglaston,4,7
+Queens,Douglaston,5,12
+Queens,Douglaston,6,19
+Queens,Douglaston,7,7
+Queens,Douglaston,8,19
+Queens,Douglaston,9,20
+Queens,Douglaston,10,13
+Queens,Douglaston,11,9
+Queens,Douglaston,12,9
+Queens,Douglaston,13,13
+Queens,Douglaston,14,11
+Queens,Douglaston,15,11
+Queens,Douglaston,16,12
+Queens,Douglaston,17,4
+Queens,Douglaston,18,8
+Queens,Douglaston,19,8
+Queens,Douglaston,20,15
+Queens,Douglaston,21,12
+Queens,Douglaston,22,22
+Queens,Douglaston,23,18
+Queens,East Elmhurst,0,1109
+Queens,East Elmhurst,1,374
+Queens,East Elmhurst,2,144
+Queens,East Elmhurst,3,49
+Queens,East Elmhurst,4,54
+Queens,East Elmhurst,5,82
+Queens,East Elmhurst,6,78
+Queens,East Elmhurst,7,374
+Queens,East Elmhurst,8,844
+Queens,East Elmhurst,9,1386
+Queens,East Elmhurst,10,1371
+Queens,East Elmhurst,11,1549
+Queens,East Elmhurst,12,1812
+Queens,East Elmhurst,13,1616
+Queens,East Elmhurst,14,2039
+Queens,East Elmhurst,15,2202
+Queens,East Elmhurst,16,1753
+Queens,East Elmhurst,17,1650
+Queens,East Elmhurst,18,1508
+Queens,East Elmhurst,19,1388
+Queens,East Elmhurst,20,1694
+Queens,East Elmhurst,21,1980
+Queens,East Elmhurst,22,1899
+Queens,East Elmhurst,23,1805
+Queens,East Flushing,0,15
+Queens,East Flushing,1,10
+Queens,East Flushing,2,9
+Queens,East Flushing,3,7
+Queens,East Flushing,4,3
+Queens,East Flushing,5,20
+Queens,East Flushing,6,29
+Queens,East Flushing,7,27
+Queens,East Flushing,8,27
+Queens,East Flushing,9,9
+Queens,East Flushing,10,3
+Queens,East Flushing,11,8
+Queens,East Flushing,12,7
+Queens,East Flushing,13,4
+Queens,East Flushing,14,8
+Queens,East Flushing,15,7
+Queens,East Flushing,16,4
+Queens,East Flushing,17,3
+Queens,East Flushing,18,12
+Queens,East Flushing,19,10
+Queens,East Flushing,20,5
+Queens,East Flushing,21,9
+Queens,East Flushing,22,16
+Queens,East Flushing,23,23
+Queens,Elmhurst,0,231
+Queens,Elmhurst,1,153
+Queens,Elmhurst,2,136
+Queens,Elmhurst,3,168
+Queens,Elmhurst,4,361
+Queens,Elmhurst,5,167
+Queens,Elmhurst,6,212
+Queens,Elmhurst,7,299
+Queens,Elmhurst,8,247
+Queens,Elmhurst,9,165
+Queens,Elmhurst,10,110
+Queens,Elmhurst,11,129
+Queens,Elmhurst,12,138
+Queens,Elmhurst,13,147
+Queens,Elmhurst,14,208
+Queens,Elmhurst,15,258
+Queens,Elmhurst,16,254
+Queens,Elmhurst,17,305
+Queens,Elmhurst,18,350
+Queens,Elmhurst,19,413
+Queens,Elmhurst,20,504
+Queens,Elmhurst,21,512
+Queens,Elmhurst,22,445
+Queens,Elmhurst,23,353
+Queens,Elmhurst/Maspeth,0,65
+Queens,Elmhurst/Maspeth,1,51
+Queens,Elmhurst/Maspeth,2,37
+Queens,Elmhurst/Maspeth,3,76
+Queens,Elmhurst/Maspeth,4,124
+Queens,Elmhurst/Maspeth,5,72
+Queens,Elmhurst/Maspeth,6,135
+Queens,Elmhurst/Maspeth,7,162
+Queens,Elmhurst/Maspeth,8,146
+Queens,Elmhurst/Maspeth,9,81
+Queens,Elmhurst/Maspeth,10,87
+Queens,Elmhurst/Maspeth,11,76
+Queens,Elmhurst/Maspeth,12,56
+Queens,Elmhurst/Maspeth,13,99
+Queens,Elmhurst/Maspeth,14,89
+Queens,Elmhurst/Maspeth,15,73
+Queens,Elmhurst/Maspeth,16,78
+Queens,Elmhurst/Maspeth,17,95
+Queens,Elmhurst/Maspeth,18,101
+Queens,Elmhurst/Maspeth,19,91
+Queens,Elmhurst/Maspeth,20,114
+Queens,Elmhurst/Maspeth,21,100
+Queens,Elmhurst/Maspeth,22,89
+Queens,Elmhurst/Maspeth,23,92
+Queens,Far Rockaway,0,31
+Queens,Far Rockaway,1,17
+Queens,Far Rockaway,2,11
+Queens,Far Rockaway,3,13
+Queens,Far Rockaway,4,35
+Queens,Far Rockaway,5,93
+Queens,Far Rockaway,6,108
+Queens,Far Rockaway,7,128
+Queens,Far Rockaway,8,140
+Queens,Far Rockaway,9,97
+Queens,Far Rockaway,10,75
+Queens,Far Rockaway,11,79
+Queens,Far Rockaway,12,80
+Queens,Far Rockaway,13,94
+Queens,Far Rockaway,14,112
+Queens,Far Rockaway,15,98
+Queens,Far Rockaway,16,51
+Queens,Far Rockaway,17,59
+Queens,Far Rockaway,18,35
+Queens,Far Rockaway,19,50
+Queens,Far Rockaway,20,39
+Queens,Far Rockaway,21,25
+Queens,Far Rockaway,22,30
+Queens,Far Rockaway,23,45
+Queens,Flushing,0,186
+Queens,Flushing,1,81
+Queens,Flushing,2,47
+Queens,Flushing,3,52
+Queens,Flushing,4,90
+Queens,Flushing,5,61
+Queens,Flushing,6,49
+Queens,Flushing,7,76
+Queens,Flushing,8,86
+Queens,Flushing,9,41
+Queens,Flushing,10,60
+Queens,Flushing,11,52
+Queens,Flushing,12,69
+Queens,Flushing,13,67
+Queens,Flushing,14,82
+Queens,Flushing,15,95
+Queens,Flushing,16,50
+Queens,Flushing,17,71
+Queens,Flushing,18,93
+Queens,Flushing,19,153
+Queens,Flushing,20,177
+Queens,Flushing,21,215
+Queens,Flushing,22,239
+Queens,Flushing,23,178
+Queens,Flushing Meadows-Corona Park,0,48
+Queens,Flushing Meadows-Corona Park,1,38
+Queens,Flushing Meadows-Corona Park,2,15
+Queens,Flushing Meadows-Corona Park,3,11
+Queens,Flushing Meadows-Corona Park,4,28
+Queens,Flushing Meadows-Corona Park,5,58
+Queens,Flushing Meadows-Corona Park,6,71
+Queens,Flushing Meadows-Corona Park,7,82
+Queens,Flushing Meadows-Corona Park,8,56
+Queens,Flushing Meadows-Corona Park,9,37
+Queens,Flushing Meadows-Corona Park,10,43
+Queens,Flushing Meadows-Corona Park,11,36
+Queens,Flushing Meadows-Corona Park,12,56
+Queens,Flushing Meadows-Corona Park,13,51
+Queens,Flushing Meadows-Corona Park,14,56
+Queens,Flushing Meadows-Corona Park,15,63
+Queens,Flushing Meadows-Corona Park,16,110
+Queens,Flushing Meadows-Corona Park,17,56
+Queens,Flushing Meadows-Corona Park,18,48
+Queens,Flushing Meadows-Corona Park,19,51
+Queens,Flushing Meadows-Corona Park,20,65
+Queens,Flushing Meadows-Corona Park,21,87
+Queens,Flushing Meadows-Corona Park,22,94
+Queens,Flushing Meadows-Corona Park,23,54
+Queens,Forest Hills,0,234
+Queens,Forest Hills,1,108
+Queens,Forest Hills,2,57
+Queens,Forest Hills,3,50
+Queens,Forest Hills,4,66
+Queens,Forest Hills,5,91
+Queens,Forest Hills,6,181
+Queens,Forest Hills,7,345
+Queens,Forest Hills,8,314
+Queens,Forest Hills,9,176
+Queens,Forest Hills,10,155
+Queens,Forest Hills,11,180
+Queens,Forest Hills,12,188
+Queens,Forest Hills,13,203
+Queens,Forest Hills,14,222
+Queens,Forest Hills,15,220
+Queens,Forest Hills,16,198
+Queens,Forest Hills,17,247
+Queens,Forest Hills,18,285
+Queens,Forest Hills,19,337
+Queens,Forest Hills,20,354
+Queens,Forest Hills,21,349
+Queens,Forest Hills,22,395
+Queens,Forest Hills,23,404
+Queens,Forest Park/Highland Park,0,12
+Queens,Forest Park/Highland Park,1,3
+Queens,Forest Park/Highland Park,2,1
+Queens,Forest Park/Highland Park,3,2
+Queens,Forest Park/Highland Park,4,3
+Queens,Forest Park/Highland Park,5,1
+Queens,Forest Park/Highland Park,6,7
+Queens,Forest Park/Highland Park,7,8
+Queens,Forest Park/Highland Park,8,5
+Queens,Forest Park/Highland Park,9,3
+Queens,Forest Park/Highland Park,10,1
+Queens,Forest Park/Highland Park,11,4
+Queens,Forest Park/Highland Park,12,4
+Queens,Forest Park/Highland Park,13,10
+Queens,Forest Park/Highland Park,14,8
+Queens,Forest Park/Highland Park,15,3
+Queens,Forest Park/Highland Park,16,3
+Queens,Forest Park/Highland Park,17,7
+Queens,Forest Park/Highland Park,18,3
+Queens,Forest Park/Highland Park,19,7
+Queens,Forest Park/Highland Park,20,9
+Queens,Forest Park/Highland Park,21,9
+Queens,Forest Park/Highland Park,22,9
+Queens,Forest Park/Highland Park,23,8
+Queens,Fresh Meadows,0,22
+Queens,Fresh Meadows,1,13
+Queens,Fresh Meadows,2,9
+Queens,Fresh Meadows,3,9
+Queens,Fresh Meadows,4,15
+Queens,Fresh Meadows,5,30
+Queens,Fresh Meadows,6,31
+Queens,Fresh Meadows,7,23
+Queens,Fresh Meadows,8,18
+Queens,Fresh Meadows,9,25
+Queens,Fresh Meadows,10,30
+Queens,Fresh Meadows,11,25
+Queens,Fresh Meadows,12,37
+Queens,Fresh Meadows,13,19
+Queens,Fresh Meadows,14,25
+Queens,Fresh Meadows,15,25
+Queens,Fresh Meadows,16,8
+Queens,Fresh Meadows,17,16
+Queens,Fresh Meadows,18,13
+Queens,Fresh Meadows,19,13
+Queens,Fresh Meadows,20,15
+Queens,Fresh Meadows,21,22
+Queens,Fresh Meadows,22,42
+Queens,Fresh Meadows,23,29
+Queens,Glen Oaks,0,76
+Queens,Glen Oaks,1,32
+Queens,Glen Oaks,2,13
+Queens,Glen Oaks,3,13
+Queens,Glen Oaks,4,15
+Queens,Glen Oaks,5,26
+Queens,Glen Oaks,6,25
+Queens,Glen Oaks,7,19
+Queens,Glen Oaks,8,34
+Queens,Glen Oaks,9,17
+Queens,Glen Oaks,10,15
+Queens,Glen Oaks,11,8
+Queens,Glen Oaks,12,25
+Queens,Glen Oaks,13,26
+Queens,Glen Oaks,14,21
+Queens,Glen Oaks,15,27
+Queens,Glen Oaks,16,15
+Queens,Glen Oaks,17,10
+Queens,Glen Oaks,18,9
+Queens,Glen Oaks,19,14
+Queens,Glen Oaks,20,19
+Queens,Glen Oaks,21,12
+Queens,Glen Oaks,22,24
+Queens,Glen Oaks,23,35
+Queens,Glendale,0,48
+Queens,Glendale,1,17
+Queens,Glendale,2,14
+Queens,Glendale,3,25
+Queens,Glendale,4,36
+Queens,Glendale,5,34
+Queens,Glendale,6,92
+Queens,Glendale,7,94
+Queens,Glendale,8,108
+Queens,Glendale,9,59
+Queens,Glendale,10,38
+Queens,Glendale,11,43
+Queens,Glendale,12,37
+Queens,Glendale,13,57
+Queens,Glendale,14,41
+Queens,Glendale,15,48
+Queens,Glendale,16,44
+Queens,Glendale,17,49
+Queens,Glendale,18,57
+Queens,Glendale,19,63
+Queens,Glendale,20,92
+Queens,Glendale,21,82
+Queens,Glendale,22,78
+Queens,Glendale,23,73
+Queens,Hammels/Arverne,0,16
+Queens,Hammels/Arverne,1,8
+Queens,Hammels/Arverne,2,7
+Queens,Hammels/Arverne,3,24
+Queens,Hammels/Arverne,4,31
+Queens,Hammels/Arverne,5,80
+Queens,Hammels/Arverne,6,121
+Queens,Hammels/Arverne,7,185
+Queens,Hammels/Arverne,8,150
+Queens,Hammels/Arverne,9,105
+Queens,Hammels/Arverne,10,98
+Queens,Hammels/Arverne,11,63
+Queens,Hammels/Arverne,12,58
+Queens,Hammels/Arverne,13,55
+Queens,Hammels/Arverne,14,58
+Queens,Hammels/Arverne,15,41
+Queens,Hammels/Arverne,16,33
+Queens,Hammels/Arverne,17,40
+Queens,Hammels/Arverne,18,26
+Queens,Hammels/Arverne,19,32
+Queens,Hammels/Arverne,20,36
+Queens,Hammels/Arverne,21,25
+Queens,Hammels/Arverne,22,40
+Queens,Hammels/Arverne,23,27
+Queens,Hillcrest/Pomonok,0,47
+Queens,Hillcrest/Pomonok,1,31
+Queens,Hillcrest/Pomonok,2,15
+Queens,Hillcrest/Pomonok,3,23
+Queens,Hillcrest/Pomonok,4,22
+Queens,Hillcrest/Pomonok,5,43
+Queens,Hillcrest/Pomonok,6,134
+Queens,Hillcrest/Pomonok,7,144
+Queens,Hillcrest/Pomonok,8,75
+Queens,Hillcrest/Pomonok,9,58
+Queens,Hillcrest/Pomonok,10,55
+Queens,Hillcrest/Pomonok,11,45
+Queens,Hillcrest/Pomonok,12,57
+Queens,Hillcrest/Pomonok,13,81
+Queens,Hillcrest/Pomonok,14,78
+Queens,Hillcrest/Pomonok,15,92
+Queens,Hillcrest/Pomonok,16,60
+Queens,Hillcrest/Pomonok,17,44
+Queens,Hillcrest/Pomonok,18,38
+Queens,Hillcrest/Pomonok,19,57
+Queens,Hillcrest/Pomonok,20,31
+Queens,Hillcrest/Pomonok,21,39
+Queens,Hillcrest/Pomonok,22,49
+Queens,Hillcrest/Pomonok,23,50
+Queens,Hollis,0,18
+Queens,Hollis,1,6
+Queens,Hollis,2,10
+Queens,Hollis,3,15
+Queens,Hollis,4,26
+Queens,Hollis,5,60
+Queens,Hollis,6,116
+Queens,Hollis,7,103
+Queens,Hollis,8,96
+Queens,Hollis,9,29
+Queens,Hollis,10,31
+Queens,Hollis,11,38
+Queens,Hollis,12,30
+Queens,Hollis,13,38
+Queens,Hollis,14,46
+Queens,Hollis,15,19
+Queens,Hollis,16,11
+Queens,Hollis,17,14
+Queens,Hollis,18,17
+Queens,Hollis,19,29
+Queens,Hollis,20,10
+Queens,Hollis,21,13
+Queens,Hollis,22,19
+Queens,Hollis,23,25
+Queens,Howard Beach,0,73
+Queens,Howard Beach,1,30
+Queens,Howard Beach,2,14
+Queens,Howard Beach,3,10
+Queens,Howard Beach,4,12
+Queens,Howard Beach,5,30
+Queens,Howard Beach,6,47
+Queens,Howard Beach,7,58
+Queens,Howard Beach,8,72
+Queens,Howard Beach,9,53
+Queens,Howard Beach,10,56
+Queens,Howard Beach,11,33
+Queens,Howard Beach,12,51
+Queens,Howard Beach,13,56
+Queens,Howard Beach,14,57
+Queens,Howard Beach,15,49
+Queens,Howard Beach,16,44
+Queens,Howard Beach,17,33
+Queens,Howard Beach,18,33
+Queens,Howard Beach,19,49
+Queens,Howard Beach,20,64
+Queens,Howard Beach,21,79
+Queens,Howard Beach,22,90
+Queens,Howard Beach,23,90
+Queens,JFK Airport,0,15493
+Queens,JFK Airport,1,7341
+Queens,JFK Airport,2,2750
+Queens,JFK Airport,3,1710
+Queens,JFK Airport,4,1901
+Queens,JFK Airport,5,6356
+Queens,JFK Airport,6,11241
+Queens,JFK Airport,7,12757
+Queens,JFK Airport,8,9569
+Queens,JFK Airport,9,9395
+Queens,JFK Airport,10,10722
+Queens,JFK Airport,11,10225
+Queens,JFK Airport,12,14150
+Queens,JFK Airport,13,16051
+Queens,JFK Airport,14,23207
+Queens,JFK Airport,15,27590
+Queens,JFK Airport,16,30838
+Queens,JFK Airport,17,26833
+Queens,JFK Airport,18,24011
+Queens,JFK Airport,19,27996
+Queens,JFK Airport,20,27505
+Queens,JFK Airport,21,27494
+Queens,JFK Airport,22,25950
+Queens,JFK Airport,23,22741
+Queens,Jackson Heights,0,332
+Queens,Jackson Heights,1,226
+Queens,Jackson Heights,2,207
+Queens,Jackson Heights,3,392
+Queens,Jackson Heights,4,573
+Queens,Jackson Heights,5,254
+Queens,Jackson Heights,6,289
+Queens,Jackson Heights,7,523
+Queens,Jackson Heights,8,393
+Queens,Jackson Heights,9,266
+Queens,Jackson Heights,10,227
+Queens,Jackson Heights,11,197
+Queens,Jackson Heights,12,221
+Queens,Jackson Heights,13,231
+Queens,Jackson Heights,14,305
+Queens,Jackson Heights,15,284
+Queens,Jackson Heights,16,243
+Queens,Jackson Heights,17,372
+Queens,Jackson Heights,18,390
+Queens,Jackson Heights,19,357
+Queens,Jackson Heights,20,500
+Queens,Jackson Heights,21,400
+Queens,Jackson Heights,22,390
+Queens,Jackson Heights,23,479
+Queens,Jamaica,0,618
+Queens,Jamaica,1,422
+Queens,Jamaica,2,234
+Queens,Jamaica,3,232
+Queens,Jamaica,4,202
+Queens,Jamaica,5,145
+Queens,Jamaica,6,238
+Queens,Jamaica,7,336
+Queens,Jamaica,8,287
+Queens,Jamaica,9,182
+Queens,Jamaica,10,146
+Queens,Jamaica,11,195
+Queens,Jamaica,12,284
+Queens,Jamaica,13,426
+Queens,Jamaica,14,528
+Queens,Jamaica,15,583
+Queens,Jamaica,16,443
+Queens,Jamaica,17,392
+Queens,Jamaica,18,395
+Queens,Jamaica,19,386
+Queens,Jamaica,20,483
+Queens,Jamaica,21,456
+Queens,Jamaica,22,583
+Queens,Jamaica,23,806
+Queens,Jamaica Bay,4,1
+Queens,Jamaica Bay,7,2
+Queens,Jamaica Bay,8,1
+Queens,Jamaica Bay,10,3
+Queens,Jamaica Bay,14,1
+Queens,Jamaica Bay,15,1
+Queens,Jamaica Bay,17,1
+Queens,Jamaica Bay,22,1
+Queens,Jamaica Estates,0,37
+Queens,Jamaica Estates,1,28
+Queens,Jamaica Estates,2,16
+Queens,Jamaica Estates,3,26
+Queens,Jamaica Estates,4,53
+Queens,Jamaica Estates,5,53
+Queens,Jamaica Estates,6,141
+Queens,Jamaica Estates,7,168
+Queens,Jamaica Estates,8,108
+Queens,Jamaica Estates,9,67
+Queens,Jamaica Estates,10,51
+Queens,Jamaica Estates,11,48
+Queens,Jamaica Estates,12,69
+Queens,Jamaica Estates,13,68
+Queens,Jamaica Estates,14,51
+Queens,Jamaica Estates,15,57
+Queens,Jamaica Estates,16,43
+Queens,Jamaica Estates,17,54
+Queens,Jamaica Estates,18,33
+Queens,Jamaica Estates,19,35
+Queens,Jamaica Estates,20,48
+Queens,Jamaica Estates,21,31
+Queens,Jamaica Estates,22,44
+Queens,Jamaica Estates,23,50
+Queens,Kew Gardens,0,91
+Queens,Kew Gardens,1,49
+Queens,Kew Gardens,2,16
+Queens,Kew Gardens,3,32
+Queens,Kew Gardens,4,47
+Queens,Kew Gardens,5,36
+Queens,Kew Gardens,6,107
+Queens,Kew Gardens,7,192
+Queens,Kew Gardens,8,141
+Queens,Kew Gardens,9,55
+Queens,Kew Gardens,10,76
+Queens,Kew Gardens,11,81
+Queens,Kew Gardens,12,119
+Queens,Kew Gardens,13,92
+Queens,Kew Gardens,14,138
+Queens,Kew Gardens,15,143
+Queens,Kew Gardens,16,160
+Queens,Kew Gardens,17,111
+Queens,Kew Gardens,18,114
+Queens,Kew Gardens,19,83
+Queens,Kew Gardens,20,76
+Queens,Kew Gardens,21,71
+Queens,Kew Gardens,22,101
+Queens,Kew Gardens,23,102
+Queens,Kew Gardens Hills,0,34
+Queens,Kew Gardens Hills,1,15
+Queens,Kew Gardens Hills,2,13
+Queens,Kew Gardens Hills,3,18
+Queens,Kew Gardens Hills,4,18
+Queens,Kew Gardens Hills,5,76
+Queens,Kew Gardens Hills,6,114
+Queens,Kew Gardens Hills,7,131
+Queens,Kew Gardens Hills,8,95
+Queens,Kew Gardens Hills,9,60
+Queens,Kew Gardens Hills,10,40
+Queens,Kew Gardens Hills,11,51
+Queens,Kew Gardens Hills,12,41
+Queens,Kew Gardens Hills,13,61
+Queens,Kew Gardens Hills,14,54
+Queens,Kew Gardens Hills,15,71
+Queens,Kew Gardens Hills,16,33
+Queens,Kew Gardens Hills,17,30
+Queens,Kew Gardens Hills,18,44
+Queens,Kew Gardens Hills,19,46
+Queens,Kew Gardens Hills,20,55
+Queens,Kew Gardens Hills,21,36
+Queens,Kew Gardens Hills,22,69
+Queens,Kew Gardens Hills,23,65
+Queens,LaGuardia Airport,0,8628
+Queens,LaGuardia Airport,1,2359
+Queens,LaGuardia Airport,2,622
+Queens,LaGuardia Airport,3,134
+Queens,LaGuardia Airport,4,121
+Queens,LaGuardia Airport,5,141
+Queens,LaGuardia Airport,6,182
+Queens,LaGuardia Airport,7,3292
+Queens,LaGuardia Airport,8,6269
+Queens,LaGuardia Airport,9,11123
+Queens,LaGuardia Airport,10,15594
+Queens,LaGuardia Airport,11,13670
+Queens,LaGuardia Airport,12,14669
+Queens,LaGuardia Airport,13,16314
+Queens,LaGuardia Airport,14,21218
+Queens,LaGuardia Airport,15,19646
+Queens,LaGuardia Airport,16,18457
+Queens,LaGuardia Airport,17,17035
+Queens,LaGuardia Airport,18,16771
+Queens,LaGuardia Airport,19,17383
+Queens,LaGuardia Airport,20,17369
+Queens,LaGuardia Airport,21,17959
+Queens,LaGuardia Airport,22,15575
+Queens,LaGuardia Airport,23,16947
+Queens,Laurelton,0,25
+Queens,Laurelton,1,18
+Queens,Laurelton,2,14
+Queens,Laurelton,3,11
+Queens,Laurelton,4,22
+Queens,Laurelton,5,44
+Queens,Laurelton,6,119
+Queens,Laurelton,7,92
+Queens,Laurelton,8,83
+Queens,Laurelton,9,50
+Queens,Laurelton,10,35
+Queens,Laurelton,11,36
+Queens,Laurelton,12,31
+Queens,Laurelton,13,40
+Queens,Laurelton,14,49
+Queens,Laurelton,15,63
+Queens,Laurelton,16,62
+Queens,Laurelton,17,34
+Queens,Laurelton,18,22
+Queens,Laurelton,19,22
+Queens,Laurelton,20,31
+Queens,Laurelton,21,18
+Queens,Laurelton,22,34
+Queens,Laurelton,23,57
+Queens,Long Island City/Hunters Point,0,661
+Queens,Long Island City/Hunters Point,1,323
+Queens,Long Island City/Hunters Point,2,212
+Queens,Long Island City/Hunters Point,3,216
+Queens,Long Island City/Hunters Point,4,455
+Queens,Long Island City/Hunters Point,5,276
+Queens,Long Island City/Hunters Point,6,307
+Queens,Long Island City/Hunters Point,7,291
+Queens,Long Island City/Hunters Point,8,364
+Queens,Long Island City/Hunters Point,9,380
+Queens,Long Island City/Hunters Point,10,327
+Queens,Long Island City/Hunters Point,11,368
+Queens,Long Island City/Hunters Point,12,439
+Queens,Long Island City/Hunters Point,13,455
+Queens,Long Island City/Hunters Point,14,450
+Queens,Long Island City/Hunters Point,15,436
+Queens,Long Island City/Hunters Point,16,540
+Queens,Long Island City/Hunters Point,17,679
+Queens,Long Island City/Hunters Point,18,915
+Queens,Long Island City/Hunters Point,19,876
+Queens,Long Island City/Hunters Point,20,734
+Queens,Long Island City/Hunters Point,21,661
+Queens,Long Island City/Hunters Point,22,769
+Queens,Long Island City/Hunters Point,23,775
+Queens,Long Island City/Queens Plaza,0,262
+Queens,Long Island City/Queens Plaza,1,148
+Queens,Long Island City/Queens Plaza,2,102
+Queens,Long Island City/Queens Plaza,3,115
+Queens,Long Island City/Queens Plaza,4,171
+Queens,Long Island City/Queens Plaza,5,153
+Queens,Long Island City/Queens Plaza,6,353
+Queens,Long Island City/Queens Plaza,7,327
+Queens,Long Island City/Queens Plaza,8,295
+Queens,Long Island City/Queens Plaza,9,301
+Queens,Long Island City/Queens Plaza,10,347
+Queens,Long Island City/Queens Plaza,11,305
+Queens,Long Island City/Queens Plaza,12,298
+Queens,Long Island City/Queens Plaza,13,286
+Queens,Long Island City/Queens Plaza,14,293
+Queens,Long Island City/Queens Plaza,15,280
+Queens,Long Island City/Queens Plaza,16,304
+Queens,Long Island City/Queens Plaza,17,355
+Queens,Long Island City/Queens Plaza,18,417
+Queens,Long Island City/Queens Plaza,19,389
+Queens,Long Island City/Queens Plaza,20,331
+Queens,Long Island City/Queens Plaza,21,256
+Queens,Long Island City/Queens Plaza,22,302
+Queens,Long Island City/Queens Plaza,23,353
+Queens,Maspeth,0,69
+Queens,Maspeth,1,91
+Queens,Maspeth,2,198
+Queens,Maspeth,3,362
+Queens,Maspeth,4,504
+Queens,Maspeth,5,449
+Queens,Maspeth,6,315
+Queens,Maspeth,7,248
+Queens,Maspeth,8,207
+Queens,Maspeth,9,119
+Queens,Maspeth,10,79
+Queens,Maspeth,11,93
+Queens,Maspeth,12,85
+Queens,Maspeth,13,94
+Queens,Maspeth,14,97
+Queens,Maspeth,15,106
+Queens,Maspeth,16,86
+Queens,Maspeth,17,56
+Queens,Maspeth,18,84
+Queens,Maspeth,19,91
+Queens,Maspeth,20,108
+Queens,Maspeth,21,111
+Queens,Maspeth,22,118
+Queens,Maspeth,23,93
+Queens,Middle Village,0,47
+Queens,Middle Village,1,36
+Queens,Middle Village,2,30
+Queens,Middle Village,3,25
+Queens,Middle Village,4,40
+Queens,Middle Village,5,43
+Queens,Middle Village,6,95
+Queens,Middle Village,7,122
+Queens,Middle Village,8,129
+Queens,Middle Village,9,68
+Queens,Middle Village,10,53
+Queens,Middle Village,11,56
+Queens,Middle Village,12,42
+Queens,Middle Village,13,69
+Queens,Middle Village,14,58
+Queens,Middle Village,15,79
+Queens,Middle Village,16,48
+Queens,Middle Village,17,55
+Queens,Middle Village,18,82
+Queens,Middle Village,19,80
+Queens,Middle Village,20,96
+Queens,Middle Village,21,93
+Queens,Middle Village,22,69
+Queens,Middle Village,23,81
+Queens,Murray Hill-Queens,0,40
+Queens,Murray Hill-Queens,1,24
+Queens,Murray Hill-Queens,2,10
+Queens,Murray Hill-Queens,3,9
+Queens,Murray Hill-Queens,4,19
+Queens,Murray Hill-Queens,5,11
+Queens,Murray Hill-Queens,6,18
+Queens,Murray Hill-Queens,7,59
+Queens,Murray Hill-Queens,8,95
+Queens,Murray Hill-Queens,9,24
+Queens,Murray Hill-Queens,10,22
+Queens,Murray Hill-Queens,11,29
+Queens,Murray Hill-Queens,12,20
+Queens,Murray Hill-Queens,13,22
+Queens,Murray Hill-Queens,14,26
+Queens,Murray Hill-Queens,15,23
+Queens,Murray Hill-Queens,16,12
+Queens,Murray Hill-Queens,17,10
+Queens,Murray Hill-Queens,18,18
+Queens,Murray Hill-Queens,19,20
+Queens,Murray Hill-Queens,20,22
+Queens,Murray Hill-Queens,21,33
+Queens,Murray Hill-Queens,22,40
+Queens,Murray Hill-Queens,23,47
+Queens,North Corona,0,74
+Queens,North Corona,1,45
+Queens,North Corona,2,42
+Queens,North Corona,3,49
+Queens,North Corona,4,102
+Queens,North Corona,5,52
+Queens,North Corona,6,94
+Queens,North Corona,7,85
+Queens,North Corona,8,80
+Queens,North Corona,9,54
+Queens,North Corona,10,32
+Queens,North Corona,11,48
+Queens,North Corona,12,27
+Queens,North Corona,13,46
+Queens,North Corona,14,56
+Queens,North Corona,15,65
+Queens,North Corona,16,30
+Queens,North Corona,17,44
+Queens,North Corona,18,64
+Queens,North Corona,19,81
+Queens,North Corona,20,81
+Queens,North Corona,21,94
+Queens,North Corona,22,83
+Queens,North Corona,23,90
+Queens,Oakland Gardens,0,25
+Queens,Oakland Gardens,1,4
+Queens,Oakland Gardens,2,3
+Queens,Oakland Gardens,3,9
+Queens,Oakland Gardens,4,6
+Queens,Oakland Gardens,5,14
+Queens,Oakland Gardens,6,44
+Queens,Oakland Gardens,7,33
+Queens,Oakland Gardens,8,30
+Queens,Oakland Gardens,9,17
+Queens,Oakland Gardens,10,10
+Queens,Oakland Gardens,11,13
+Queens,Oakland Gardens,12,10
+Queens,Oakland Gardens,13,20
+Queens,Oakland Gardens,14,14
+Queens,Oakland Gardens,15,18
+Queens,Oakland Gardens,16,10
+Queens,Oakland Gardens,17,10
+Queens,Oakland Gardens,18,21
+Queens,Oakland Gardens,19,14
+Queens,Oakland Gardens,20,11
+Queens,Oakland Gardens,21,20
+Queens,Oakland Gardens,22,16
+Queens,Oakland Gardens,23,28
+Queens,Old Astoria,0,151
+Queens,Old Astoria,1,91
+Queens,Old Astoria,2,50
+Queens,Old Astoria,3,46
+Queens,Old Astoria,4,68
+Queens,Old Astoria,5,148
+Queens,Old Astoria,6,290
+Queens,Old Astoria,7,430
+Queens,Old Astoria,8,386
+Queens,Old Astoria,9,316
+Queens,Old Astoria,10,286
+Queens,Old Astoria,11,244
+Queens,Old Astoria,12,235
+Queens,Old Astoria,13,227
+Queens,Old Astoria,14,216
+Queens,Old Astoria,15,241
+Queens,Old Astoria,16,177
+Queens,Old Astoria,17,210
+Queens,Old Astoria,18,289
+Queens,Old Astoria,19,246
+Queens,Old Astoria,20,224
+Queens,Old Astoria,21,178
+Queens,Old Astoria,22,216
+Queens,Old Astoria,23,157
+Queens,Ozone Park,0,87
+Queens,Ozone Park,1,78
+Queens,Ozone Park,2,50
+Queens,Ozone Park,3,37
+Queens,Ozone Park,4,33
+Queens,Ozone Park,5,22
+Queens,Ozone Park,6,34
+Queens,Ozone Park,7,100
+Queens,Ozone Park,8,68
+Queens,Ozone Park,9,56
+Queens,Ozone Park,10,28
+Queens,Ozone Park,11,32
+Queens,Ozone Park,12,39
+Queens,Ozone Park,13,64
+Queens,Ozone Park,14,69
+Queens,Ozone Park,15,38
+Queens,Ozone Park,16,35
+Queens,Ozone Park,17,52
+Queens,Ozone Park,18,49
+Queens,Ozone Park,19,43
+Queens,Ozone Park,20,67
+Queens,Ozone Park,21,73
+Queens,Ozone Park,22,92
+Queens,Ozone Park,23,97
+Queens,Queens Village,0,51
+Queens,Queens Village,1,46
+Queens,Queens Village,2,32
+Queens,Queens Village,3,26
+Queens,Queens Village,4,46
+Queens,Queens Village,5,151
+Queens,Queens Village,6,210
+Queens,Queens Village,7,174
+Queens,Queens Village,8,169
+Queens,Queens Village,9,103
+Queens,Queens Village,10,71
+Queens,Queens Village,11,43
+Queens,Queens Village,12,58
+Queens,Queens Village,13,72
+Queens,Queens Village,14,129
+Queens,Queens Village,15,66
+Queens,Queens Village,16,48
+Queens,Queens Village,17,41
+Queens,Queens Village,18,44
+Queens,Queens Village,19,40
+Queens,Queens Village,20,40
+Queens,Queens Village,21,44
+Queens,Queens Village,22,93
+Queens,Queens Village,23,94
+Queens,Queensboro Hill,0,26
+Queens,Queensboro Hill,1,8
+Queens,Queensboro Hill,2,4
+Queens,Queensboro Hill,3,6
+Queens,Queensboro Hill,4,19
+Queens,Queensboro Hill,5,15
+Queens,Queensboro Hill,6,32
+Queens,Queensboro Hill,7,26
+Queens,Queensboro Hill,8,30
+Queens,Queensboro Hill,9,23
+Queens,Queensboro Hill,10,17
+Queens,Queensboro Hill,11,19
+Queens,Queensboro Hill,12,24
+Queens,Queensboro Hill,13,14
+Queens,Queensboro Hill,14,29
+Queens,Queensboro Hill,15,23
+Queens,Queensboro Hill,16,15
+Queens,Queensboro Hill,17,13
+Queens,Queensboro Hill,18,14
+Queens,Queensboro Hill,19,28
+Queens,Queensboro Hill,20,29
+Queens,Queensboro Hill,21,28
+Queens,Queensboro Hill,22,33
+Queens,Queensboro Hill,23,42
+Queens,Queensbridge/Ravenswood,0,74
+Queens,Queensbridge/Ravenswood,1,34
+Queens,Queensbridge/Ravenswood,2,30
+Queens,Queensbridge/Ravenswood,3,36
+Queens,Queensbridge/Ravenswood,4,70
+Queens,Queensbridge/Ravenswood,5,86
+Queens,Queensbridge/Ravenswood,6,165
+Queens,Queensbridge/Ravenswood,7,233
+Queens,Queensbridge/Ravenswood,8,230
+Queens,Queensbridge/Ravenswood,9,143
+Queens,Queensbridge/Ravenswood,10,168
+Queens,Queensbridge/Ravenswood,11,165
+Queens,Queensbridge/Ravenswood,12,166
+Queens,Queensbridge/Ravenswood,13,145
+Queens,Queensbridge/Ravenswood,14,156
+Queens,Queensbridge/Ravenswood,15,140
+Queens,Queensbridge/Ravenswood,16,109
+Queens,Queensbridge/Ravenswood,17,142
+Queens,Queensbridge/Ravenswood,18,191
+Queens,Queensbridge/Ravenswood,19,126
+Queens,Queensbridge/Ravenswood,20,93
+Queens,Queensbridge/Ravenswood,21,61
+Queens,Queensbridge/Ravenswood,22,60
+Queens,Queensbridge/Ravenswood,23,86
+Queens,Rego Park,0,72
+Queens,Rego Park,1,17
+Queens,Rego Park,2,16
+Queens,Rego Park,3,22
+Queens,Rego Park,4,36
+Queens,Rego Park,5,53
+Queens,Rego Park,6,103
+Queens,Rego Park,7,160
+Queens,Rego Park,8,143
+Queens,Rego Park,9,84
+Queens,Rego Park,10,62
+Queens,Rego Park,11,81
+Queens,Rego Park,12,79
+Queens,Rego Park,13,95
+Queens,Rego Park,14,127
+Queens,Rego Park,15,118
+Queens,Rego Park,16,95
+Queens,Rego Park,17,123
+Queens,Rego Park,18,157
+Queens,Rego Park,19,146
+Queens,Rego Park,20,163
+Queens,Rego Park,21,126
+Queens,Rego Park,22,108
+Queens,Rego Park,23,103
+Queens,Richmond Hill,0,229
+Queens,Richmond Hill,1,128
+Queens,Richmond Hill,2,117
+Queens,Richmond Hill,3,161
+Queens,Richmond Hill,4,218
+Queens,Richmond Hill,5,190
+Queens,Richmond Hill,6,272
+Queens,Richmond Hill,7,680
+Queens,Richmond Hill,8,547
+Queens,Richmond Hill,9,278
+Queens,Richmond Hill,10,208
+Queens,Richmond Hill,11,222
+Queens,Richmond Hill,12,222
+Queens,Richmond Hill,13,300
+Queens,Richmond Hill,14,376
+Queens,Richmond Hill,15,532
+Queens,Richmond Hill,16,514
+Queens,Richmond Hill,17,195
+Queens,Richmond Hill,18,158
+Queens,Richmond Hill,19,196
+Queens,Richmond Hill,20,215
+Queens,Richmond Hill,21,186
+Queens,Richmond Hill,22,214
+Queens,Richmond Hill,23,268
+Queens,Ridgewood,0,142
+Queens,Ridgewood,1,114
+Queens,Ridgewood,2,133
+Queens,Ridgewood,3,190
+Queens,Ridgewood,4,240
+Queens,Ridgewood,5,188
+Queens,Ridgewood,6,194
+Queens,Ridgewood,7,204
+Queens,Ridgewood,8,204
+Queens,Ridgewood,9,154
+Queens,Ridgewood,10,94
+Queens,Ridgewood,11,89
+Queens,Ridgewood,12,95
+Queens,Ridgewood,13,103
+Queens,Ridgewood,14,111
+Queens,Ridgewood,15,109
+Queens,Ridgewood,16,76
+Queens,Ridgewood,17,103
+Queens,Ridgewood,18,148
+Queens,Ridgewood,19,168
+Queens,Ridgewood,20,181
+Queens,Ridgewood,21,158
+Queens,Ridgewood,22,173
+Queens,Ridgewood,23,209
+Queens,Rockaway Park,0,13
+Queens,Rockaway Park,1,13
+Queens,Rockaway Park,2,8
+Queens,Rockaway Park,3,6
+Queens,Rockaway Park,4,34
+Queens,Rockaway Park,5,21
+Queens,Rockaway Park,6,11
+Queens,Rockaway Park,7,44
+Queens,Rockaway Park,8,23
+Queens,Rockaway Park,9,29
+Queens,Rockaway Park,10,20
+Queens,Rockaway Park,11,15
+Queens,Rockaway Park,12,21
+Queens,Rockaway Park,13,15
+Queens,Rockaway Park,14,22
+Queens,Rockaway Park,15,22
+Queens,Rockaway Park,16,10
+Queens,Rockaway Park,17,26
+Queens,Rockaway Park,18,19
+Queens,Rockaway Park,19,16
+Queens,Rockaway Park,20,10
+Queens,Rockaway Park,21,15
+Queens,Rockaway Park,22,16
+Queens,Rockaway Park,23,20
+Queens,Rosedale,0,46
+Queens,Rosedale,1,18
+Queens,Rosedale,2,13
+Queens,Rosedale,3,19
+Queens,Rosedale,4,21
+Queens,Rosedale,5,108
+Queens,Rosedale,6,108
+Queens,Rosedale,7,98
+Queens,Rosedale,8,71
+Queens,Rosedale,9,46
+Queens,Rosedale,10,40
+Queens,Rosedale,11,27
+Queens,Rosedale,12,24
+Queens,Rosedale,13,31
+Queens,Rosedale,14,38
+Queens,Rosedale,15,35
+Queens,Rosedale,16,14
+Queens,Rosedale,17,24
+Queens,Rosedale,18,29
+Queens,Rosedale,19,22
+Queens,Rosedale,20,27
+Queens,Rosedale,21,23
+Queens,Rosedale,22,50
+Queens,Rosedale,23,48
+Queens,Saint Albans,0,46
+Queens,Saint Albans,1,35
+Queens,Saint Albans,2,26
+Queens,Saint Albans,3,52
+Queens,Saint Albans,4,64
+Queens,Saint Albans,5,158
+Queens,Saint Albans,6,244
+Queens,Saint Albans,7,268
+Queens,Saint Albans,8,307
+Queens,Saint Albans,9,161
+Queens,Saint Albans,10,104
+Queens,Saint Albans,11,85
+Queens,Saint Albans,12,111
+Queens,Saint Albans,13,134
+Queens,Saint Albans,14,203
+Queens,Saint Albans,15,150
+Queens,Saint Albans,16,75
+Queens,Saint Albans,17,65
+Queens,Saint Albans,18,64
+Queens,Saint Albans,19,76
+Queens,Saint Albans,20,66
+Queens,Saint Albans,21,50
+Queens,Saint Albans,22,59
+Queens,Saint Albans,23,89
+Queens,Saint Michaels Cemetery/Woodside,0,5
+Queens,Saint Michaels Cemetery/Woodside,1,1
+Queens,Saint Michaels Cemetery/Woodside,2,2
+Queens,Saint Michaels Cemetery/Woodside,5,1
+Queens,Saint Michaels Cemetery/Woodside,6,2
+Queens,Saint Michaels Cemetery/Woodside,7,1
+Queens,Saint Michaels Cemetery/Woodside,8,6
+Queens,Saint Michaels Cemetery/Woodside,9,17
+Queens,Saint Michaels Cemetery/Woodside,10,12
+Queens,Saint Michaels Cemetery/Woodside,11,18
+Queens,Saint Michaels Cemetery/Woodside,12,16
+Queens,Saint Michaels Cemetery/Woodside,13,18
+Queens,Saint Michaels Cemetery/Woodside,14,15
+Queens,Saint Michaels Cemetery/Woodside,15,16
+Queens,Saint Michaels Cemetery/Woodside,16,11
+Queens,Saint Michaels Cemetery/Woodside,17,11
+Queens,Saint Michaels Cemetery/Woodside,18,5
+Queens,Saint Michaels Cemetery/Woodside,19,13
+Queens,Saint Michaels Cemetery/Woodside,20,12
+Queens,Saint Michaels Cemetery/Woodside,21,6
+Queens,Saint Michaels Cemetery/Woodside,22,13
+Queens,Saint Michaels Cemetery/Woodside,23,10
+Queens,South Jamaica,0,110
+Queens,South Jamaica,1,62
+Queens,South Jamaica,2,35
+Queens,South Jamaica,3,47
+Queens,South Jamaica,4,83
+Queens,South Jamaica,5,115
+Queens,South Jamaica,6,321
+Queens,South Jamaica,7,432
+Queens,South Jamaica,8,353
+Queens,South Jamaica,9,191
+Queens,South Jamaica,10,160
+Queens,South Jamaica,11,121
+Queens,South Jamaica,12,159
+Queens,South Jamaica,13,173
+Queens,South Jamaica,14,207
+Queens,South Jamaica,15,150
+Queens,South Jamaica,16,161
+Queens,South Jamaica,17,91
+Queens,South Jamaica,18,97
+Queens,South Jamaica,19,113
+Queens,South Jamaica,20,112
+Queens,South Jamaica,21,100
+Queens,South Jamaica,22,152
+Queens,South Jamaica,23,163
+Queens,South Ozone Park,0,275
+Queens,South Ozone Park,1,211
+Queens,South Ozone Park,2,138
+Queens,South Ozone Park,3,175
+Queens,South Ozone Park,4,200
+Queens,South Ozone Park,5,241
+Queens,South Ozone Park,6,302
+Queens,South Ozone Park,7,582
+Queens,South Ozone Park,8,587
+Queens,South Ozone Park,9,346
+Queens,South Ozone Park,10,246
+Queens,South Ozone Park,11,254
+Queens,South Ozone Park,12,291
+Queens,South Ozone Park,13,375
+Queens,South Ozone Park,14,377
+Queens,South Ozone Park,15,269
+Queens,South Ozone Park,16,242
+Queens,South Ozone Park,17,205
+Queens,South Ozone Park,18,196
+Queens,South Ozone Park,19,227
+Queens,South Ozone Park,20,203
+Queens,South Ozone Park,21,237
+Queens,South Ozone Park,22,271
+Queens,South Ozone Park,23,331
+Queens,Springfield Gardens North,0,55
+Queens,Springfield Gardens North,1,14
+Queens,Springfield Gardens North,2,21
+Queens,Springfield Gardens North,3,21
+Queens,Springfield Gardens North,4,51
+Queens,Springfield Gardens North,5,134
+Queens,Springfield Gardens North,6,171
+Queens,Springfield Gardens North,7,180
+Queens,Springfield Gardens North,8,166
+Queens,Springfield Gardens North,9,139
+Queens,Springfield Gardens North,10,88
+Queens,Springfield Gardens North,11,78
+Queens,Springfield Gardens North,12,80
+Queens,Springfield Gardens North,13,104
+Queens,Springfield Gardens North,14,101
+Queens,Springfield Gardens North,15,86
+Queens,Springfield Gardens North,16,48
+Queens,Springfield Gardens North,17,59
+Queens,Springfield Gardens North,18,45
+Queens,Springfield Gardens North,19,56
+Queens,Springfield Gardens North,20,47
+Queens,Springfield Gardens North,21,50
+Queens,Springfield Gardens North,22,73
+Queens,Springfield Gardens North,23,84
+Queens,Springfield Gardens South,0,110
+Queens,Springfield Gardens South,1,42
+Queens,Springfield Gardens South,2,39
+Queens,Springfield Gardens South,3,47
+Queens,Springfield Gardens South,4,45
+Queens,Springfield Gardens South,5,118
+Queens,Springfield Gardens South,6,113
+Queens,Springfield Gardens South,7,162
+Queens,Springfield Gardens South,8,133
+Queens,Springfield Gardens South,9,69
+Queens,Springfield Gardens South,10,78
+Queens,Springfield Gardens South,11,70
+Queens,Springfield Gardens South,12,65
+Queens,Springfield Gardens South,13,75
+Queens,Springfield Gardens South,14,120
+Queens,Springfield Gardens South,15,140
+Queens,Springfield Gardens South,16,107
+Queens,Springfield Gardens South,17,88
+Queens,Springfield Gardens South,18,77
+Queens,Springfield Gardens South,19,92
+Queens,Springfield Gardens South,20,99
+Queens,Springfield Gardens South,21,113
+Queens,Springfield Gardens South,22,121
+Queens,Springfield Gardens South,23,139
+Queens,Steinway,0,205
+Queens,Steinway,1,112
+Queens,Steinway,2,71
+Queens,Steinway,3,69
+Queens,Steinway,4,149
+Queens,Steinway,5,65
+Queens,Steinway,6,99
+Queens,Steinway,7,199
+Queens,Steinway,8,182
+Queens,Steinway,9,162
+Queens,Steinway,10,149
+Queens,Steinway,11,152
+Queens,Steinway,12,148
+Queens,Steinway,13,143
+Queens,Steinway,14,154
+Queens,Steinway,15,183
+Queens,Steinway,16,154
+Queens,Steinway,17,168
+Queens,Steinway,18,225
+Queens,Steinway,19,241
+Queens,Steinway,20,282
+Queens,Steinway,21,280
+Queens,Steinway,22,327
+Queens,Steinway,23,304
+Queens,Sunnyside,0,445
+Queens,Sunnyside,1,228
+Queens,Sunnyside,2,180
+Queens,Sunnyside,3,204
+Queens,Sunnyside,4,456
+Queens,Sunnyside,5,429
+Queens,Sunnyside,6,725
+Queens,Sunnyside,7,927
+Queens,Sunnyside,8,859
+Queens,Sunnyside,9,533
+Queens,Sunnyside,10,510
+Queens,Sunnyside,11,498
+Queens,Sunnyside,12,517
+Queens,Sunnyside,13,605
+Queens,Sunnyside,14,683
+Queens,Sunnyside,15,763
+Queens,Sunnyside,16,751
+Queens,Sunnyside,17,726
+Queens,Sunnyside,18,700
+Queens,Sunnyside,19,714
+Queens,Sunnyside,20,642
+Queens,Sunnyside,21,576
+Queens,Sunnyside,22,585
+Queens,Sunnyside,23,606
+Queens,Whitestone,0,23
+Queens,Whitestone,1,9
+Queens,Whitestone,2,7
+Queens,Whitestone,3,4
+Queens,Whitestone,4,10
+Queens,Whitestone,5,10
+Queens,Whitestone,6,21
+Queens,Whitestone,7,30
+Queens,Whitestone,8,47
+Queens,Whitestone,9,24
+Queens,Whitestone,10,17
+Queens,Whitestone,11,17
+Queens,Whitestone,12,20
+Queens,Whitestone,13,33
+Queens,Whitestone,14,31
+Queens,Whitestone,15,34
+Queens,Whitestone,16,22
+Queens,Whitestone,17,25
+Queens,Whitestone,18,22
+Queens,Whitestone,19,34
+Queens,Whitestone,20,44
+Queens,Whitestone,21,32
+Queens,Whitestone,22,45
+Queens,Whitestone,23,42
+Queens,Willets Point,5,1
+Queens,Willets Point,7,1
+Queens,Willets Point,8,4
+Queens,Willets Point,9,4
+Queens,Willets Point,10,6
+Queens,Willets Point,11,5
+Queens,Willets Point,12,5
+Queens,Willets Point,13,5
+Queens,Willets Point,14,2
+Queens,Willets Point,15,4
+Queens,Willets Point,16,3
+Queens,Willets Point,17,1
+Queens,Willets Point,18,2
+Queens,Willets Point,19,2
+Queens,Willets Point,20,3
+Queens,Willets Point,21,1
+Queens,Willets Point,22,4
+Queens,Willets Point,23,1
+Queens,Woodhaven,0,106
+Queens,Woodhaven,1,61
+Queens,Woodhaven,2,50
+Queens,Woodhaven,3,57
+Queens,Woodhaven,4,117
+Queens,Woodhaven,5,128
+Queens,Woodhaven,6,211
+Queens,Woodhaven,7,353
+Queens,Woodhaven,8,279
+Queens,Woodhaven,9,137
+Queens,Woodhaven,10,95
+Queens,Woodhaven,11,92
+Queens,Woodhaven,12,86
+Queens,Woodhaven,13,116
+Queens,Woodhaven,14,126
+Queens,Woodhaven,15,88
+Queens,Woodhaven,16,77
+Queens,Woodhaven,17,67
+Queens,Woodhaven,18,64
+Queens,Woodhaven,19,75
+Queens,Woodhaven,20,92
+Queens,Woodhaven,21,93
+Queens,Woodhaven,22,115
+Queens,Woodhaven,23,143
+Queens,Woodside,0,213
+Queens,Woodside,1,169
+Queens,Woodside,2,138
+Queens,Woodside,3,217
+Queens,Woodside,4,263
+Queens,Woodside,5,175
+Queens,Woodside,6,269
+Queens,Woodside,7,345
+Queens,Woodside,8,335
+Queens,Woodside,9,199
+Queens,Woodside,10,173
+Queens,Woodside,11,162
+Queens,Woodside,12,139
+Queens,Woodside,13,186
+Queens,Woodside,14,196
+Queens,Woodside,15,238
+Queens,Woodside,16,243
+Queens,Woodside,17,237
+Queens,Woodside,18,275
+Queens,Woodside,19,276
+Queens,Woodside,20,285
+Queens,Woodside,21,280
+Queens,Woodside,22,256
+Queens,Woodside,23,255
+Staten Island,Arden Heights,11,1
+Staten Island,Arden Heights,13,1
+Staten Island,Arden Heights,23,1
+Staten Island,Arrochar/Fort Wadsworth,0,5
+Staten Island,Arrochar/Fort Wadsworth,4,2
+Staten Island,Arrochar/Fort Wadsworth,5,12
+Staten Island,Arrochar/Fort Wadsworth,6,4
+Staten Island,Arrochar/Fort Wadsworth,7,17
+Staten Island,Arrochar/Fort Wadsworth,8,22
+Staten Island,Arrochar/Fort Wadsworth,9,7
+Staten Island,Arrochar/Fort Wadsworth,10,5
+Staten Island,Arrochar/Fort Wadsworth,11,10
+Staten Island,Arrochar/Fort Wadsworth,12,12
+Staten Island,Arrochar/Fort Wadsworth,13,38
+Staten Island,Arrochar/Fort Wadsworth,14,21
+Staten Island,Arrochar/Fort Wadsworth,15,26
+Staten Island,Arrochar/Fort Wadsworth,16,17
+Staten Island,Arrochar/Fort Wadsworth,17,6
+Staten Island,Arrochar/Fort Wadsworth,18,7
+Staten Island,Arrochar/Fort Wadsworth,19,2
+Staten Island,Arrochar/Fort Wadsworth,20,6
+Staten Island,Arrochar/Fort Wadsworth,21,2
+Staten Island,Arrochar/Fort Wadsworth,22,7
+Staten Island,Arrochar/Fort Wadsworth,23,11
+Staten Island,Bloomfield/Emerson Hill,0,3
+Staten Island,Bloomfield/Emerson Hill,1,1
+Staten Island,Bloomfield/Emerson Hill,3,1
+Staten Island,Bloomfield/Emerson Hill,4,6
+Staten Island,Bloomfield/Emerson Hill,5,1
+Staten Island,Bloomfield/Emerson Hill,6,1
+Staten Island,Bloomfield/Emerson Hill,7,2
+Staten Island,Bloomfield/Emerson Hill,9,3
+Staten Island,Bloomfield/Emerson Hill,10,2
+Staten Island,Bloomfield/Emerson Hill,11,1
+Staten Island,Bloomfield/Emerson Hill,12,2
+Staten Island,Bloomfield/Emerson Hill,13,4
+Staten Island,Bloomfield/Emerson Hill,14,1
+Staten Island,Bloomfield/Emerson Hill,16,2
+Staten Island,Bloomfield/Emerson Hill,17,1
+Staten Island,Bloomfield/Emerson Hill,18,2
+Staten Island,Bloomfield/Emerson Hill,19,4
+Staten Island,Bloomfield/Emerson Hill,20,5
+Staten Island,Bloomfield/Emerson Hill,21,5
+Staten Island,Bloomfield/Emerson Hill,22,3
+Staten Island,Bloomfield/Emerson Hill,23,2
+Staten Island,Charleston/Tottenville,11,1
+Staten Island,Eltingville/Annadale/Prince's Bay,6,1
+Staten Island,Eltingville/Annadale/Prince's Bay,8,1
+Staten Island,Eltingville/Annadale/Prince's Bay,18,1
+Staten Island,Eltingville/Annadale/Prince's Bay,23,1
+Staten Island,Freshkills Park,3,1
+Staten Island,Great Kills,4,1
+Staten Island,Great Kills,5,3
+Staten Island,Great Kills,7,3
+Staten Island,Great Kills,9,1
+Staten Island,Great Kills,13,1
+Staten Island,Grymes Hill/Clifton,0,1
+Staten Island,Grymes Hill/Clifton,3,1
+Staten Island,Grymes Hill/Clifton,4,1
+Staten Island,Grymes Hill/Clifton,5,6
+Staten Island,Grymes Hill/Clifton,6,9
+Staten Island,Grymes Hill/Clifton,7,10
+Staten Island,Grymes Hill/Clifton,8,14
+Staten Island,Grymes Hill/Clifton,9,1
+Staten Island,Grymes Hill/Clifton,10,1
+Staten Island,Grymes Hill/Clifton,12,3
+Staten Island,Grymes Hill/Clifton,13,1
+Staten Island,Grymes Hill/Clifton,15,1
+Staten Island,Grymes Hill/Clifton,16,1
+Staten Island,Grymes Hill/Clifton,18,1
+Staten Island,Grymes Hill/Clifton,19,1
+Staten Island,Grymes Hill/Clifton,20,2
+Staten Island,Grymes Hill/Clifton,21,3
+Staten Island,Grymes Hill/Clifton,22,1
+Staten Island,Grymes Hill/Clifton,23,1
+Staten Island,Heartland Village/Todt Hill,0,2
+Staten Island,Heartland Village/Todt Hill,2,1
+Staten Island,Heartland Village/Todt Hill,4,2
+Staten Island,Heartland Village/Todt Hill,5,1
+Staten Island,Heartland Village/Todt Hill,6,4
+Staten Island,Heartland Village/Todt Hill,7,2
+Staten Island,Heartland Village/Todt Hill,8,2
+Staten Island,Heartland Village/Todt Hill,10,3
+Staten Island,Heartland Village/Todt Hill,11,2
+Staten Island,Heartland Village/Todt Hill,12,3
+Staten Island,Heartland Village/Todt Hill,14,5
+Staten Island,Heartland Village/Todt Hill,15,6
+Staten Island,Heartland Village/Todt Hill,18,1
+Staten Island,Heartland Village/Todt Hill,21,1
+Staten Island,Heartland Village/Todt Hill,22,1
+Staten Island,Heartland Village/Todt Hill,23,6
+Staten Island,Mariners Harbor,0,1
+Staten Island,Mariners Harbor,4,2
+Staten Island,Mariners Harbor,5,3
+Staten Island,Mariners Harbor,6,2
+Staten Island,Mariners Harbor,7,2
+Staten Island,Mariners Harbor,8,3
+Staten Island,Mariners Harbor,10,2
+Staten Island,Mariners Harbor,11,1
+Staten Island,Mariners Harbor,16,2
+Staten Island,Mariners Harbor,23,3
+Staten Island,New Dorp/Midland Beach,0,2
+Staten Island,New Dorp/Midland Beach,1,5
+Staten Island,New Dorp/Midland Beach,3,3
+Staten Island,New Dorp/Midland Beach,4,1
+Staten Island,New Dorp/Midland Beach,5,3
+Staten Island,New Dorp/Midland Beach,6,4
+Staten Island,New Dorp/Midland Beach,7,2
+Staten Island,New Dorp/Midland Beach,8,12
+Staten Island,New Dorp/Midland Beach,9,3
+Staten Island,New Dorp/Midland Beach,10,1
+Staten Island,New Dorp/Midland Beach,12,1
+Staten Island,New Dorp/Midland Beach,13,1
+Staten Island,New Dorp/Midland Beach,14,1
+Staten Island,New Dorp/Midland Beach,17,1
+Staten Island,New Dorp/Midland Beach,20,4
+Staten Island,New Dorp/Midland Beach,21,3
+Staten Island,New Dorp/Midland Beach,23,1
+Staten Island,Oakwood,2,1
+Staten Island,Oakwood,6,1
+Staten Island,Oakwood,7,4
+Staten Island,Oakwood,8,1
+Staten Island,Oakwood,9,1
+Staten Island,Oakwood,19,1
+Staten Island,Oakwood,20,1
+Staten Island,Oakwood,21,1
+Staten Island,Oakwood,22,1
+Staten Island,Port Richmond,7,2
+Staten Island,Port Richmond,8,1
+Staten Island,Port Richmond,9,1
+Staten Island,Port Richmond,15,1
+Staten Island,Port Richmond,16,1
+Staten Island,Port Richmond,19,1
+Staten Island,Port Richmond,22,1
+Staten Island,Rossville/Woodrow,0,1
+Staten Island,Rossville/Woodrow,22,1
+Staten Island,Rossville/Woodrow,23,1
+Staten Island,Saint George/New Brighton,0,1
+Staten Island,Saint George/New Brighton,1,1
+Staten Island,Saint George/New Brighton,4,2
+Staten Island,Saint George/New Brighton,6,4
+Staten Island,Saint George/New Brighton,7,7
+Staten Island,Saint George/New Brighton,8,3
+Staten Island,Saint George/New Brighton,10,1
+Staten Island,Saint George/New Brighton,11,2
+Staten Island,Saint George/New Brighton,12,1
+Staten Island,Saint George/New Brighton,13,1
+Staten Island,Saint George/New Brighton,15,2
+Staten Island,Saint George/New Brighton,18,3
+Staten Island,Saint George/New Brighton,22,1
+Staten Island,Saint George/New Brighton,23,2
+Staten Island,South Beach/Dongan Hills,0,2
+Staten Island,South Beach/Dongan Hills,1,1
+Staten Island,South Beach/Dongan Hills,2,2
+Staten Island,South Beach/Dongan Hills,3,1
+Staten Island,South Beach/Dongan Hills,4,1
+Staten Island,South Beach/Dongan Hills,5,4
+Staten Island,South Beach/Dongan Hills,6,3
+Staten Island,South Beach/Dongan Hills,7,9
+Staten Island,South Beach/Dongan Hills,8,8
+Staten Island,South Beach/Dongan Hills,9,2
+Staten Island,South Beach/Dongan Hills,10,1
+Staten Island,South Beach/Dongan Hills,11,3
+Staten Island,South Beach/Dongan Hills,12,4
+Staten Island,South Beach/Dongan Hills,13,2
+Staten Island,South Beach/Dongan Hills,14,6
+Staten Island,South Beach/Dongan Hills,15,4
+Staten Island,South Beach/Dongan Hills,16,3
+Staten Island,South Beach/Dongan Hills,17,2
+Staten Island,South Beach/Dongan Hills,18,3
+Staten Island,South Beach/Dongan Hills,19,3
+Staten Island,South Beach/Dongan Hills,20,5
+Staten Island,South Beach/Dongan Hills,21,2
+Staten Island,South Beach/Dongan Hills,22,4
+Staten Island,South Beach/Dongan Hills,23,6
+Staten Island,Stapleton,0,2
+Staten Island,Stapleton,1,2
+Staten Island,Stapleton,3,1
+Staten Island,Stapleton,4,2
+Staten Island,Stapleton,5,2
+Staten Island,Stapleton,6,8
+Staten Island,Stapleton,7,51
+Staten Island,Stapleton,8,11
+Staten Island,Stapleton,10,2
+Staten Island,Stapleton,11,4
+Staten Island,Stapleton,12,2
+Staten Island,Stapleton,13,2
+Staten Island,Stapleton,14,3
+Staten Island,Stapleton,15,1
+Staten Island,Stapleton,16,1
+Staten Island,Stapleton,18,1
+Staten Island,Stapleton,19,1
+Staten Island,Stapleton,20,2
+Staten Island,Stapleton,21,4
+Staten Island,Stapleton,22,5
+Staten Island,Stapleton,23,5
+Staten Island,West Brighton,0,1
+Staten Island,West Brighton,1,1
+Staten Island,West Brighton,3,1
+Staten Island,West Brighton,5,1
+Staten Island,West Brighton,6,2
+Staten Island,West Brighton,7,2
+Staten Island,West Brighton,8,1
+Staten Island,West Brighton,12,1
+Staten Island,West Brighton,13,1
+Staten Island,West Brighton,15,1
+Staten Island,West Brighton,20,2
+Staten Island,West Brighton,21,3
+Staten Island,Westerleigh,0,1
+Staten Island,Westerleigh,1,1
+Staten Island,Westerleigh,5,6
+Staten Island,Westerleigh,6,4
+Staten Island,Westerleigh,7,4
+Staten Island,Westerleigh,8,2
+Staten Island,Westerleigh,13,1
+Staten Island,Westerleigh,15,1
+Staten Island,Westerleigh,19,1
+Staten Island,Westerleigh,20,3
+Staten Island,Westerleigh,21,1
+Staten Island,Westerleigh,22,1
+Staten Island,Westerleigh,23,1
+Unknown,N/A,0,494
+Unknown,N/A,1,336
+Unknown,N/A,2,216
+Unknown,N/A,3,110
+Unknown,N/A,4,84
+Unknown,N/A,5,122
+Unknown,N/A,6,428
+Unknown,N/A,7,832
+Unknown,N/A,8,988
+Unknown,N/A,9,997
+Unknown,N/A,10,989
+Unknown,N/A,11,1072
+Unknown,N/A,12,1176
+Unknown,N/A,13,1258
+Unknown,N/A,14,1513
+Unknown,N/A,15,1414
+Unknown,N/A,16,1331
+Unknown,N/A,17,1439
+Unknown,N/A,18,1465
+Unknown,N/A,19,1245
+Unknown,N/A,20,1140
+Unknown,N/A,21,1142
+Unknown,N/A,22,986
+Unknown,N/A,23,728

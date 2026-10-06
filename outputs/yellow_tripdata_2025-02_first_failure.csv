@@ -1,0 +1,10 @@
+file,first_failing_rule,records,pct_of_study_period
+yellow_tripdata_2025-02.parquet,valid,3296545,92.15
+yellow_tripdata_2025-02.parquet,negative_fare,163551,4.57
+yellow_tripdata_2025-02.parquet,zero_distance,75525,2.11
+yellow_tripdata_2025-02.parquet,short_duration_under_1_min,35077,0.98
+yellow_tripdata_2025-02.parquet,zero_or_negative_duration,5164,0.14
+yellow_tripdata_2025-02.parquet,long_duration_over_180_min,1301,0.04
+yellow_tripdata_2025-02.parquet,negative_total_amount,179,0.01
+yellow_tripdata_2025-02.parquet,distance_over_100_miles,159,0.0
+yellow_tripdata_2025-02.parquet,fare_over_500,11,0.0
