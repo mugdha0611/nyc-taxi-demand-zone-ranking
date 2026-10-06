@@ -6,7 +6,7 @@ rank pickup zones by historical gross passenger-spend opportunity.
 
 ## 🚀 Live Demo
 
-**[Open the Interactive Streamlit Dashboard](YOUR_STREAMLIT_APP_URL)**
+**[Open the Interactive Streamlit Dashboard](https://nyc-taxi-demand-zone-ranking-fcstgpdk57j7qjhzbpdsp2.streamlit.app/)**
 
 Explore:
 - 📊 NYC taxi demand and zone-level analytics
