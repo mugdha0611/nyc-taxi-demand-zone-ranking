@@ -1,6 +1,37 @@
-# NYC TLC Trip Analytics & Demand Forecasting
+# NYC Taxi Demand Forecasting & Pickup-Zone Ranking
 
-A reproducible analytics project using NYC Taxi & Limousine Commission (TLC) Yellow Taxi trip records.
+An end-to-end data science project using 10.35M NYC Yellow Taxi trips from
+January–March 2025 to analyze demand patterns, forecast hourly demand, and
+rank pickup zones by historical gross passenger-spend opportunity.
+
+## 🚀 Live Demo
+
+**[Open the Interactive Streamlit Dashboard](YOUR_STREAMLIT_APP_URL)**
+
+Explore:
+- 📊 NYC taxi demand and zone-level analytics
+- 🔮 Hourly demand forecasting
+- 🏆 Pickup-zone ranking and offline model evaluation
+- 🚕 Personalized Driver Opportunity Explorer
+- 📈 Historical demand patterns by hour, day type, and zone
+
+> **Note:** The dashboard analyzes Yellow Taxi data only. Opportunity scores
+> represent gross passenger-spend opportunity, not driver earnings or profit.
+> The dataset does not observe driver supply, competition, wait times,
+> trip acceptance, deadhead distance, or operating costs.
+
+## 📌 Key Results
+
+| Metric | Result |
+|---|---:|
+| Raw trips analyzed | 11.2M |
+| Clean trips retained | 10.35M |
+| Study period | Jan–Mar 2025 |
+| Demand forecast WAPE | 6.75% (next hour) |
+| 24-hour forecast WAPE | 8.90% |
+| Best baseline NDCG@10 | 0.825 |
+| Learned ranker NDCG@10 | **0.967** |
+| Learned ranker Precision@10 | **82.6%** |
 
 ## Objective
 
